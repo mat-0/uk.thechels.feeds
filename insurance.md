@@ -8,7 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Protecting Drivers and Getting the Truth on Tape – What’s Brewing Podcast (Season 2 | Episode 17) ([9 hours ago](https://www.insurancejournal.com/blogs/iat/2025/11/23/847992.htm))
+- From coverage to confidence: Building long-term client loyalty in a distracted world ([just now](https://www.dig-in.com/opinion/building-long-term-client-loyalty-in-a-distracted-world))
+- Protecting Drivers and Getting the Truth on Tape – What’s Brewing Podcast (Season 2 | Episode 17) ([10 hours ago](https://www.insurancejournal.com/blogs/iat/2025/11/23/847992.htm))
 - Comments On FCA Transaction Reporting Proposals ([1 days ago](https://insurance-edge.net/2025/11/21/comments-on-fca-transaction-reporting-proposals/))
 - CTSI Calls For More Trading Standards Funding ([2 days ago](https://insurance-edge.net/2025/11/21/ctsi-calls-for-more-trading-standards-funding/))
 - 5 Crucial Features to Look for in a Contract Management Platform ([2 days ago](https://insurance-edge.net/2025/11/21/5-crucial-features-to-look-for-in-a-contract-management-platform/))
@@ -93,7 +94,7 @@ description: Insurance Updates
 - Mylo's Belen Tokarski sees leadership as 'confident humility' ([3 days ago](https://www.dig-in.com/news/mylos-belen-tokarski-calls-leadership-confident-humility))
 - Chubb launches AI embedded engine; Trucordia acquires 5: Insurance news ([3 days ago](https://www.dig-in.com/news/chubb-launches-ai-embedded-engine-trucordia-acquires-5-insurance-news))
 - Surge-proofing insurance: The new playbook for catastrophic readiness ([3 days ago](https://www.dig-in.com/opinion/surge-proofing-insurance-and-catastrophic-readiness))
-- Lloyd's launches investigation after AIG drops John Neal over alleged workplace relationship ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lloyds-launches-investigation-after-aig-drops-john-neal-over-alleged-workplace-relationship-557190.aspx))
+- Lloyd's launches investigation after AIG drops John Neal over alleged workplace relationship ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lloyds-launches-investigation-after-aig-drops-john-neal-over-alleged-workplace-relationship-557190.aspx))
 - 'Digital friction' impacting employee efficiency ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/digital-friction-impacting-employee-efficiency-557164.aspx))
 - Focusing on growth: Strategies for Chief Operating Officers ([4 days ago](https://www.dig-in.com/podcast/focusing-on-growth-strategies-for-coos))
 - Ripe enters holiday homes market with Schofields acquisition ([4 days ago](https://www.postonline.co.uk/news/7959411/ripe-enters-holiday-homes-market-with-schofields-acquisition))
@@ -119,7 +120,6 @@ description: Insurance Updates
 - Big Interview: Simon McGinn, CEO of Dual UK ([5 days ago](https://www.postonline.co.uk/commercial/7959275/big-interview-simon-mcginn-ceo-of-dual-uk))
 - Why insurance is still a people business ([5 days ago](https://www.postonline.co.uk/broker/7959364/why-insurance-is-still-a-people-business))
 - Howden buys Church of Scotland insurance scheme ([5 days ago](https://www.postonline.co.uk/commercial/7959404/howden-buys-church-of-scotland-insurance-scheme))
-- Travelers Institute: How aerial imagery and geospatial data have transformed property insurance ([5 days ago](https://www.dig-in.com/news/aerial-imagery-geospatial-data-in-property-insurance))
 - Post-VIP Roundtable Thoughts: Unpacking the (false) paradox of efficiency vs experience trade offs in insurance by Rory Yates ([17 days ago](https://www.insurtechinsights.com/post-vip-roundtable-thoughts-unpacking-the-false-paradox-of-efficiency-vs-experience-trade-offs-in-insurance-by-rory-yates/))
 - Zurich Strengthens Its Fraud Defences with Quantexa Real-Time AI, Connecting Industry-Wide Claims Data ([17 days ago](https://www.insurtechinsights.com/zurich-strengthens-its-fraud-defences-with-quantexa-real-time-ai-connecting-industry-wide-claims-data-2/))
 - Allianz Joins The Spark as Member; Sirma Boshnakova Appointed to Global Advisory Board ([17 days ago](https://www.insurtechinsights.com/allianz-joins-the-spark-as-member-sirma-boshnakova-appointed-to-global-advisory-board/))

@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Defensive Programming Rule #5: Let the Compiler Work for You — Harness the Power of Type Checking ([12 hours ago](https://dotnettips.wordpress.com/2025/11/23/defensive-programming-rule-5-let-the-compiler-work-for-you-harness-the-power-of-type-checking/))
+- Defensive Programming Rule #5: Let the Compiler Work for You — Harness the Power of Type Checking ([13 hours ago](https://dotnettips.wordpress.com/2025/11/23/defensive-programming-rule-5-let-the-compiler-work-for-you-harness-the-power-of-type-checking/))
 - F# Weekly #47, 2025 - F# 10 &amp; last #FsAdvent slots ([15 hours ago](https://dotnetkicks.com/r/735486?url=https://sergeytihon.com/2025/11/22/f-weekly-47-2025-f-10-last-fsadvent-slots/))
-- How To Automate Azure Naming Conventions With The Build5Nines/naming/azure Terraform Module  -  Build5Nines ([15 hours ago](https://dotnetkicks.com/r/735468?url=https://build5nines.com/how-to-automate-azure-naming-conventions-with-the-build5nines-naming-azure-terraform-module/))
-- Infinite scale: The architecture behind the Azure AI superfactory - The Official Microsoft Blog ([16 hours ago](https://dotnetkicks.com/r/735456?url=https://blogs.microsoft.com/blog/2025/11/12/infinite-scale-the-architecture-behind-the-azure-ai-superfactory/))
+- How To Automate Azure Naming Conventions With The Build5Nines/naming/azure Terraform Module  -  Build5Nines ([16 hours ago](https://dotnetkicks.com/r/735468?url=https://build5nines.com/how-to-automate-azure-naming-conventions-with-the-build5nines-naming-azure-terraform-module/))
+- Infinite scale: The architecture behind the Azure AI superfactory - The Official Microsoft Blog ([17 hours ago](https://dotnetkicks.com/r/735456?url=https://blogs.microsoft.com/blog/2025/11/12/infinite-scale-the-architecture-behind-the-azure-ai-superfactory/))
 - How Do You Fix 70% Data Loss Across 1 Million Concurrent Connections? ([1 days ago](https://dotnetkicks.com/r/735453?url=https://petabridge.com/blog/why-buy-akka.net-support-2025/))
 - Reinventing how .NET Builds and Ships (Again) - .NET Blog ([3 days ago](https://dotnetkicks.com/r/735363?url=https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/))
 - Reinventing how .NET Builds and Ships (Again) ([3 days ago](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/))
@@ -52,7 +52,7 @@ description: DotNet Updates
 - .NET and .NET Framework November 2025 servicing releases updates - .NET Blog ([12 days ago](https://dotnetkicks.com/r/734693?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/))
 - Announcing .NET 10 ([12 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/))
 - .NET and .NET Framework November 2025 servicing releases updates ([12 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/))
-- dotNetDave Rocks Austin .NET User Group November 2025 Meeting ([12 days ago](https://dotnettips.wordpress.com/2025/11/10/dotnetdave-rocks-austin-net-user-group-november-2025-meeting/))
+- dotNetDave Rocks Austin .NET User Group November 2025 Meeting ([13 days ago](https://dotnettips.wordpress.com/2025/11/10/dotnetdave-rocks-austin-net-user-group-november-2025-meeting/))
 - Defensive Programming Rule #3: Validate Your Enums (Every Time) ([14 days ago](https://dotnettips.wordpress.com/2025/11/09/defensive-programming-rule-3-validate-your-enums-every-time/))
 - How Copilot Studio uses .NET and WebAssembly for performance and innovation ([18 days ago](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/))
 - The Rider 2025.3 Release Candidate Is Now Available ([18 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-rider-2025-3-release-candidate/))
