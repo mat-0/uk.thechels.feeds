@@ -8,13 +8,13 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- ADDA - 1,829,314 breached accounts ([1 hours ago](https://haveibeenpwned.com/Breach/ADDA))
-- WhatsApp API flaw let researchers scrape 3.5 billion accounts ([7 hours ago](https://www.bleepingcomputer.com/news/security/whatsapp-api-flaw-let-researchers-scrape-35-billion-accounts/))
-- China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services ([11 hours ago](https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html))
-- Cox Enterprises discloses Oracle E-Business Suite data breach ([11 hours ago](https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/))
+- ADDA - 1,829,314 breached accounts ([2 hours ago](https://haveibeenpwned.com/Breach/ADDA))
+- WhatsApp API flaw let researchers scrape 3.5 billion accounts ([8 hours ago](https://www.bleepingcomputer.com/news/security/whatsapp-api-flaw-let-researchers-scrape-35-billion-accounts/))
+- China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services ([12 hours ago](https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html))
+- Cox Enterprises discloses Oracle E-Business Suite data breach ([12 hours ago](https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/))
 - Piecing Together the Puzzle: A Qilin Ransomware Investigation ([13 hours ago](https://www.bleepingcomputer.com/news/security/piecing-together-the-puzzle-a-qilin-ransomware-investigation/))
 - It's TEE time for Brave's AI assistant Leo ([15 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/11/22/brave_leo_trusted_execution_environment/))
-- Matrix Push C2 Uses Browser Notifications for Fileless, Cross-Platform Phishing Attacks ([19 hours ago](https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html))
+- Matrix Push C2 Uses Browser Notifications for Fileless, Cross-Platform Phishing Attacks ([20 hours ago](https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html))
 - CISA Warns of Actively Exploited Critical Oracle Identity Manager Zero-Day Vulnerability ([20 hours ago](https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html))
 - CISA warns Oracle Identity Manager RCE flaw is being actively exploited ([1 days ago](https://www.bleepingcomputer.com/news/security/cisa-warns-oracle-identity-manager-rce-flaw-is-being-actively-exploited/))
 - Researchers get inside the mind of bots, find out what texts they trained on ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/21/researchers_better_ai_model_memory_probe/))
