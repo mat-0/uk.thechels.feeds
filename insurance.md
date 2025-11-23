@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Protecting Drivers and Getting the Truth on Tape – What’s Brewing Podcast (Season 2 | Episode 17) ([8 hours ago](https://www.insurancejournal.com/blogs/iat/2025/11/23/847992.htm))
+- Protecting Drivers and Getting the Truth on Tape – What’s Brewing Podcast (Season 2 | Episode 17) ([9 hours ago](https://www.insurancejournal.com/blogs/iat/2025/11/23/847992.htm))
 - Comments On FCA Transaction Reporting Proposals ([1 days ago](https://insurance-edge.net/2025/11/21/comments-on-fca-transaction-reporting-proposals/))
 - CTSI Calls For More Trading Standards Funding ([1 days ago](https://insurance-edge.net/2025/11/21/ctsi-calls-for-more-trading-standards-funding/))
 - 5 Crucial Features to Look for in a Contract Management Platform ([1 days ago](https://insurance-edge.net/2025/11/21/5-crucial-features-to-look-for-in-a-contract-management-platform/))
