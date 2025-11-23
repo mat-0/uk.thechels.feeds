@@ -10,9 +10,9 @@ description: Insurance Updates
 <!-- news_marker starts -->
 - Protecting Drivers and Getting the Truth on Tape – What’s Brewing Podcast (Season 2 | Episode 17) ([9 hours ago](https://www.insurancejournal.com/blogs/iat/2025/11/23/847992.htm))
 - Comments On FCA Transaction Reporting Proposals ([1 days ago](https://insurance-edge.net/2025/11/21/comments-on-fca-transaction-reporting-proposals/))
-- CTSI Calls For More Trading Standards Funding ([1 days ago](https://insurance-edge.net/2025/11/21/ctsi-calls-for-more-trading-standards-funding/))
-- 5 Crucial Features to Look for in a Contract Management Platform ([1 days ago](https://insurance-edge.net/2025/11/21/5-crucial-features-to-look-for-in-a-contract-management-platform/))
-- Copart UK Wins People Appreciation Award ([1 days ago](https://insurance-edge.net/2025/11/21/copart-uk-wins-people-appreciation-award/))
+- CTSI Calls For More Trading Standards Funding ([2 days ago](https://insurance-edge.net/2025/11/21/ctsi-calls-for-more-trading-standards-funding/))
+- 5 Crucial Features to Look for in a Contract Management Platform ([2 days ago](https://insurance-edge.net/2025/11/21/5-crucial-features-to-look-for-in-a-contract-management-platform/))
+- Copart UK Wins People Appreciation Award ([2 days ago](https://insurance-edge.net/2025/11/21/copart-uk-wins-people-appreciation-award/))
 - It's only rock and roll (but I like it) ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/its-only-rock-and-roll-but-i-like-it-557493.aspx))
 - People Moves: TMK Taps Beresford From CNA Hardy as Life Sciences U/W; Hampden Risk Partners Promotes D’Alessandro as Active U/W, Replacing Sharp ([2 days ago](https://www.insurancejournal.com/news/international/2025/11/21/848695.htm))
 - Strengthen Oklahoma Homes Program to Expand Statewide by 2026 ([2 days ago](https://www.insurancejournal.com/news/southcentral/2025/11/21/848691.htm))
@@ -130,6 +130,6 @@ description: Insurance Updates
 - Amwins Launches Cyber+ to Address SME Cyber Insurance Gaps ([24 days ago](https://www.insurtechinsights.com/amwins-launches-cyber-to-address-sme-cyber-insurance-gaps/))
 - Zurich Launches AI Lab ([24 days ago](https://www.insurtechinsights.com/zurich-launches-ai-lab/))
 - Acrisure Appoints Benjamin Funk as Chief Technology and Chief AI Officer ([24 days ago](https://www.insurtechinsights.com/acrisure-appoints-benjamin-funk-as-chief-technology-and-chief-ai-officer/))
-- Pyq Launches ‘Mulligan’ Platform to Automate Commercial Insurance Operations ([24 days ago](https://thefintechtimes.com/pyq-launches-mulligan-platform-to-automate-commercial-insurance-operations/))
+- Pyq Launches ‘Mulligan’ Platform to Automate Commercial Insurance Operations ([25 days ago](https://thefintechtimes.com/pyq-launches-mulligan-platform-to-automate-commercial-insurance-operations/))
 
 <!-- news_marker ends -->
