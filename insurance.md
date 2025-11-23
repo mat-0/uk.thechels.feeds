@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Protecting Drivers and Getting the Truth on Tape – What’s Brewing Podcast (Season 2 | Episode 17) ([6 hours ago](https://www.insurancejournal.com/blogs/iat/2025/11/23/847992.htm))
+- Protecting Drivers and Getting the Truth on Tape – What’s Brewing Podcast (Season 2 | Episode 17) ([7 hours ago](https://www.insurancejournal.com/blogs/iat/2025/11/23/847992.htm))
 - Comments On FCA Transaction Reporting Proposals ([1 days ago](https://insurance-edge.net/2025/11/21/comments-on-fca-transaction-reporting-proposals/))
 - CTSI Calls For More Trading Standards Funding ([1 days ago](https://insurance-edge.net/2025/11/21/ctsi-calls-for-more-trading-standards-funding/))
 - 5 Crucial Features to Look for in a Contract Management Platform ([1 days ago](https://insurance-edge.net/2025/11/21/5-crucial-features-to-look-for-in-a-contract-management-platform/))
@@ -16,8 +16,8 @@ description: Insurance Updates
 - It's only rock and roll (but I like it) ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/its-only-rock-and-roll-but-i-like-it-557493.aspx))
 - People Moves: TMK Taps Beresford From CNA Hardy as Life Sciences U/W; Hampden Risk Partners Promotes D’Alessandro as Active U/W, Replacing Sharp ([1 days ago](https://www.insurancejournal.com/news/international/2025/11/21/848695.htm))
 - Strengthen Oklahoma Homes Program to Expand Statewide by 2026 ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/11/21/848691.htm))
-- European and US P&C markets heading towards “progressively softer” environment: Autonomous ([1 days ago](https://www.reinsurancene.ws/european-and-us-pc-markets-heading-towards-progressively-softer-environment-autonomous/))
-- Tokio Marine Holdings to Acquire Illinois-Based Commodity & Ingredient Hedging ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/11/21/848681.htm))
+- European and US P&C markets heading towards “progressively softer” environment: Autonomous ([2 days ago](https://www.reinsurancene.ws/european-and-us-pc-markets-heading-towards-progressively-softer-environment-autonomous/))
+- Tokio Marine Holdings to Acquire Illinois-Based Commodity & Ingredient Hedging ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/11/21/848681.htm))
 - Sea Level Rise Threatens Thousands of US Hazardous Sites, Study Finds ([2 days ago](https://www.insurancejournal.com/news/national/2025/11/21/848671.htm))
 - Gallagher Re Chairman Paddy Jago to retire in 2026 ([2 days ago](https://www.reinsurancene.ws/gallagher-re-chairman-paddy-jago-to-retire-in-2026/))
 - Marine insurance sector and advisory body form education partnership ([2 days ago](https://www.insurancebusinessmag.com/uk/news/marine/marine-insurance-sector-and-advisory-body-form-education-partnership-557468.aspx))
