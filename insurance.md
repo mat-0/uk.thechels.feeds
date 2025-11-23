@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Protecting Drivers and Getting the Truth on Tape – What’s Brewing Podcast (Season 2 | Episode 17) ([37 minutes ago](https://www.insurancejournal.com/blogs/iat/2025/11/23/847992.htm))
+- Protecting Drivers and Getting the Truth on Tape – What’s Brewing Podcast (Season 2 | Episode 17) ([1 hours ago](https://www.insurancejournal.com/blogs/iat/2025/11/23/847992.htm))
 - Comments On FCA Transaction Reporting Proposals ([1 days ago](https://insurance-edge.net/2025/11/21/comments-on-fca-transaction-reporting-proposals/))
 - CTSI Calls For More Trading Standards Funding ([1 days ago](https://insurance-edge.net/2025/11/21/ctsi-calls-for-more-trading-standards-funding/))
 - 5 Crucial Features to Look for in a Contract Management Platform ([1 days ago](https://insurance-edge.net/2025/11/21/5-crucial-features-to-look-for-in-a-contract-management-platform/))
@@ -43,8 +43,8 @@ description: Insurance Updates
 - International Underwriting Association launches environmental insurance career campaign ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/international-underwriting-association-launches-environmental-insurance-career-campaign-557423.aspx))
 - Silent Cyber Threats: How ‘Shadow AI’ Could Undermine Digital Health Defenses ([1 days ago](https://www.insurancejournal.com/news/international/2025/11/21/848596.htm))
 - Freight crime rise puts forwarders under greater credit risk ([1 days ago](https://www.insurancebusinessmag.com/uk/news/marine/freight-crime-rise-puts-forwarders-under-greater-credit-risk-557421.aspx))
-- Insurance broker jailed after pocketing customer payments ([1 days ago](https://www.postonline.co.uk/news/7959427/insurance-broker-jailed-after-pocketing-customer-payments))
-- Gallagher Re appoints Parrus Kunvarji as Executive Director, Customised Solutions, APAC ([1 days ago](https://www.reinsurancene.ws/gallagher-re-appoints-parrus-kunvarji-as-executive-director-customised-solutions-apac/))
+- Insurance broker jailed after pocketing customer payments ([2 days ago](https://www.postonline.co.uk/news/7959427/insurance-broker-jailed-after-pocketing-customer-payments))
+- Gallagher Re appoints Parrus Kunvarji as Executive Director, Customised Solutions, APAC ([2 days ago](https://www.reinsurancene.ws/gallagher-re-appoints-parrus-kunvarji-as-executive-director-customised-solutions-apac/))
 - Diot-Siaci completes new ownership structure ([2 days ago](https://www.reinsurancene.ws/diot-siaci-completes-new-ownership-structure/))
 - Ex-Lloyd’s CEO Lost $17 Million AIG Job After Office Romance ([2 days ago](https://www.insurancejournal.com/news/international/2025/11/21/848581.htm))
 - Viewpoint: Sins of Policy Interpretation. A Call to Repentance ([2 days ago](https://www.insurancejournal.com/news/national/2025/11/21/848548.htm))
