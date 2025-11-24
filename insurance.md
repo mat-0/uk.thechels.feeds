@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Insurance asset managers start exploring stablecoins ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-asset-managers-start-exploring-stablecoins-557538.aspx))
-- Insurance premium tax hits £5.52B amid calls for reform on health cover ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-premium-tax-hits-5-52b-amid-calls-for-reform-on-health-cover-557537.aspx))
+- Insurance asset managers start exploring stablecoins ([2 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-asset-managers-start-exploring-stablecoins-557538.aspx))
+- Insurance premium tax hits £5.52B amid calls for reform on health cover ([2 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-premium-tax-hits-5-52b-amid-calls-for-reform-on-health-cover-557537.aspx))
 - Industry leaders warn Chancellor against pension salary sacrifice cap ([2 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/industry-leaders-warn-chancellor-against-pension-salary-sacrifice-cap-557536.aspx))
-- Authorities launch crackdown on uninsured drivers in South Yorkshire ([2 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/authorities-launch-crackdown-on-uninsured-drivers-in-south-yorkshire-557534.aspx))
+- Authorities launch crackdown on uninsured drivers in South Yorkshire ([3 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/authorities-launch-crackdown-on-uninsured-drivers-in-south-yorkshire-557534.aspx))
 - 2025 WIL Next: Waika Embry ([7 hours ago](https://www.dig-in.com/news/2025-wil-next-waika-embry))
 - Building resilience in an age of accelerating risk ([8 hours ago](https://www.dig-in.com/opinion/building-resilience-in-an-age-of-accelerating-risk))
 - From coverage to confidence: Building long-term client loyalty in a distracted world ([8 hours ago](https://www.dig-in.com/opinion/building-long-term-client-loyalty-in-a-distracted-world))
