@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET Day on Agentic Modernization Coming Soon - .NET Blog ([23 minutes ago](https://dotnetkicks.com/r/735622?url=https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
-- The Worst Security Vulnerability in Akka.NET - And How to Fix It ([35 minutes ago](https://dotnetkicks.com/r/735620?url=https://petabridge.com/blog/akka-net-tls-vulnerability/))
-- .NET Day on Agentic Modernization Coming Soon ([35 minutes ago](https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
+- .NET Day on Agentic Modernization Coming Soon - .NET Blog ([55 minutes ago](https://dotnetkicks.com/r/735622?url=https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
+- The Worst Security Vulnerability in Akka.NET - And How to Fix It ([1 hours ago](https://dotnetkicks.com/r/735620?url=https://petabridge.com/blog/akka-net-tls-vulnerability/))
+- .NET Day on Agentic Modernization Coming Soon ([1 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
 - Exploring the .NET boot process via host tracing ([1 days ago](https://dotnetkicks.com/r/735596?url=https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
 - Exploring the .NET boot process via host tracing ([1 days ago](https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
 - Minimal APIs, CQRS, DDD... Or Just Use Controllers? ([1 days ago](https://dotnetkicks.com/r/735555?url=https://codeopinion.com/minimal-apis-cqrs-ddd-or-just-use-controllers/))
@@ -23,7 +23,7 @@ description: DotNet Updates
 - Reinventing how .NET Builds and Ships (Again) - .NET Blog ([6 days ago](https://dotnetkicks.com/r/735363?url=https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/))
 - Reinventing how .NET Builds and Ships (Again) ([6 days ago](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/))
 - More Updates and Fixes for ReSharper and Rider 2025.3 ([6 days ago](https://blog.jetbrains.com/dotnet/2025/11/20/resharper-rider-2025-3-0-2/))
-- Defensive Technology: Ransomware Data Recovery ([6 days ago](https://dotnetkicks.com/r/735294?url=https://textslashplain.com/2025/11/19/defensive-technology-ransomware-data-recovery/))
+- Defensive Technology: Ransomware Data Recovery ([7 days ago](https://dotnetkicks.com/r/735294?url=https://textslashplain.com/2025/11/19/defensive-technology-ransomware-data-recovery/))
 - Supercharge Your Test Coverage with GitHub Copilot Testing for .NET - .NET Blog ([7 days ago](https://dotnetkicks.com/r/735284?url=https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/))
 - Supercharge Your Test Coverage with GitHub Copilot Testing for .NET ([7 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/))
 - A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode - .NET Blog ([8 days ago](https://dotnetkicks.com/r/735216?url=https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/))
