@@ -8,9 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- ReSharper and Rider 2025.3.0.3: A Fresh Set of Updates Released ([27 minutes ago](https://blog.jetbrains.com/dotnet/2025/11/27/resharper-and-rider-2025-3-0-3/))
 - Terraform + Azure Multi-Region Naming Convention Across Azure Regions, Resources, And Terraform Modules  -  Build5Nines ([8 hours ago](https://dotnetkicks.com/r/735658?url=https://build5nines.com/terraform-azure-multi-region-naming-convention-across-azure-regions-resources-and-terraform-modules/))
-- .NET Day on Agentic Modernization Coming Soon - .NET Blog ([16 hours ago](https://dotnetkicks.com/r/735622?url=https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
+- .NET Day on Agentic Modernization Coming Soon - .NET Blog ([17 hours ago](https://dotnetkicks.com/r/735622?url=https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
 - The Worst Security Vulnerability in Akka.NET - And How to Fix It ([17 hours ago](https://dotnetkicks.com/r/735620?url=https://petabridge.com/blog/akka-net-tls-vulnerability/))
 - .NET Day on Agentic Modernization Coming Soon ([17 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
 - Exploring the .NET boot process via host tracing ([2 days ago](https://dotnetkicks.com/r/735596?url=https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
@@ -39,10 +38,10 @@ description: DotNet Updates
 - Introducing C# 14 - .NET Blog ([9 days ago](https://dotnetkicks.com/r/735110?url=https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
 - Introducing F# 10 ([9 days ago](https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/))
 - Introducing C# 14 ([9 days ago](https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
-- Database Features in Rider ([9 days ago](https://blog.jetbrains.com/dotnet/2025/11/17/database-features-in-rider/))
+- Database Features in Rider ([10 days ago](https://blog.jetbrains.com/dotnet/2025/11/17/database-features-in-rider/))
 - Defensive Programming Rule #4: Safe and Efficient Type Casting ([11 days ago](https://dotnettips.wordpress.com/2025/11/16/defensive-programming-rule-4-safe-and-efficient-type-casting/))
 - JetBrains Is Heading to VSLive! Orlando ([12 days ago](https://blog.jetbrains.com/dotnet/2025/11/15/jetbrains-is-heading-to-vslive-orlando/))
-- Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows - Visual Studio Blog ([12 days ago](https://dotnetkicks.com/r/735014?url=https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/))
+- Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows - Visual Studio Blog ([13 days ago](https://dotnetkicks.com/r/735014?url=https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/))
 - Latest progress update on Microsoft's Secure Future Initiative  -  Microsoft Security Blog ([13 days ago](https://dotnetkicks.com/r/734962?url=https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/))
 - A first look at the all‑new UX in Visual Studio 2026 - Visual Studio Blog ([13 days ago](https://dotnetkicks.com/r/734933?url=https://devblogs.microsoft.com/visualstudio/a-first-look-at-the-all%E2%80%91new-ux-in-visual-studio-2026/))
 - Introducing Copilot auto model selection (preview) - Visual Studio Blog ([14 days ago](https://dotnetkicks.com/r/734911?url=https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/))
@@ -61,6 +60,7 @@ description: DotNet Updates
 - The Rider 2025.3 Release Candidate Is Now Available ([21 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-rider-2025-3-release-candidate/))
 - The ReSharper, .NET Tools, and ReSharper C++ 2025.3 Release Candidates Are Now Available ([21 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-resharper-dotnet-tools-2025-3-release-candidate/))
 - dotInsights  -  November 2025 ([22 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/dotinsights-november-2025/))
+- Taming the Billion Dollar Mistake: Maarten Balliauw’s Guide to C# Nullable Reference Types ([23 days ago](https://blog.jetbrains.com/dotnet/2025/11/04/maarten-balliauws-guide-to-csharp-nullable-reference-types/))
 - Easier reflection with [UnsafeAccessorType] in .NET 10: Exploring the .NET 10 preview - Part 9 ([23 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-9-easier-reflection-with-unsafeaccessortype/))
 - Defensive Programming Rule #2: Always Validate Method Parameters ([25 days ago](https://dotnettips.wordpress.com/2025/11/02/defensive-programming-rule-2-always-validate-method-parameters/))
 
