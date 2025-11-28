@@ -8,13 +8,13 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- ReSharper and Rider 2025.3.0.3: A Fresh Set of Updates Released ([19 hours ago](https://blog.jetbrains.com/dotnet/2025/11/27/resharper-and-rider-2025-3-0-3/))
+- ReSharper and Rider 2025.3.0.3: A Fresh Set of Updates Released ([20 hours ago](https://blog.jetbrains.com/dotnet/2025/11/27/resharper-and-rider-2025-3-0-3/))
 - Terraform + Azure Multi-Region Naming Convention Across Azure Regions, Resources, And Terraform Modules  -  Build5Nines ([1 days ago](https://dotnetkicks.com/r/735658?url=https://build5nines.com/terraform-azure-multi-region-naming-convention-across-azure-regions-resources-and-terraform-modules/))
 - .NET Day on Agentic Modernization Coming Soon - .NET Blog ([1 days ago](https://dotnetkicks.com/r/735622?url=https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
 - The Worst Security Vulnerability in Akka.NET - And How to Fix It ([1 days ago](https://dotnetkicks.com/r/735620?url=https://petabridge.com/blog/akka-net-tls-vulnerability/))
 - .NET Day on Agentic Modernization Coming Soon ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
 - Exploring the .NET boot process via host tracing ([2 days ago](https://dotnetkicks.com/r/735596?url=https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
-- Exploring the .NET boot process via host tracing ([2 days ago](https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
+- Exploring the .NET boot process via host tracing ([3 days ago](https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
 - Minimal APIs, CQRS, DDD... Or Just Use Controllers? ([3 days ago](https://dotnetkicks.com/r/735555?url=https://codeopinion.com/minimal-apis-cqrs-ddd-or-just-use-controllers/))
 - Visual Studio - Built for the Speed of Modern Development - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/735523?url=https://devblogs.microsoft.com/visualstudio/visual-studio-built-for-the-speed-of-modern-development/))
 - Defensive Programming Rule #5: Let the Compiler Work for You — Harness the Power of Type Checking ([5 days ago](https://dotnettips.wordpress.com/2025/11/23/defensive-programming-rule-5-let-the-compiler-work-for-you-harness-the-power-of-type-checking/))
@@ -34,7 +34,7 @@ description: DotNet Updates
 - Post-Quantum Cryptography in .NET - .NET Blog ([9 days ago](https://dotnetkicks.com/r/735188?url=https://devblogs.microsoft.com/dotnet/post-quantum-cryptography-in-dotnet/))
 - Ignite 2025: Furthering Windows as the premier platform for developers, governed by security ([9 days ago](https://dotnetkicks.com/r/735173?url=https://blogs.windows.com/windowsdeveloper/2025/11/18/ignite-2025-furthering-windows-as-the-premier-platform-for-developers-governed-by-security/))
 - Post-Quantum Cryptography in .NET ([9 days ago](https://devblogs.microsoft.com/dotnet/post-quantum-cryptography-in-dotnet/))
-- Companies complaining .NET moves too fast should just pay for post-EOL support ([9 days ago](https://andrewlock.net/companies-using-dotnet-need-to-suck-it-up-and-pay-for-support/))
+- Companies complaining .NET moves too fast should just pay for post-EOL support ([10 days ago](https://andrewlock.net/companies-using-dotnet-need-to-suck-it-up-and-pay-for-support/))
 - Implement forgot your password using swiyu, ASP.NET Core Identity and Aspire ([10 days ago](https://dotnetkicks.com/r/735160?url=https://damienbod.com/2025/11/17/implement-forgot-your-password-using-swiyu-asp-net-core-identity-and-aspire/))
 - Introducing C# 14 - .NET Blog ([10 days ago](https://dotnetkicks.com/r/735110?url=https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
 - Introducing F# 10 ([10 days ago](https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/))
@@ -61,7 +61,7 @@ description: DotNet Updates
 - The Rider 2025.3 Release Candidate Is Now Available ([22 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-rider-2025-3-release-candidate/))
 - The ReSharper, .NET Tools, and ReSharper C++ 2025.3 Release Candidates Are Now Available ([22 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-resharper-dotnet-tools-2025-3-release-candidate/))
 - dotInsights  -  November 2025 ([22 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/dotinsights-november-2025/))
-- Easier reflection with [UnsafeAccessorType] in .NET 10: Exploring the .NET 10 preview - Part 9 ([23 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-9-easier-reflection-with-unsafeaccessortype/))
+- Easier reflection with [UnsafeAccessorType] in .NET 10: Exploring the .NET 10 preview - Part 9 ([24 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-9-easier-reflection-with-unsafeaccessortype/))
 - Defensive Programming Rule #2: Always Validate Method Parameters ([26 days ago](https://dotnettips.wordpress.com/2025/11/02/defensive-programming-rule-2-always-validate-method-parameters/))
 
 <!-- news_marker ends -->
