@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- How Healthcare Insurance Products (IF7) qualification can benefit your career ([19 hours ago](https://www.insurancebusinessmag.com/uk/guides/how-healthcare-insurance-products-if7-qualification-can-benefit-your-career-558304.aspx))
-- We found all the places insurance jobs are being posted in the UK! ([19 hours ago](https://www.insurancebusinessmag.com/uk/guides/we-found-all-the-places-insurance-jobs-are-being-posted-in-the-uk-558303.aspx))
-- Airbus in emergency recall affecting up to a record 6000 jets ([21 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/airbus-in-emergency-recall-affecting-up-to-a-record-6000-jets-558297.aspx))
+- How Healthcare Insurance Products (IF7) qualification can benefit your career ([20 hours ago](https://www.insurancebusinessmag.com/uk/guides/how-healthcare-insurance-products-if7-qualification-can-benefit-your-career-558304.aspx))
+- We found all the places insurance jobs are being posted in the UK! ([20 hours ago](https://www.insurancebusinessmag.com/uk/guides/we-found-all-the-places-insurance-jobs-are-being-posted-in-the-uk-558303.aspx))
+- Airbus in emergency recall affecting up to a record 6000 jets ([22 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/airbus-in-emergency-recall-affecting-up-to-a-record-6000-jets-558297.aspx))
 - Two oil tankers ablaze after ‘external impact' ([22 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/two-oil-tankers-ablaze-after-external-impact-558291.aspx))
 - HDI Offers Useful Advice on Secondary Perils ([1 days ago](https://insurance-edge.net/2025/11/28/hdi-offers-useful-advice-on-secondary-perils/))
 - M&A activity could reduce cyber market capacity: Marsh’s Konyar ([1 days ago](https://www.reinsurancene.ws/ma-activity-could-reduce-cyber-market-capacity-marshs-konyar/))
@@ -117,7 +117,7 @@ description: Insurance Updates
 - Eleos Life rolls out AI voice agent for 24/7 client assistance ([5 days ago](https://ifamagazine.com/eleos-life-rolls-out-ai-voice-agent-for-24-7-client-assistance/))
 - 2025 WIL Next: Waika Embry ([5 days ago](https://www.dig-in.com/news/2025-wil-next-waika-embry))
 - Building resilience in an age of accelerating risk ([5 days ago](https://www.dig-in.com/opinion/building-resilience-in-an-age-of-accelerating-risk))
-- From coverage to confidence: Building long-term client loyalty in a distracted world ([5 days ago](https://www.dig-in.com/opinion/building-long-term-client-loyalty-in-a-distracted-world))
+- From coverage to confidence: Building long-term client loyalty in a distracted world ([6 days ago](https://www.dig-in.com/opinion/building-long-term-client-loyalty-in-a-distracted-world))
 - The Right Mortgage introduces new shortfall needs analysis calculator to aid protection conversations ([8 days ago](https://ifamagazine.com/the-right-mortgage-introduces-new-shortfall-needs-analysis-calculator-to-aid-protection-conversations/))
 - In Profile: Thomas Galbraith at Barker ([9 days ago](https://thefintechtimes.com/in-profile-thomas-galbraith-at-barker/))
 - Post-VIP Roundtable Thoughts: Unpacking the (false) paradox of efficiency vs experience trade offs in insurance by Rory Yates ([23 days ago](https://www.insurtechinsights.com/post-vip-roundtable-thoughts-unpacking-the-false-paradox-of-efficiency-vs-experience-trade-offs-in-insurance-by-rory-yates/))
