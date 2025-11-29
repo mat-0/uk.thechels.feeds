@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Japanese beer giant Asahi says data breach hit 1.5 million people ([6 hours ago](https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/))
-- Leak confirms OpenAI is preparing ads on ChatGPT for public roll out ([10 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/))
+- Japanese beer giant Asahi says data breach hit 1.5 million people ([7 hours ago](https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/))
+- Leak confirms OpenAI is preparing ads on ChatGPT for public roll out ([11 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/))
 - Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison ([1 days ago](https://www.bleepingcomputer.com/news/security/man-behind-in-flight-evil-twin-wifi-attacks-gets-7-years-in-prison/))
 - Microsoft: Windows updates make password login option invisible ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-updates-hide-password-icon-on-lock-screen/))
 - Public GitLab repositories exposed more than 17,000 secrets ([1 days ago](https://www.bleepingcomputer.com/news/security/public-gitlab-repositories-exposed-more-than-17-000-secrets/))
@@ -57,7 +57,7 @@ description: SecOps News
 - Gainsight Expands Impacted Customer List Following Salesforce Security Alert ([2 days ago](https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html))
 - China Software Developer Network - 6,414,990 breached accounts ([2 days ago](https://haveibeenpwned.com/Breach/CSDN))
 - Smashing Security podcast #445: The hack that brought back the zombie apocalypse ([2 days ago](https://grahamcluley.com/smashing-security-podcast-445/))
-- New ShadowV2 botnet malware used AWS outage as a test opportunity ([2 days ago](https://www.bleepingcomputer.com/news/security/new-shadowv2-botnet-malware-used-aws-outage-as-a-test-opportunity/))
+- New ShadowV2 botnet malware used AWS outage as a test opportunity ([3 days ago](https://www.bleepingcomputer.com/news/security/new-shadowv2-botnet-malware-used-aws-outage-as-a-test-opportunity/))
 - Gainsight CEO downplays breach, says only a 'handful' of customers had data stolen ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/26/gainsight_ceos_handful_customers_data_stolen/))
 - NordVPN Black Friday Deal: Unlock 77% off VPN plans in 2025 ([3 days ago](https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-unlock-77-percent-off-vpn-plans-in-2025/))
 - Botnet takes advantage of AWS outage to smack 28 countries ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/26/miraibased_botnet_shadowv2/))
@@ -120,7 +120,7 @@ description: SecOps News
 - Weekly Update 479 ([6 days ago](https://www.troyhunt.com/weekly-update-479/))
 - ADDA - 1,829,314 breached accounts ([6 days ago](https://haveibeenpwned.com/Breach/ADDA))
 - Disruption with some GitHub services ([8 days ago](https://www.githubstatus.com/incidents/zzl9nl31lb35))
-- International Kiteboarding Organization - 340,349 breached accounts ([8 days ago](https://haveibeenpwned.com/Breach/IKO))
+- International Kiteboarding Organization - 340,349 breached accounts ([9 days ago](https://haveibeenpwned.com/Breach/IKO))
 - Disruption with some GitHub services ([9 days ago](https://www.githubstatus.com/incidents/cg3wwz9dw5dg))
 - Mozilla Says It’s Finally Done With Two-Faced Onerep ([9 days ago](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/))
 - UK’s new cybersecurity bill takes aim at ransomware gangs and state-backed hackers ([9 days ago](https://www.fortra.com/blog/uks-new-cybersecurity-bill-takes-aim-ransomware-gangs-state-backed-hackers))
