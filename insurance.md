@@ -63,7 +63,7 @@ description: Insurance Updates
 - My Mum, Alzheimer’s, and the importance of IUAD’s Day ([2 days ago](https://www.postonline.co.uk/people/7959447/my-mum-alzheimers-and-the-importance-of-iuads-day))
 - Major insurer's shares plummet as deadly Hong Kong fire rages ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/major-insurers-shares-plummet-as-deadly-hong-kong-fire-rages-558074.aspx))
 - Budget missed opportunity to support growth and protection, UK insurers warn ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/budget-missed-opportunity-to-support-growth-and-protection-uk-insurers-warn-558056.aspx))
-- Staysure founder says UK must reset tax and regulation to support growth ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/staysure-founder-says-uk-must-reset-tax-and-regulation-to-support-growth-558049.aspx))
+- Staysure founder says UK must reset tax and regulation to support growth ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/staysure-founder-says-uk-must-reset-tax-and-regulation-to-support-growth-558049.aspx))
 - UK property insurance payouts reach record £4.6 billion in first nine months of 2025 - report ([3 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/uk-property-insurance-payouts-reach-record-4-6-billion-in-first-nine-months-of-2025--report-558047.aspx))
 - Illinois Roofing Company Sued for Race and Sex Harassment ([3 days ago](https://www.insurancejournal.com/news/midwest/2025/11/26/849236.htm))
 - Speeding jumps 68% during Thanksgiving, Cambridge Mobile Telematics ([3 days ago](https://www.dig-in.com/news/speeding-jumps-68-during-thanksgiving))
