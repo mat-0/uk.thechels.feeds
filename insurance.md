@@ -50,7 +50,7 @@ description: Insurance Updates
 - Insurers target call centre job cuts as tech adoption advances ([2 days ago](https://www.postonline.co.uk/technology/7959463/insurers-target-call-centre-job-cuts-as-tech-adoption-advances))
 - Devilish details from the Autumn Budget for insurers ([2 days ago](https://www.postonline.co.uk/news/7959460/devilish-details-from-the-autumn-budget-for-insurers))
 - AI isn't coming - it's here. What that means for insurance professionals today ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/ai-isnt-coming--its-here--what-that-means-for-insurance-professionals-today-558102.aspx))
-- CFC launches cyber tool to bridge SME protection gap ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/cfc-launches-cyber-tool-to-bridge-sme-protection-gap-558094.aspx))
+- CFC launches cyber tool to bridge SME protection gap ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/cfc-launches-cyber-tool-to-bridge-sme-protection-gap-558094.aspx))
 - LifeSearch becomes first in UK to integrate digital trust solution into self-serve life insurance journey ([3 days ago](https://ifamagazine.com/lifesearch-becomes-first-in-uk-to-integrate-digital-trust-solution-into-self-serve-life-insurance-journey/))
 - Video Q&A: Shift Technology’s George Robbins on Agentic AI and claims transformation ([3 days ago](https://www.postonline.co.uk/market-access/technology/7959446/video-qa-shift-technologys-george-robbins-on-agentic-ai-and-claims-transformation))
 - Allianz to cut 1,500-1,800 travel insurance jobs as AI accelerates - report ([3 days ago](https://www.insurancebusinessmag.com/uk/news/travel/allianz-to-cut-15001800-travel-insurance-jobs-as-ai-accelerates--report-558086.aspx))
