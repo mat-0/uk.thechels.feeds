@@ -92,7 +92,7 @@ description: Insurance Updates
 - Cyber demand grows following high-profile attacks ([3 days ago](https://www.postonline.co.uk/commercial/7959440/cyber-demand-grows-following-high-profile-attacks))
 - Insurance in step with AI ([3 days ago](https://www.postonline.co.uk/market-access/technology/7959402/insurance-in-step-with-ai))
 - 2025 Atlantic Hurricane Season Goes Out Like a Lamb ([3 days ago](https://www.insurancejournal.com/news/national/2025/11/26/849119.htm))
-- Meta Settles Cambridge Analytica-Related Claims for $190 Million ([3 days ago](https://www.insurancejournal.com/news/national/2025/11/26/849021.htm))
+- Meta Settles Cambridge Analytica-Related Claims for $190 Million ([4 days ago](https://www.insurancejournal.com/news/national/2025/11/26/849021.htm))
 - Old Republic Upheld in Asset Transfer of Bankrupt Florida Title Insurer Subsidiary ([4 days ago](https://www.insurancejournal.com/news/southeast/2025/11/26/849147.htm))
 - New Jersey Vegetable Processing Firm Faces $1M OSHA Penalty After Worker Fatality ([4 days ago](https://www.insurancejournal.com/news/east/2025/11/26/849057.htm))
 - People Moves: NFP Names Gillingham President, Commercial Risk, and Mahoney Head of Programs, Totalis Program Underwriters ([4 days ago](https://www.insurancejournal.com/news/west/2025/11/26/849114.htm))
