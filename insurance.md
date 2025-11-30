@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- WIL 2025: Michelle Carter ([1 hours ago](https://www.dig-in.com/news/wil-2025-michelle-carter))
+- WIL 2025: Michelle Carter ([2 hours ago](https://www.dig-in.com/news/wil-2025-michelle-carter))
 - Florida regulator, advocates spar over insurance market performance ([2 hours ago](https://www.dig-in.com/news/florida-regulator-advocates-spar-over-property-insurance))
 - How Healthcare Insurance Products (IF7) qualification can benefit your career ([1 days ago](https://www.insurancebusinessmag.com/uk/guides/how-healthcare-insurance-products-if7-qualification-can-benefit-your-career-558304.aspx))
 - We found all the places insurance jobs are being posted in the UK! ([1 days ago](https://www.insurancebusinessmag.com/uk/guides/we-found-all-the-places-insurance-jobs-are-being-posted-in-the-uk-558303.aspx))
