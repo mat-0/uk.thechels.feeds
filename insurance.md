@@ -12,7 +12,7 @@ description: Insurance Updates
 - We found all the places insurance jobs are being posted in the UK! ([1 days ago](https://www.insurancebusinessmag.com/uk/guides/we-found-all-the-places-insurance-jobs-are-being-posted-in-the-uk-558303.aspx))
 - Airbus in emergency recall affecting up to a record 6000 jets ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/airbus-in-emergency-recall-affecting-up-to-a-record-6000-jets-558297.aspx))
 - Two oil tankers ablaze after ‘external impact' ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/two-oil-tankers-ablaze-after-external-impact-558291.aspx))
-- HDI Offers Useful Advice on Secondary Perils ([1 days ago](https://insurance-edge.net/2025/11/28/hdi-offers-useful-advice-on-secondary-perils/))
+- HDI Offers Useful Advice on Secondary Perils ([2 days ago](https://insurance-edge.net/2025/11/28/hdi-offers-useful-advice-on-secondary-perils/))
 - M&A activity could reduce cyber market capacity: Marsh’s Konyar ([2 days ago](https://www.reinsurancene.ws/ma-activity-could-reduce-cyber-market-capacity-marshs-konyar/))
 - Safety Compliance Means More Efficient Performance ([2 days ago](https://insurance-edge.net/2025/11/28/safety-compliance-means-more-efficient-performance/))
 - NFP names Gillingham Head of Commercial Risk, Mahoney Head of Programs ([2 days ago](https://www.reinsurancene.ws/nfp-names-gillingham-head-of-commercial-risk-mahoney-head-of-programs/))
