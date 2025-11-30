@@ -54,7 +54,7 @@ description: Insurance Updates
 - LifeSearch becomes first in UK to integrate digital trust solution into self-serve life insurance journey ([2 days ago](https://ifamagazine.com/lifesearch-becomes-first-in-uk-to-integrate-digital-trust-solution-into-self-serve-life-insurance-journey/))
 - Video Q&A: Shift Technology’s George Robbins on Agentic AI and claims transformation ([2 days ago](https://www.postonline.co.uk/market-access/technology/7959446/video-qa-shift-technologys-george-robbins-on-agentic-ai-and-claims-transformation))
 - Allianz to cut 1,500-1,800 travel insurance jobs as AI accelerates - report ([2 days ago](https://www.insurancebusinessmag.com/uk/news/travel/allianz-to-cut-15001800-travel-insurance-jobs-as-ai-accelerates--report-558086.aspx))
-- Minority Broker Partnerships acquires stake in Sturdy Edwards, third deal in six weeks ([2 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/minority-broker-partnerships-acquires-stake-in-sturdy-edwards-third-deal-in-six-weeks-558084.aspx))
+- Minority Broker Partnerships acquires stake in Sturdy Edwards, third deal in six weeks ([3 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/minority-broker-partnerships-acquires-stake-in-sturdy-edwards-third-deal-in-six-weeks-558084.aspx))
 - New insurance platform Sodalis launches with eye on intermediary acquisitions ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/new-insurance-platform-sodalis-launches-with-eye-on-intermediary-acquisitions-558083.aspx))
 - QBE expands premiums, reaffirms full-year guidance amid favourable cat losses ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/qbe-expands-premiums-reaffirms-fullyear-guidance-amid-favourable-cat-losses-558068.aspx))
 - Hidden risks in insurers’ culture and misconduct data ([3 days ago](https://www.postonline.co.uk/regulation/7959413/hidden-risks-in-insurers-culture-and-misconduct-data))
@@ -120,9 +120,5 @@ description: Insurance Updates
 - From coverage to confidence: Building long-term client loyalty in a distracted world ([6 days ago](https://www.dig-in.com/opinion/building-long-term-client-loyalty-in-a-distracted-world))
 - The Right Mortgage introduces new shortfall needs analysis calculator to aid protection conversations ([8 days ago](https://ifamagazine.com/the-right-mortgage-introduces-new-shortfall-needs-analysis-calculator-to-aid-protection-conversations/))
 - In Profile: Thomas Galbraith at Barker ([9 days ago](https://thefintechtimes.com/in-profile-thomas-galbraith-at-barker/))
-- Post-VIP Roundtable Thoughts: Unpacking the (false) paradox of efficiency vs experience trade offs in insurance by Rory Yates ([23 days ago](https://www.insurtechinsights.com/post-vip-roundtable-thoughts-unpacking-the-false-paradox-of-efficiency-vs-experience-trade-offs-in-insurance-by-rory-yates/))
-- Zurich Strengthens Its Fraud Defences with Quantexa Real-Time AI, Connecting Industry-Wide Claims Data ([23 days ago](https://www.insurtechinsights.com/zurich-strengthens-its-fraud-defences-with-quantexa-real-time-ai-connecting-industry-wide-claims-data-2/))
-- Allianz Joins The Spark as Member; Sirma Boshnakova Appointed to Global Advisory Board ([23 days ago](https://www.insurtechinsights.com/allianz-joins-the-spark-as-member-sirma-boshnakova-appointed-to-global-advisory-board/))
-- FWD Group Reports Strong New Business Growth and Strengthened Financial Position ([25 days ago](https://www.insurtechinsights.com/fwd-group-reports-strong-new-business-growth-and-strengthened-financial-position/))
 
 <!-- news_marker ends -->
