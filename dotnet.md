@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Defensive Programming Rule #6: Verify Resource Availability (Before You Access It) ([3 hours ago](https://dotnettips.wordpress.com/2025/11/30/defensive-programming-rule-6-verify-resource-availability-before-you-access-it/))
-- Exploring Squirrly Apache Flink Performance Issues through Continual AI-Driven Evaluation ([16 hours ago](https://dotnetkicks.com/r/735694?url=https://rion.io/2025/11/29/exploring-squirrly-apache-flink-performance-issues-through-continual-ai-driven-evaluation/))
+- Exploring Squirrly Apache Flink Performance Issues through Continual AI-Driven Evaluation ([17 hours ago](https://dotnetkicks.com/r/735694?url=https://rion.io/2025/11/29/exploring-squirrly-apache-flink-performance-issues-through-continual-ai-driven-evaluation/))
 - Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions ([1 days ago](https://dotnetkicks.com/r/735675?url=https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions))
 - Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions ([1 days ago](http://feeds.hanselman.com/~/930373259/0/scotthanselman~Automatically-Signing-a-Windows-EXE-with-Azure-Trusted-Signing-dotnet-sign-and-GitHub-Actions))
 - ReSharper and Rider 2025.3.0.3: A Fresh Set of Updates Released ([2 days ago](https://blog.jetbrains.com/dotnet/2025/11/27/resharper-and-rider-2025-3-0-3/))
@@ -17,7 +17,7 @@ description: DotNet Updates
 - .NET Day on Agentic Modernization Coming Soon - .NET Blog ([3 days ago](https://dotnetkicks.com/r/735622?url=https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
 - The Worst Security Vulnerability in Akka.NET - And How to Fix It ([3 days ago](https://dotnetkicks.com/r/735620?url=https://petabridge.com/blog/akka-net-tls-vulnerability/))
 - .NET Day on Agentic Modernization Coming Soon ([3 days ago](https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
-- Exploring the .NET boot process via host tracing ([4 days ago](https://dotnetkicks.com/r/735596?url=https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
+- Exploring the .NET boot process via host tracing ([5 days ago](https://dotnetkicks.com/r/735596?url=https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
 - Exploring the .NET boot process via host tracing ([5 days ago](https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
 - Minimal APIs, CQRS, DDD... Or Just Use Controllers? ([5 days ago](https://dotnetkicks.com/r/735555?url=https://codeopinion.com/minimal-apis-cqrs-ddd-or-just-use-controllers/))
 - Visual Studio - Built for the Speed of Modern Development - Visual Studio Blog ([5 days ago](https://dotnetkicks.com/r/735523?url=https://devblogs.microsoft.com/visualstudio/visual-studio-built-for-the-speed-of-modern-development/))
