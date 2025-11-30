@@ -79,7 +79,7 @@ description: Insurance Updates
 - Insurance Fraud in UK Topped £1B in 2024, With Motor Scams Causing 53% of Claims ([3 days ago](https://www.insurancejournal.com/news/international/2025/11/26/849180.htm))
 - Budget reaction: health insurance tax hikes could hit prevention and NHS, warns CEO ([3 days ago](https://ifamagazine.com/budget-reaction-health-insurance-tax-hikes-could-hit-prevention-and-nhs-warns-ceo/))
 - Philadelphia Transit Agency Vows It’s Upgrading Railcars Implicated in Fires ([3 days ago](https://www.insurancejournal.com/news/east/2025/11/26/849182.htm))
-- Budget leak confirms IPT receipts expected to hit £10bn by 2030 ([3 days ago](https://www.postonline.co.uk/news/7959454/budget-leak-confirms-ipt-receipts-expected-to-hit-ps10bn-by-2030))
+- Budget leak confirms IPT receipts expected to hit £10bn by 2030 ([4 days ago](https://www.postonline.co.uk/news/7959454/budget-leak-confirms-ipt-receipts-expected-to-hit-ps10bn-by-2030))
 - Former Tesco Insurance and Saga boss joins Hood Group ([4 days ago](https://www.postonline.co.uk/news/7959453/former-tesco-insurance-and-saga-boss-joins-hood-group))
 - Allianz Unit Discussing Call Center Jobs Cuts in AI Transition ([4 days ago](https://www.insurancejournal.com/news/international/2025/11/26/849174.htm))
 - Africa Specialty Risks Launches Lloyd’s Syndicate 2454 in South Africa ([4 days ago](https://www.insurancejournal.com/news/international/2025/11/26/849170.htm))
