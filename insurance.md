@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Lloyd's of London under scrutiny as governance issues highlight market risks ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lloyds-of-london-under-scrutiny-as-governance-issues-highlight-market-risks-558327.aspx))
-- AUB share price plunges after ASX announcement ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aub-share-price-plunges-after-asx-announcement-558333.aspx))
+- Lloyd's of London under scrutiny as governance issues highlight market risks ([2 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lloyds-of-london-under-scrutiny-as-governance-issues-highlight-market-risks-558327.aspx))
+- AUB share price plunges after ASX announcement ([2 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aub-share-price-plunges-after-asx-announcement-558333.aspx))
 - Pensioners' outrage rolls on after insurer pulls plug on long-running funeral plan ([2 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/pensioners-outrage-rolls-on-after-insurer-pulls-plug-on-longrunning-funeral-plan-558324.aspx))
 - AXA completes Prima majority stake purchase ([3 hours ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/axa-completes-prima-majority-stake-purchase-558322.aspx))
 - Insurers urge stronger secondary-peril risk management ([3 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurers-urge-stronger-secondaryperil-risk-management-558321.aspx))
@@ -30,7 +30,7 @@ description: Insurance Updates
 - Coverage Lawsuit Trends Signal a New Era of Insurance Litigation ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/12/01/848699.htm))
 - California Revokes 17,000 Commercial Driver’s Licenses for Immigrants ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/12/01/848698.htm))
 - Kansas County to Pay $3M Over a Raid on a Small-Town Newspaper ([4 hours ago](https://www.insurancejournal.com/magazines/mag-features/2025/12/01/848697.htm))
-- WIL 2025: Michelle Carter ([7 hours ago](https://www.dig-in.com/news/wil-2025-michelle-carter))
+- WIL 2025: Michelle Carter ([8 hours ago](https://www.dig-in.com/news/wil-2025-michelle-carter))
 - Florida regulator, advocates spar over insurance market performance ([8 hours ago](https://www.dig-in.com/news/florida-regulator-advocates-spar-over-property-insurance))
 - How Healthcare Insurance Products (IF7) qualification can benefit your career ([2 days ago](https://www.insurancebusinessmag.com/uk/guides/how-healthcare-insurance-products-if7-qualification-can-benefit-your-career-558304.aspx))
 - We found all the places insurance jobs are being posted in the UK! ([2 days ago](https://www.insurancebusinessmag.com/uk/guides/we-found-all-the-places-insurance-jobs-are-being-posted-in-the-uk-558303.aspx))
@@ -65,7 +65,7 @@ description: Insurance Updates
 - Lloyd's flags mounting pressures as market heads into 2026 ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lloyds-flags-mounting-pressures-as-market-heads-into-2026-558203.aspx))
 - Penny Black’s Social Diary: Cybercube’s tea; Dual’s dahlias ([2 days ago](https://www.postonline.co.uk/people/7959274/penny-blacks-social-diary-cybercubes-tea-duals-dahlias))
 - Die Hard: Who is insurance’s answer to John McClane? ([2 days ago](https://www.postonline.co.uk/people/7959355/die-hard-who-is-insurances-answer-to-john-mcclane))
-- Insurance moves: Pen, Arch Insurance, Tokio Marine and The Swedish Club ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-pen-arch-insurance-tokio-marine-and-the-swedish-club-558188.aspx))
+- Insurance moves: Pen, Arch Insurance, Tokio Marine and The Swedish Club ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-pen-arch-insurance-tokio-marine-and-the-swedish-club-558188.aspx))
 - Hidden pipework, ageing installations drive majority of EOW claims - McLarens ([3 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/hidden-pipework-ageing-installations-drive-majority-of-eow-claims--mclarens-558182.aspx))
 - London Market Group launches consultation on new Core Data Record for claims ([3 days ago](https://www.insurancebusinessmag.com/uk/news/claims/london-market-group-launches-consultation-on-new-core-data-record-for-claims-558180.aspx))
 - Temple Legal Protection accredited by Chartered Insurance Institute ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/temple-legal-protection-accredited-by-chartered-insurance-institute-558184.aspx))
