@@ -9,9 +9,9 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog ([3 hours ago](https://dotnetkicks.com/r/735789?url=https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/))
-- Cross-Platform Age Verification in .NET MAUI Applications ([3 hours ago](https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/))
+- Cross-Platform Age Verification in .NET MAUI Applications ([4 hours ago](https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/))
 - Welcoming Babu Annamalai to JasperFx Software ([7 hours ago](https://dotnetkicks.com/r/735734?url=https://jeremydmiller.com/2025/12/01/welcoming-babu-annamalai-to-jasperfx-software/))
-- F# Weekly #48, 2025 - #FsAdvent starts Dec 1st. ([21 hours ago](https://dotnetkicks.com/r/735711?url=https://sergeytihon.com/2025/11/30/f-weekly-48-2025-fsadvent-starts-dec-1st/))
+- F# Weekly #48, 2025 - #FsAdvent starts Dec 1st. ([22 hours ago](https://dotnetkicks.com/r/735711?url=https://sergeytihon.com/2025/11/30/f-weekly-48-2025-fsadvent-starts-dec-1st/))
 - Defensive Programming Rule #6: Verify Resource Availability (Before You Access It) ([1 days ago](https://dotnettips.wordpress.com/2025/11/30/defensive-programming-rule-6-verify-resource-availability-before-you-access-it/))
 - Exploring Squirrly Apache Flink Performance Issues through Continual AI-Driven Evaluation ([2 days ago](https://dotnetkicks.com/r/735694?url=https://rion.io/2025/11/29/exploring-squirrly-apache-flink-performance-issues-through-continual-ai-driven-evaluation/))
 - Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions ([2 days ago](https://dotnetkicks.com/r/735675?url=https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions))
@@ -33,7 +33,7 @@ description: DotNet Updates
 - Reinventing how .NET Builds and Ships (Again) - .NET Blog ([11 days ago](https://dotnetkicks.com/r/735363?url=https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/))
 - Reinventing how .NET Builds and Ships (Again) ([11 days ago](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/))
 - More Updates and Fixes for ReSharper and Rider 2025.3 ([11 days ago](https://blog.jetbrains.com/dotnet/2025/11/20/resharper-rider-2025-3-0-2/))
-- Defensive Technology: Ransomware Data Recovery ([11 days ago](https://dotnetkicks.com/r/735294?url=https://textslashplain.com/2025/11/19/defensive-technology-ransomware-data-recovery/))
+- Defensive Technology: Ransomware Data Recovery ([12 days ago](https://dotnetkicks.com/r/735294?url=https://textslashplain.com/2025/11/19/defensive-technology-ransomware-data-recovery/))
 - Supercharge Your Test Coverage with GitHub Copilot Testing for .NET - .NET Blog ([12 days ago](https://dotnetkicks.com/r/735284?url=https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/))
 - Supercharge Your Test Coverage with GitHub Copilot Testing for .NET ([12 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/))
 - A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode - .NET Blog ([13 days ago](https://dotnetkicks.com/r/735216?url=https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/))
