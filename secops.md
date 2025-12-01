@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Google and Apple ordered to stop fake government TXTs ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/01/asia_tech_news_roundup/))
-- Swiss government says give M365, and all SaaS, a miss as it lacks end-to-end encryption ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/01/infosec_news_in_brief/))
+- Google and Apple ordered to stop fake government TXTs ([3 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/01/asia_tech_news_roundup/))
+- Swiss government says give M365, and all SaaS, a miss as it lacks end-to-end encryption ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/01/infosec_news_in_brief/))
 - CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV ([19 hours ago](https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html))
 - Japanese beer giant Asahi says data breach hit 1.5 million people ([1 days ago](https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/))
 - Leak confirms OpenAI is preparing ads on ChatGPT for public roll out ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/))
@@ -179,7 +179,7 @@ description: SecOps News
 - “Pay up or we share the tapes”: Hackers target massage parlour clients in blackmail scheme ([24 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/pay-up-or-we-share-the-tapes-hackers-target-massage-parlour-clients-in-blackmail-scheme))
 - Optimizing IOC Retention Time ([24 days ago](https://www.netresec.com/?page=Blog&month=2025-11&post=Optimizing-IOC-Retention-Time))
 - Threat Intelligence – ISO 27001:2022 Control 5.7 Explained ([24 days ago](https://www.itgovernance.co.uk/blog/threat-intelligence-iso-270012022-control-5-7-explained))
-- Synthient Credential Stuffing Threat Data - 1,957,476,021 breached accounts ([24 days ago](https://haveibeenpwned.com/Breach/SynthientCredentialStuffingThreatData))
+- Synthient Credential Stuffing Threat Data - 1,957,476,021 breached accounts ([25 days ago](https://haveibeenpwned.com/Breach/SynthientCredentialStuffingThreatData))
 - Cloudflare Scrubs Aisuru Botnet from Top Domains List ([25 days ago](https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/))
 - Smashing Security podcast #442: The hack that messed with time, and rogue ransom where negotiators ([25 days ago](https://grahamcluley.com/smashing-security-podcast-442/))
 - Incident with Copilot ([25 days ago](https://www.githubstatus.com/incidents/gnzclztblsh3))
