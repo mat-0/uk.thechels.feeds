@@ -9,8 +9,8 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Google and Apple ordered to stop fake government TXTs ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/01/asia_tech_news_roundup/))
-- Swiss government says give M365, and all SaaS, a miss as it lacks end-to-end encryption ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/01/infosec_news_in_brief/))
-- CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV ([17 hours ago](https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html))
+- Swiss government says give M365, and all SaaS, a miss as it lacks end-to-end encryption ([3 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/01/infosec_news_in_brief/))
+- CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV ([18 hours ago](https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html))
 - Japanese beer giant Asahi says data breach hit 1.5 million people ([1 days ago](https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/))
 - Leak confirms OpenAI is preparing ads on ChatGPT for public roll out ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/))
 - Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison ([2 days ago](https://www.bleepingcomputer.com/news/security/man-behind-in-flight-evil-twin-wifi-attacks-gets-7-years-in-prison/))
