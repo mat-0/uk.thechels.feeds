@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- dotInsights  -  December 2025 ([2 hours ago](https://blog.jetbrains.com/dotnet/2025/12/02/dotinsights-december-2025/))
-- Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([5 hours ago](https://dotnetkicks.com/r/735821?url=https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
+- dotInsights  -  December 2025 ([3 hours ago](https://blog.jetbrains.com/dotnet/2025/12/02/dotinsights-december-2025/))
+- Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([6 hours ago](https://dotnetkicks.com/r/735821?url=https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
 - Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([7 hours ago](https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
 - Domain-Driven Design Misconceptions ([17 hours ago](https://dotnetkicks.com/r/735809?url=https://codeopinion.com/domain-driven-design-misconceptions/))
-- Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog ([21 hours ago](https://dotnetkicks.com/r/735789?url=https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/))
+- Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog ([22 hours ago](https://dotnetkicks.com/r/735789?url=https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/))
 - Cross-Platform Age Verification in .NET MAUI Applications ([22 hours ago](https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/))
 - Welcoming Babu Annamalai to JasperFx Software ([1 days ago](https://dotnetkicks.com/r/735734?url=https://jeremydmiller.com/2025/12/01/welcoming-babu-annamalai-to-jasperfx-software/))
 - F# Weekly #48, 2025 - #FsAdvent starts Dec 1st. ([1 days ago](https://dotnetkicks.com/r/735711?url=https://sergeytihon.com/2025/11/30/f-weekly-48-2025-fsadvent-starts-dec-1st/))
@@ -43,8 +43,8 @@ description: DotNet Updates
 - A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode - .NET Blog ([13 days ago](https://dotnetkicks.com/r/735216?url=https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/))
 - A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode ([13 days ago](https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/))
 - Spend Less Time Upgrading, More Time Coding in Visual Studio 2026 - Visual Studio Blog ([13 days ago](https://dotnetkicks.com/r/735202?url=https://devblogs.microsoft.com/visualstudio/spend-less-time-upgrading-more-time-coding-in-visual-studio-2026/))
-- Post-Quantum Cryptography in .NET - .NET Blog ([13 days ago](https://dotnetkicks.com/r/735188?url=https://devblogs.microsoft.com/dotnet/post-quantum-cryptography-in-dotnet/))
-- Ignite 2025: Furthering Windows as the premier platform for developers, governed by security ([13 days ago](https://dotnetkicks.com/r/735173?url=https://blogs.windows.com/windowsdeveloper/2025/11/18/ignite-2025-furthering-windows-as-the-premier-platform-for-developers-governed-by-security/))
+- Post-Quantum Cryptography in .NET - .NET Blog ([14 days ago](https://dotnetkicks.com/r/735188?url=https://devblogs.microsoft.com/dotnet/post-quantum-cryptography-in-dotnet/))
+- Ignite 2025: Furthering Windows as the premier platform for developers, governed by security ([14 days ago](https://dotnetkicks.com/r/735173?url=https://blogs.windows.com/windowsdeveloper/2025/11/18/ignite-2025-furthering-windows-as-the-premier-platform-for-developers-governed-by-security/))
 - Post-Quantum Cryptography in .NET ([14 days ago](https://devblogs.microsoft.com/dotnet/post-quantum-cryptography-in-dotnet/))
 - Companies complaining .NET moves too fast should just pay for post-EOL support ([14 days ago](https://andrewlock.net/companies-using-dotnet-need-to-suck-it-up-and-pay-for-support/))
 - Implement forgot your password using swiyu, ASP.NET Core Identity and Aspire ([14 days ago](https://dotnetkicks.com/r/735160?url=https://damienbod.com/2025/11/17/implement-forgot-your-password-using-swiyu-asp-net-core-identity-and-aspire/))
@@ -62,8 +62,8 @@ description: DotNet Updates
 - .NET and .NET Framework November 2025 servicing releases updates ([21 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/))
 - dotNetDave Rocks Austin .NET User Group November 2025 Meeting ([21 days ago](https://dotnettips.wordpress.com/2025/11/10/dotnetdave-rocks-austin-net-user-group-november-2025-meeting/))
 - Defensive Programming Rule #3: Validate Your Enums (Every Time) ([23 days ago](https://dotnettips.wordpress.com/2025/11/09/defensive-programming-rule-3-validate-your-enums-every-time/))
-- The Rider 2025.3 Release Candidate Is Now Available ([26 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-rider-2025-3-release-candidate/))
-- The ReSharper, .NET Tools, and ReSharper C++ 2025.3 Release Candidates Are Now Available ([26 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-resharper-dotnet-tools-2025-3-release-candidate/))
+- The Rider 2025.3 Release Candidate Is Now Available ([27 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-rider-2025-3-release-candidate/))
+- The ReSharper, .NET Tools, and ReSharper C++ 2025.3 Release Candidates Are Now Available ([27 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-resharper-dotnet-tools-2025-3-release-candidate/))
 - Easier reflection with [UnsafeAccessorType] in .NET 10: Exploring the .NET 10 preview - Part 9 ([28 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-9-easier-reflection-with-unsafeaccessortype/))
 
 <!-- news_marker ends -->
