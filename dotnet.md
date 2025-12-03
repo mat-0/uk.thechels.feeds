@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- dotInsights  -  December 2025 ([11 hours ago](https://blog.jetbrains.com/dotnet/2025/12/02/dotinsights-december-2025/))
-- Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([15 hours ago](https://dotnetkicks.com/r/735821?url=https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
-- Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([16 hours ago](https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
+- dotInsights  -  December 2025 ([13 hours ago](https://blog.jetbrains.com/dotnet/2025/12/02/dotinsights-december-2025/))
+- Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([16 hours ago](https://dotnetkicks.com/r/735821?url=https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
+- Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([17 hours ago](https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
 - Domain-Driven Design Misconceptions ([1 days ago](https://dotnetkicks.com/r/735809?url=https://codeopinion.com/domain-driven-design-misconceptions/))
 - Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog ([1 days ago](https://dotnetkicks.com/r/735789?url=https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/))
 - Cross-Platform Age Verification in .NET MAUI Applications ([1 days ago](https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/))
@@ -32,8 +32,8 @@ description: DotNet Updates
 - Defensive Programming Rule #5: Let the Compiler Work for You — Harness the Power of Type Checking ([9 days ago](https://dotnettips.wordpress.com/2025/11/23/defensive-programming-rule-5-let-the-compiler-work-for-you-harness-the-power-of-type-checking/))
 - F# Weekly #47, 2025 - F# 10 &amp; last #FsAdvent slots ([9 days ago](https://dotnetkicks.com/r/735486?url=https://sergeytihon.com/2025/11/22/f-weekly-47-2025-f-10-last-fsadvent-slots/))
 - How To Automate Azure Naming Conventions With The Build5Nines/naming/azure Terraform Module  -  Build5Nines ([9 days ago](https://dotnetkicks.com/r/735468?url=https://build5nines.com/how-to-automate-azure-naming-conventions-with-the-build5nines-naming-azure-terraform-module/))
-- Infinite scale: The architecture behind the Azure AI superfactory - The Official Microsoft Blog ([9 days ago](https://dotnetkicks.com/r/735456?url=https://blogs.microsoft.com/blog/2025/11/12/infinite-scale-the-architecture-behind-the-azure-ai-superfactory/))
-- How Do You Fix 70% Data Loss Across 1 Million Concurrent Connections? ([10 days ago](https://dotnetkicks.com/r/735453?url=https://petabridge.com/blog/why-buy-akka.net-support-2025/))
+- Infinite scale: The architecture behind the Azure AI superfactory - The Official Microsoft Blog ([10 days ago](https://dotnetkicks.com/r/735456?url=https://blogs.microsoft.com/blog/2025/11/12/infinite-scale-the-architecture-behind-the-azure-ai-superfactory/))
+- How Do You Fix 70% Data Loss Across 1 Million Concurrent Connections? ([11 days ago](https://dotnetkicks.com/r/735453?url=https://petabridge.com/blog/why-buy-akka.net-support-2025/))
 - Reinventing how .NET Builds and Ships (Again) - .NET Blog ([12 days ago](https://dotnetkicks.com/r/735363?url=https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/))
 - Reinventing how .NET Builds and Ships (Again) ([12 days ago](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/))
 - More Updates and Fixes for ReSharper and Rider 2025.3 ([12 days ago](https://blog.jetbrains.com/dotnet/2025/11/20/resharper-rider-2025-3-0-2/))
