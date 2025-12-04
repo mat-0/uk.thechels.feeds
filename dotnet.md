@@ -9,10 +9,10 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - .NET Conf 2025 Recap - Celebrating .NET 10, Visual Studio 2026, AI, Community, & More - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/736049?url=https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
-- .NET Conf 2025 Recap – Celebrating .NET 10, Visual Studio 2026, AI, Community, & More ([1 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
+- .NET Conf 2025 Recap – Celebrating .NET 10, Visual Studio 2026, AI, Community, & More ([2 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
 - Security Surfaces ([13 hours ago](https://dotnetkicks.com/r/735992?url=https://textslashplain.com/2025/12/03/security-surfaces/))
 - Unlock GitHub Copilot's Full Potential: Why Every Repo Needs An AGENTS.md File  -  Build5Nines ([19 hours ago](https://dotnetkicks.com/r/735949?url=https://build5nines.com/unlock-github-copilots-full-potential-why-every-repo-needs-an-agents-md-file/))
-- AutoMapper 16.0.0 and MediatR 14.0.0 Released with .NET 10 Support ([21 hours ago](https://dotnetkicks.com/r/735934?url=https://www.jimmybogard.com/automapper-16-0-0-and-mediatr-14-0-0-released-with-net-10-support/))
+- AutoMapper 16.0.0 and MediatR 14.0.0 Released with .NET 10 Support ([22 hours ago](https://dotnetkicks.com/r/735934?url=https://www.jimmybogard.com/automapper-16-0-0-and-mediatr-14-0-0-released-with-net-10-support/))
 - Introducing Data Ingestion Building Blocks (Preview) - .NET Blog ([1 days ago](https://dotnetkicks.com/r/735929?url=https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/))
 - Introducing Data Ingestion Building Blocks (Preview) ([1 days ago](https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/))
 - 5 Stories Of Developers Using JetBrains Rider to Create, Collaborate, and Have Fun ([1 days ago](https://blog.jetbrains.com/dotnet/2025/12/03/5-stories-of-developers-using-jetbrains-rider/))
@@ -61,7 +61,7 @@ description: DotNet Updates
 - ReSharper C++ 2025.3: C++26 Language Support, Faster Unreal Engine Startup, and Visual Studio 2026 Compatibility ([23 days ago](https://blog.jetbrains.com/rscpp/2025/11/11/resharper-cpp-2025-3/))
 - ReSharper 2025.3: Day-One C# 14 Support, Visual Studio 2026 Compatibility, and Major Performance Gains ([23 days ago](https://blog.jetbrains.com/dotnet/2025/11/11/resharper-2025-3-day-one-csharp-14-support-visual-studio-2026-compatible/))
 - Rider 2025.3: Day-One Support for .NET 10 and C# 14, a New Default UI, and Faster Startup ([23 days ago](https://blog.jetbrains.com/dotnet/2025/11/11/rider-2025-3-day-one-support-for-dotnet-10/))
-- dotNetDave Rocks Austin .NET User Group November 2025 Meeting ([23 days ago](https://dotnettips.wordpress.com/2025/11/10/dotnetdave-rocks-austin-net-user-group-november-2025-meeting/))
+- dotNetDave Rocks Austin .NET User Group November 2025 Meeting ([24 days ago](https://dotnettips.wordpress.com/2025/11/10/dotnetdave-rocks-austin-net-user-group-november-2025-meeting/))
 - Defensive Programming Rule #3: Validate Your Enums (Every Time) ([25 days ago](https://dotnettips.wordpress.com/2025/11/09/defensive-programming-rule-3-validate-your-enums-every-time/))
 - The Rider 2025.3 Release Candidate Is Now Available ([29 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-rider-2025-3-release-candidate/))
 
