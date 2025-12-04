@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Security Surfaces ([9 hours ago](https://dotnetkicks.com/r/735992?url=https://textslashplain.com/2025/12/03/security-surfaces/))
-- Unlock GitHub Copilot's Full Potential: Why Every Repo Needs An AGENTS.md File  -  Build5Nines ([15 hours ago](https://dotnetkicks.com/r/735949?url=https://build5nines.com/unlock-github-copilots-full-potential-why-every-repo-needs-an-agents-md-file/))
+- Security Surfaces ([10 hours ago](https://dotnetkicks.com/r/735992?url=https://textslashplain.com/2025/12/03/security-surfaces/))
+- Unlock GitHub Copilot's Full Potential: Why Every Repo Needs An AGENTS.md File  -  Build5Nines ([16 hours ago](https://dotnetkicks.com/r/735949?url=https://build5nines.com/unlock-github-copilots-full-potential-why-every-repo-needs-an-agents-md-file/))
 - AutoMapper 16.0.0 and MediatR 14.0.0 Released with .NET 10 Support ([18 hours ago](https://dotnetkicks.com/r/735934?url=https://www.jimmybogard.com/automapper-16-0-0-and-mediatr-14-0-0-released-with-net-10-support/))
-- Introducing Data Ingestion Building Blocks (Preview) - .NET Blog ([21 hours ago](https://dotnetkicks.com/r/735929?url=https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/))
+- Introducing Data Ingestion Building Blocks (Preview) - .NET Blog ([22 hours ago](https://dotnetkicks.com/r/735929?url=https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/))
 - Introducing Data Ingestion Building Blocks (Preview) ([22 hours ago](https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/))
 - 5 Stories Of Developers Using JetBrains Rider to Create, Collaborate, and Have Fun ([1 days ago](https://blog.jetbrains.com/dotnet/2025/12/03/5-stories-of-developers-using-jetbrains-rider/))
 - dotInsights  -  December 2025 ([2 days ago](https://blog.jetbrains.com/dotnet/2025/12/02/dotinsights-december-2025/))
@@ -63,6 +63,6 @@ description: DotNet Updates
 - Announcing .NET 10 ([23 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/))
 - dotNetDave Rocks Austin .NET User Group November 2025 Meeting ([23 days ago](https://dotnettips.wordpress.com/2025/11/10/dotnetdave-rocks-austin-net-user-group-november-2025-meeting/))
 - Defensive Programming Rule #3: Validate Your Enums (Every Time) ([25 days ago](https://dotnettips.wordpress.com/2025/11/09/defensive-programming-rule-3-validate-your-enums-every-time/))
-- The Rider 2025.3 Release Candidate Is Now Available ([28 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-rider-2025-3-release-candidate/))
+- The Rider 2025.3 Release Candidate Is Now Available ([29 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-rider-2025-3-release-candidate/))
 
 <!-- news_marker ends -->
