@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- It’s a Bold Move From Bold Penguin ([7 hours ago](https://insurance-edge.net/2025/12/06/its-a-bold-move-from-bold-penguin/))
-- California Resources Reports Oil Fluid Spill in Monterey County ([23 hours ago](https://www.insurancejournal.com/news/west/2025/12/05/850131.htm))
+- It’s a Bold Move From Bold Penguin ([8 hours ago](https://insurance-edge.net/2025/12/06/its-a-bold-move-from-bold-penguin/))
+- California Resources Reports Oil Fluid Spill in Monterey County ([1 days ago](https://www.insurancejournal.com/news/west/2025/12/05/850131.htm))
 - How to Grow an Independent Insurance Agency ([1 days ago](https://www.insurancejournal.com/blogs/ezlynx/2025/12/05/850118.htm))
 - South Dakota Legislators Plan Bills to Help Residents in Fight Over Limestone Mine ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/12/05/850120.htm))
 - We can show unequivocally that Florida’s insurance market has stabilised: Mike Yaworsky ([1 days ago](https://www.reinsurancene.ws/we-can-show-unequivocally-that-floridas-insurance-market-has-stabilised-mike-yaworsky/))
@@ -98,7 +98,7 @@ description: Insurance Updates
 - ESG that stands up in tougher times ([3 days ago](https://www.postonline.co.uk/market-access/7959464/esg-that-stands-up-in-tougher-times))
 - Six insurance risks of employee attendance monitoring ([3 days ago](https://www.postonline.co.uk/commercial/7959139/six-insurance-risks-of-employee-attendance-monitoring))
 - Why shipbuilding insurance is making waves in marine risk ([3 days ago](https://www.postonline.co.uk/commercial/7959313/why-shipbuilding-insurance-is-making-waves-in-marine-risk))
-- Cybersecurity predictions for 2026 ([3 days ago](https://www.dig-in.com/news/cybersecurity-predictions-for-2026))
+- Cybersecurity predictions for 2026 ([4 days ago](https://www.dig-in.com/news/cybersecurity-predictions-for-2026))
 - WIL 2025: Lindsey DiGangi ([4 days ago](https://www.dig-in.com/news/wil-2025-lindsey-digangi))
 - National Flood Insurance launches faster quote portals ([4 days ago](https://www.dig-in.com/news/national-flood-insurance-rolls-out-faster-quoting-tools))
 - Domestic & General snapped up by US firm ([4 days ago](https://www.postonline.co.uk/claims/7959481/domestic-general-snapped-up-by-us-firm))
