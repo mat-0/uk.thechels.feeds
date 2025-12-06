@@ -87,7 +87,7 @@ description: Insurance Updates
 - Throwback Thursday: Insurers retreat from war risk cover ([2 days ago](https://www.postonline.co.uk/commercial/7956779/throwback-thursday-insurers-retreat-from-war-risk-cover))
 - Chartered Insurance Institute partners up to strengthen leadership in insurance sector ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/chartered-insurance-institute-partners-up-to-strengthen-leadership-in-insurance-sector-558882.aspx))
 - UK EV surge leaves insurers facing rising write-off costs ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/uk-ev-surge-leaves-insurers-facing-rising-writeoff-costs-558873.aspx))
-- How life insurance settlements could bring liquidity, tax savings ([2 days ago](https://www.dig-in.com/news/how-to-consider-a-life-insurance-settlement))
+- How life insurance settlements could bring liquidity, tax savings ([3 days ago](https://www.dig-in.com/news/how-to-consider-a-life-insurance-settlement))
 - AI adoption and the emerging risks it creates for carriers ([3 days ago](https://www.dig-in.com/podcast/ai-adoption-and-the-emerging-risks-it-creates-for-carriers))
 - State Farm sued over policies backed by distressed insurer PHL ([3 days ago](https://www.dig-in.com/articles/state-farm-sued-over-policies-backed-by-distressed-insurer-phl))
 - WIL 2025, Amanda Smith: Strong leaders empower people ([3 days ago](https://www.dig-in.com/news/wil-2025-amanda-smith-strong-leaders-empower-people))
