@@ -99,7 +99,7 @@ description: Insurance Updates
 - Six insurance risks of employee attendance monitoring ([3 days ago](https://www.postonline.co.uk/commercial/7959139/six-insurance-risks-of-employee-attendance-monitoring))
 - Why shipbuilding insurance is making waves in marine risk ([3 days ago](https://www.postonline.co.uk/commercial/7959313/why-shipbuilding-insurance-is-making-waves-in-marine-risk))
 - Cybersecurity predictions for 2026 ([3 days ago](https://www.dig-in.com/news/cybersecurity-predictions-for-2026))
-- WIL 2025: Lindsey DiGangi ([3 days ago](https://www.dig-in.com/news/wil-2025-lindsey-digangi))
+- WIL 2025: Lindsey DiGangi ([4 days ago](https://www.dig-in.com/news/wil-2025-lindsey-digangi))
 - National Flood Insurance launches faster quote portals ([4 days ago](https://www.dig-in.com/news/national-flood-insurance-rolls-out-faster-quoting-tools))
 - Domestic & General snapped up by US firm ([4 days ago](https://www.postonline.co.uk/claims/7959481/domestic-general-snapped-up-by-us-firm))
 - Aviva confirms By Miles redundancies ([4 days ago](https://www.postonline.co.uk/news/7959472/aviva-confirms-by-miles-redundancies))
