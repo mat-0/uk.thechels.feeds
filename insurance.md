@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- It’s a Bold Move From Bold Penguin ([4 hours ago](https://insurance-edge.net/2025/12/06/its-a-bold-move-from-bold-penguin/))
-- California Resources Reports Oil Fluid Spill in Monterey County ([20 hours ago](https://www.insurancejournal.com/news/west/2025/12/05/850131.htm))
+- It’s a Bold Move From Bold Penguin ([5 hours ago](https://insurance-edge.net/2025/12/06/its-a-bold-move-from-bold-penguin/))
+- California Resources Reports Oil Fluid Spill in Monterey County ([21 hours ago](https://www.insurancejournal.com/news/west/2025/12/05/850131.htm))
 - How to Grow an Independent Insurance Agency ([1 days ago](https://www.insurancejournal.com/blogs/ezlynx/2025/12/05/850118.htm))
 - South Dakota Legislators Plan Bills to Help Residents in Fight Over Limestone Mine ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/12/05/850120.htm))
 - We can show unequivocally that Florida’s insurance market has stabilised: Mike Yaworsky ([1 days ago](https://www.reinsurancene.ws/we-can-show-unequivocally-that-floridas-insurance-market-has-stabilised-mike-yaworsky/))
