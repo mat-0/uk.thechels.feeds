@@ -9,8 +9,8 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Exclusive research: How can insurers prepare for AI? ([1 hours ago](https://www.dig-in.com/news/digital-insurance-reveals-the-state-of-insurance-tech-and-ai))
-- Top insurtech funding rounds, November 2025 ([2 hours ago](https://www.dig-in.com/list/top-insurtech-funding-rounds-november-2025))
-- Can your AI think like an underwriter? ([2 hours ago](https://www.dig-in.com/opinion/can-your-ai-think-like-an-underwriter))
+- Top insurtech funding rounds, November 2025 ([3 hours ago](https://www.dig-in.com/list/top-insurtech-funding-rounds-november-2025))
+- Can your AI think like an underwriter? ([3 hours ago](https://www.dig-in.com/opinion/can-your-ai-think-like-an-underwriter))
 - It’s a Bold Move From Bold Penguin ([1 days ago](https://insurance-edge.net/2025/12/06/its-a-bold-move-from-bold-penguin/))
 - California Resources Reports Oil Fluid Spill in Monterey County ([2 days ago](https://www.insurancejournal.com/news/west/2025/12/05/850131.htm))
 - How to Grow an Independent Insurance Agency ([2 days ago](https://www.insurancejournal.com/blogs/ezlynx/2025/12/05/850118.htm))

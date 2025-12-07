@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- OpenAI denies rolling out ads on ChatGPT paid plans ([1 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-denies-rolling-out-ads-on-chatgpt-paid-plans/))
+- OpenAI denies rolling out ads on ChatGPT paid plans ([2 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-denies-rolling-out-ads-on-chatgpt-paid-plans/))
 - Portugal updates cybercrime law to exempt security researchers ([7 hours ago](https://www.bleepingcomputer.com/news/security/portugal-updates-cybercrime-law-to-exempt-security-researchers/))
 - React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable ([1 days ago](https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/))
 - Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks ([1 days ago](https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html))
@@ -64,7 +64,7 @@ description: SecOps News
 - Proxmox delivers its software-defined datacenter contender and VMware escape hatch ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/05/proxmox_datacenter_manager_1_stable/))
 - An AI for an AI: Anthropic says AI agents require AI defense ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/05/an_ai_for_an_ai/))
 - An AI for an AI: Anthropic says AI agents require AI defense ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/05/an_ai_for_an_ai/))
-- SMS Phishers Pivot to Points, Taxes, Fake Retailers ([2 days ago](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/))
+- SMS Phishers Pivot to Points, Taxes, Fake Retailers ([3 days ago](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/))
 - PRC spies Brickstormed their way into critical US networks and remained hidden for years ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/04/prc_spies_brickstorm_cisa/))
 - OpenAI turns the screws on chatbots to get them to confess mischief ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/04/openai_bots_tests_admit_wrongdoing/))
 - Hegseth needs to go to secure messaging school, report says ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/04/dod_hegseth_broke_pentagon_policy_signal/))
@@ -176,7 +176,7 @@ description: SecOps News
 - Google Sues to Disrupt Chinese SMS Phishing Triad ([24 days ago](https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/))
 - Operation Endgame 3.0 - 2,046,030 breached accounts ([24 days ago](https://haveibeenpwned.com/Breach/OperationEndgame3))
 - Smashing Security podcast #443: Tinder’s camera roll and the Buffett deepfake ([24 days ago](https://grahamcluley.com/smashing-security-podcast-443/))
-- Disruption with some GitHub services ([24 days ago](https://www.githubstatus.com/incidents/br7kz68t38cl))
+- Disruption with some GitHub services ([25 days ago](https://www.githubstatus.com/incidents/br7kz68t38cl))
 - Delay in notification deliveries ([25 days ago](https://www.githubstatus.com/incidents/l0brgg302bf5))
 - Leading AI companies accidentally leak their passwords and digital keys on GitHub – what you need to know ([25 days ago](https://www.fortra.com/blog/ai-companies-accidentally-leak-passwords-digital-keys-github))
 - Weekly Update 477 ([25 days ago](https://www.troyhunt.com/weekly-update-477/))

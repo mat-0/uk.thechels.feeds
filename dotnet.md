@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- F# Weekly #49, 2025 - Oxpecker 2, fsi-mcp, LSP &amp; AOC in F# ([13 hours ago](https://dotnetkicks.com/r/736168?url=https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/))
-- Immutable Collection Add() Trap: Don’t Get Burned — Use a Builder Instead ([15 hours ago](https://dotnettips.wordpress.com/2025/12/07/immutable-collection-add-trap-dont-get-burned-use-a-builder-instead/))
+- F# Weekly #49, 2025 - Oxpecker 2, fsi-mcp, LSP &amp; AOC in F# ([14 hours ago](https://dotnetkicks.com/r/736168?url=https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/))
+- Immutable Collection Add() Trap: Don’t Get Burned — Use a Builder Instead ([16 hours ago](https://dotnettips.wordpress.com/2025/12/07/immutable-collection-add-trap-dont-get-burned-use-a-builder-instead/))
 - How the Microsoft SQL team is investing in SQL tools and experiences - Microsoft SQL Server Blog ([1 days ago](https://dotnetkicks.com/r/736132?url=https://www.microsoft.com/en-us/sql-server/blog/2025/12/05/how-the-microsoft-sql-team-is-investing-in-sql-tools-and-experiences/))
 - "Classic" .NET Domain Events with Wolverine and EF Core ([2 days ago](https://dotnetkicks.com/r/736077?url=https://jeremydmiller.com/2025/12/04/classic-net-domain-events-with-wolverine-and-ef-core/))
 - .NET Conf 2025 Recap - Celebrating .NET 10, Visual Studio 2026, AI, Community, & More - .NET Blog ([3 days ago](https://dotnetkicks.com/r/736049?url=https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
@@ -23,7 +23,7 @@ description: DotNet Updates
 - dotInsights  -  December 2025 ([5 days ago](https://blog.jetbrains.com/dotnet/2025/12/02/dotinsights-december-2025/))
 - Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([5 days ago](https://dotnetkicks.com/r/735821?url=https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
 - Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([5 days ago](https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
-- Domain-Driven Design Misconceptions ([5 days ago](https://dotnetkicks.com/r/735809?url=https://codeopinion.com/domain-driven-design-misconceptions/))
+- Domain-Driven Design Misconceptions ([6 days ago](https://dotnetkicks.com/r/735809?url=https://codeopinion.com/domain-driven-design-misconceptions/))
 - Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog ([6 days ago](https://dotnetkicks.com/r/735789?url=https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/))
 - Cross-Platform Age Verification in .NET MAUI Applications ([6 days ago](https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/))
 - Welcoming Babu Annamalai to JasperFx Software ([6 days ago](https://dotnetkicks.com/r/735734?url=https://jeremydmiller.com/2025/12/01/welcoming-babu-annamalai-to-jasperfx-software/))
@@ -39,7 +39,7 @@ description: DotNet Updates
 - .NET Day on Agentic Modernization Coming Soon ([11 days ago](https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
 - Exploring the .NET boot process via host tracing ([12 days ago](https://dotnetkicks.com/r/735596?url=https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
 - Exploring the .NET boot process via host tracing ([12 days ago](https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
-- Minimal APIs, CQRS, DDD... Or Just Use Controllers? ([12 days ago](https://dotnetkicks.com/r/735555?url=https://codeopinion.com/minimal-apis-cqrs-ddd-or-just-use-controllers/))
+- Minimal APIs, CQRS, DDD... Or Just Use Controllers? ([13 days ago](https://dotnetkicks.com/r/735555?url=https://codeopinion.com/minimal-apis-cqrs-ddd-or-just-use-controllers/))
 - Visual Studio - Built for the Speed of Modern Development - Visual Studio Blog ([13 days ago](https://dotnetkicks.com/r/735523?url=https://devblogs.microsoft.com/visualstudio/visual-studio-built-for-the-speed-of-modern-development/))
 - Defensive Programming Rule #5: Let the Compiler Work for You — Harness the Power of Type Checking ([14 days ago](https://dotnettips.wordpress.com/2025/11/23/defensive-programming-rule-5-let-the-compiler-work-for-you-harness-the-power-of-type-checking/))
 - F# Weekly #47, 2025 - F# 10 &amp; last #FsAdvent slots ([14 days ago](https://dotnetkicks.com/r/735486?url=https://sergeytihon.com/2025/11/22/f-weekly-47-2025-f-10-last-fsadvent-slots/))
