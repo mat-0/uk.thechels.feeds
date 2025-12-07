@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable ([17 hours ago](https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/))
+- React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable ([18 hours ago](https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/))
 - Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks ([21 hours ago](https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html))
 - New wave of VPN login attempts targets Palo Alto GlobalProtect portals ([21 hours ago](https://www.bleepingcomputer.com/news/security/new-wave-of-vpn-login-attempts-targets-palo-alto-globalprotect-portals/))
 - Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill ([22 hours ago](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/))
@@ -40,7 +40,7 @@ description: SecOps News
 - Chinese Hackers Have Started Exploiting the Newly Disclosed React2Shell Vulnerability ([1 days ago](https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html))
 - Cloudflare blames today's outage on React2Shell mitigations ([1 days ago](https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/))
 - Salesforce finds new AI monetization knobs to twist ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/05/salesforce_ai_pricing/))
-- Pharma firm Inotiv discloses data breach after ransomware attack ([1 days ago](https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-discloses-data-breach-after-ransomware-attack/))
+- Pharma firm Inotiv discloses data breach after ransomware attack ([2 days ago](https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-discloses-data-breach-after-ransomware-attack/))
 - Linux 6.18 crowned LTS kernel – and Alpine 3.23 wastes no time adopting it ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/05/new_lts_kernel_and_alpine/))
 - Irish Excel whiz sheets all over the competition in Vegas showdown ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/05/diarmuid_early_excel/))
 - Intellexa Leaks Reveal Zero-Days and Ads-Based Vector for Predator Spyware Delivery ([2 days ago](https://thehackernews.com/2025/12/intellexa-leaks-reveal-zero-days-and.html))
@@ -80,7 +80,7 @@ description: SecOps News
 - ZTE CDO Cui Li speaks at Economist Impact's AI Innovation Asia 2025 ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/04/zte-speaks-at-economist-impact-ai-innovation-asia-2025/))
 - Latest Windows 11 updates may break the OS's most basic bits ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/04/windows_11_start_explorer/))
 - Logitech chief says ill-conceived gadgets put the AI in FAIL ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/04/logitech_chief_ai/))
-- Aisuru botnet turns Q3 into a terabit-scale stress test for the entire internet ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/04/cloudflare_aisuru_botnet/))
+- Aisuru botnet turns Q3 into a terabit-scale stress test for the entire internet ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/04/cloudflare_aisuru_botnet/))
 - ThreatsDay Bulletin: Wi-Fi Hack, npm Worm, DeFi Theft, Phishing Blasts— and 15 More Stories ([3 days ago](https://thehackernews.com/2025/12/threatsday-bulletin-wi-fi-hack-npm-worm.html))
 - 5 Threats That Reshaped Web Security This Year [2025] ([3 days ago](https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html))
 - UK SAP users say they're baffled by Business Suite reboot licensing maze ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/04/uk_sap_business_suite/))
