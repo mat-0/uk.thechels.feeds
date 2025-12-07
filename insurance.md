@@ -8,6 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
+- Top insurtech funding rounds, November 2025 ([1 minutes ago](https://www.dig-in.com/list/top-insurtech-funding-rounds-november-2025))
+- Can your AI think like an underwriter? ([7 minutes ago](https://www.dig-in.com/opinion/can-your-ai-think-like-an-underwriter))
 - It’s a Bold Move From Bold Penguin ([1 days ago](https://insurance-edge.net/2025/12/06/its-a-bold-move-from-bold-penguin/))
 - California Resources Reports Oil Fluid Spill in Monterey County ([1 days ago](https://www.insurancejournal.com/news/west/2025/12/05/850131.htm))
 - How to Grow an Independent Insurance Agency ([2 days ago](https://www.insurancejournal.com/blogs/ezlynx/2025/12/05/850118.htm))
@@ -68,7 +70,7 @@ description: Insurance Updates
 - MDS Group integrates Marlow Caución to expand specialist operations in Spain ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mds-group-integrates-marlow-caucion-to-expand-specialist-operations-in-spain-559083.aspx))
 - Fitch gives verdict on EMEA insurance in 2026 ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fitch-gives-verdict-on-emea-insurance-in-2026-559080.aspx))
 - LMA sets technology and data priorities for the Lloyd's market in 2026 ([2 days ago](https://www.insurancebusinessmag.com/uk/news/technology/lma-sets-technology-and-data-priorities-for-the-lloyds-market-in-2026-559079.aspx))
-- Core trends driving insurance transformation in 2026 ([2 days ago](https://www.dig-in.com/opinion/core-trends-driving-insurance-transformation-in-2026))
+- Core trends driving insurance transformation in 2026 ([3 days ago](https://www.dig-in.com/opinion/core-trends-driving-insurance-transformation-in-2026))
 - Losses top $20B in Asia floods as climate risks grow ([3 days ago](https://www.dig-in.com/articles/losses-top-20b-in-asia-floods-as-climate-risks-grow))
 - Davies bets big on one country – and even bigger on artificial intelligence ([3 days ago](https://www.insurancebusinessmag.com/uk/news/claims/davies-bets-big-on-one-country--and-even-bigger-on-artificial-intelligence-558966.aspx))
 - Outperforming M&A dealmakers set stage for busier 2026 – WTW ([3 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/outperforming-manda-dealmakers-set-stage-for-busier-2026--wtw-558948.aspx))
@@ -100,7 +102,6 @@ description: Insurance Updates
 - Why shipbuilding insurance is making waves in marine risk ([4 days ago](https://www.postonline.co.uk/commercial/7959313/why-shipbuilding-insurance-is-making-waves-in-marine-risk))
 - Cybersecurity predictions for 2026 ([4 days ago](https://www.dig-in.com/news/cybersecurity-predictions-for-2026))
 - WIL 2025: Lindsey DiGangi ([4 days ago](https://www.dig-in.com/news/wil-2025-lindsey-digangi))
-- National Flood Insurance launches faster quote portals ([5 days ago](https://www.dig-in.com/news/national-flood-insurance-rolls-out-faster-quoting-tools))
 - Domestic & General snapped up by US firm ([5 days ago](https://www.postonline.co.uk/claims/7959481/domestic-general-snapped-up-by-us-firm))
 - Aviva confirms By Miles redundancies ([5 days ago](https://www.postonline.co.uk/news/7959472/aviva-confirms-by-miles-redundancies))
 - Bereavement is the fourth most common reason for referral to RedArc ([5 days ago](https://ifamagazine.com/bereavement-is-the-fourth-most-common-reason-for-referral-to-redarc/))
@@ -110,7 +111,6 @@ description: Insurance Updates
 - Big Interview: Donna Scully, Carpenters Group ([5 days ago](https://www.postonline.co.uk/claims/7959367/big-interview-donna-scully-carpenters-group))
 - UK insurtechs are making waves on the world stage – and rightly so ([5 days ago](https://www.postonline.co.uk/technology/7959444/uk-insurtechs-are-making-waves-on-the-world-stage-and-rightly-so))
 - Which? super-complaint shows insurance is a race to the bottom ([5 days ago](https://www.postonline.co.uk/personal/7959449/which-super-complaint-shows-insurance-is-a-race-to-the-bottom))
-- How 'super roofs' reward insurers, cat bond investors and homeowners ([5 days ago](https://www.dig-in.com/articles/how-super-roofs-reward-insurers-cat-bond-investors-and-homeowners))
 - Pool Re scheme spurs Axa to include terrorism cover in SME policies ([6 days ago](https://www.postonline.co.uk/commercial/7959475/pool-re-scheme-spurs-axa-to-include-terrorism-cover-in-sme-policies))
 - Gender gap in mental health support uptake highlights the importance of protection, LV= reports ([6 days ago](https://ifamagazine.com/gender-gap-in-mental-health-support-uptake-highlights-the-importance-of-protection-lv-reports/))
 - Why income protection matters most for the financially vulnerable ([6 days ago](https://ifamagazine.com/why-income-protection-matters-most-for-the-financially-vulnerable/))
