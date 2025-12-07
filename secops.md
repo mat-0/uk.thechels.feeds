@@ -172,7 +172,7 @@ description: SecOps News
 - Re: [FD]	: "Glass Cage" – Zero-Click iMessage → Persistent iOS Compromise + Bricking (CVE-2025-24085 / 24201, CNVD-2025-07885) ([23 days ago](https://seclists.org/fulldisclosure/2025/Nov/18))
 - APPLE-SA-11-13-2025-1 Compressor 4.11.1 ([23 days ago](https://seclists.org/fulldisclosure/2025/Nov/17))
 - Re: 83 vulnerabilities in Vasion Print / PrinterLogic ([23 days ago](https://seclists.org/fulldisclosure/2025/Nov/16))
-- Data Leakage Prevention and Data Deletion – ISO 27001 Controls 8.12 and 8.12 Explained ([23 days ago](https://www.itgovernance.co.uk/blog/data-leakage-prevention-and-data-deletion-iso-27001-controls-8-12-and-8-12-explained))
+- Data Leakage Prevention and Data Deletion – ISO 27001 Controls 8.12 and 8.12 Explained ([24 days ago](https://www.itgovernance.co.uk/blog/data-leakage-prevention-and-data-deletion-iso-27001-controls-8-12-and-8-12-explained))
 - Some users may experience failing git push and pull operations. ([24 days ago](https://www.githubstatus.com/incidents/1jw8ltnr1qrj))
 - Google Sues to Disrupt Chinese SMS Phishing Triad ([24 days ago](https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/))
 - Operation Endgame 3.0 - 2,046,030 breached accounts ([24 days ago](https://haveibeenpwned.com/Breach/OperationEndgame3))
