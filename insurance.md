@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- It’s a Bold Move From Bold Penguin ([16 hours ago](https://insurance-edge.net/2025/12/06/its-a-bold-move-from-bold-penguin/))
+- It’s a Bold Move From Bold Penguin ([17 hours ago](https://insurance-edge.net/2025/12/06/its-a-bold-move-from-bold-penguin/))
 - California Resources Reports Oil Fluid Spill in Monterey County ([1 days ago](https://www.insurancejournal.com/news/west/2025/12/05/850131.htm))
 - How to Grow an Independent Insurance Agency ([1 days ago](https://www.insurancejournal.com/blogs/ezlynx/2025/12/05/850118.htm))
 - South Dakota Legislators Plan Bills to Help Residents in Fight Over Limestone Mine ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/12/05/850120.htm))
@@ -54,7 +54,7 @@ description: Insurance Updates
 - Regulators outline plans to grow UK mutuals sector ([1 days ago](https://www.postonline.co.uk/regulation/7959501/regulators-outline-plans-to-grow-uk-mutuals-sector))
 - Bain Capital completes strategic investment in UK broker Jensten Group ([1 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/bain-capital-completes-strategic-investment-in-uk-broker-jensten-group-559108.aspx))
 - Nirvana to acquire Belgian sports insurance specialist Arena NV ([1 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/nirvana-to-acquire-belgian-sports-insurance-specialist-arena-nv-559107.aspx))
-- Apartment Building Fires Displace 70 Massachusetts Families; No Injuries Reported ([1 days ago](https://www.insurancejournal.com/news/east/2025/12/05/850033.htm))
+- Apartment Building Fires Displace 70 Massachusetts Families; No Injuries Reported ([2 days ago](https://www.insurancejournal.com/news/east/2025/12/05/850033.htm))
 - Markets/Coverages: Bold Penguin Adds Parametric Coverage With Adaptive Partnership ([2 days ago](https://www.insurancejournal.com/news/national/2025/12/05/849997.htm))
 - Viewpoint: Healthcare Cyber Insurance at an Inflection Point ([2 days ago](https://www.insurancejournal.com/news/national/2025/12/05/849989.htm))
 - The Rise of AI Reasoning Models Comes With a Big Energy Tradeoff ([2 days ago](https://www.insurancejournal.com/news/national/2025/12/05/850005.htm))
@@ -81,7 +81,7 @@ description: Insurance Updates
 - MGA Ripe moves into holiday homes with Schofields acquisition ([2 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/mga-ripe-moves-into-holiday-homes-with-schofields-acquisition-558923.aspx))
 - UK van insurance premiums fall further year-on-year as price slide deepens – Pearson Ham ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/uk-van-insurance-premiums-fall-further-yearonyear-as-price-slide-deepens--pearson-ham-558921.aspx))
 - New Lloyd's claims hurdle turns service into a market differentiator ([2 days ago](https://www.insurancebusinessmag.com/uk/news/claims/new-lloyds-claims-hurdle-turns-service-into-a-market-differentiator-558912.aspx))
-- Robotaxi hooligans - maybe they're not as safe as we thought? ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/robotaxi-hooligans--maybe-theyre-not-as-safe-as-we-thought-558901.aspx))
+- Robotaxi hooligans - maybe they're not as safe as we thought? ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/robotaxi-hooligans--maybe-theyre-not-as-safe-as-we-thought-558901.aspx))
 - How MGAs are shaping the future of insurance ([3 days ago](https://www.postonline.co.uk/personal/7959445/how-mgas-are-shaping-the-future-of-insurance))
 - Q&A: Julian Roberts, WTW ([3 days ago](https://www.postonline.co.uk/commercial/7959357/qa-julian-roberts-wtw))
 - Throwback Thursday: Insurers retreat from war risk cover ([3 days ago](https://www.postonline.co.uk/commercial/7956779/throwback-thursday-insurers-retreat-from-war-risk-cover))
