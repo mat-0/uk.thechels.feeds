@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Trying out the Zed editor on Windows for .NET and Markdown ([3 hours ago](https://dotnetkicks.com/r/736257?url=https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/))
+- Trying out the Zed editor on Windows for .NET and Markdown ([4 hours ago](https://dotnetkicks.com/r/736257?url=https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/))
 - Trying out the Zed editor on Windows for .NET and Markdown ([4 hours ago](https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/))
 - Microsoft Learn MCP Server Elevates Development - .NET Blog ([18 hours ago](https://dotnetkicks.com/r/736233?url=https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/))
 - Microsoft Learn MCP Server Elevates Development ([18 hours ago](https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/))
-- Aggregates in DDD: Model Rules, Not Relationships ([18 hours ago](https://dotnetkicks.com/r/736231?url=https://codeopinion.com/aggregates-in-ddd-model-rules-not-relationships/))
+- Aggregates in DDD: Model Rules, Not Relationships ([19 hours ago](https://dotnetkicks.com/r/736231?url=https://codeopinion.com/aggregates-in-ddd-model-rules-not-relationships/))
 - .NET 10 Networking Improvements - .NET Blog ([20 hours ago](https://dotnetkicks.com/r/736202?url=https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/))
 - .NET 10 Networking Improvements ([20 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/))
 - F# Weekly #49, 2025 - Oxpecker 2, fsi-mcp, LSP &amp; AOC in F# ([2 days ago](https://dotnetkicks.com/r/736168?url=https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/))
@@ -33,7 +33,7 @@ description: DotNet Updates
 - Domain-Driven Design Misconceptions ([7 days ago](https://dotnetkicks.com/r/735809?url=https://codeopinion.com/domain-driven-design-misconceptions/))
 - Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog ([7 days ago](https://dotnetkicks.com/r/735789?url=https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/))
 - Cross-Platform Age Verification in .NET MAUI Applications ([7 days ago](https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/))
-- Welcoming Babu Annamalai to JasperFx Software ([7 days ago](https://dotnetkicks.com/r/735734?url=https://jeremydmiller.com/2025/12/01/welcoming-babu-annamalai-to-jasperfx-software/))
+- Welcoming Babu Annamalai to JasperFx Software ([8 days ago](https://dotnetkicks.com/r/735734?url=https://jeremydmiller.com/2025/12/01/welcoming-babu-annamalai-to-jasperfx-software/))
 - F# Weekly #48, 2025 - #FsAdvent starts Dec 1st. ([8 days ago](https://dotnetkicks.com/r/735711?url=https://sergeytihon.com/2025/11/30/f-weekly-48-2025-fsadvent-starts-dec-1st/))
 - Defensive Programming Rule #6: Verify Resource Availability (Before You Access It) ([9 days ago](https://dotnettips.wordpress.com/2025/11/30/defensive-programming-rule-6-verify-resource-availability-before-you-access-it/))
 - Exploring Squirrly Apache Flink Performance Issues through Continual AI-Driven Evaluation ([9 days ago](https://dotnetkicks.com/r/735694?url=https://rion.io/2025/11/29/exploring-squirrly-apache-flink-performance-issues-through-continual-ai-driven-evaluation/))
