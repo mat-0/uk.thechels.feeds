@@ -11,7 +11,7 @@ description: DotNet Updates
 - Streamlining your Git workflow with Visual Studio 2026 - Visual Studio Blog ([1 hours ago](https://dotnetkicks.com/r/736367?url=https://devblogs.microsoft.com/visualstudio/streamlining-your-git-workflow-with-visual-studio-2026/))
 - .NET and .NET Framework December 2025 servicing releases updates - .NET Blog ([21 hours ago](https://dotnetkicks.com/r/736324?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/))
 - .NET and .NET Framework December 2025 servicing releases updates ([21 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/))
-- Implementing Cross-Platform In-App Billing in .NET MAUI Applications - .NET Blog ([21 hours ago](https://dotnetkicks.com/r/736298?url=https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui/))
+- Implementing Cross-Platform In-App Billing in .NET MAUI Applications - .NET Blog ([22 hours ago](https://dotnetkicks.com/r/736298?url=https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui/))
 - Implementing Cross-Platform In-App Billing in .NET MAUI Applications ([22 hours ago](https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui/))
 - Trying out the Zed editor on Windows for .NET and Markdown ([1 days ago](https://dotnetkicks.com/r/736257?url=https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/))
 - Trying out the Zed editor on Windows for .NET and Markdown ([1 days ago](https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/))
