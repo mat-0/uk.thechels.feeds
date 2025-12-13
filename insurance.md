@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Ford and Renault Form Partnership on Light Commercials ([10 hours ago](https://insurance-edge.net/2025/12/13/ford-and-renault-form-partnership-on-light-commercials/))
+- Ford and Renault Form Partnership on Light Commercials ([11 hours ago](https://insurance-edge.net/2025/12/13/ford-and-renault-form-partnership-on-light-commercials/))
 - Equiom Wins Three International Awards ([1 days ago](https://insurance-edge.net/2025/12/12/equiom-wins-three-international-awards/))
 - Man Sentenced for Flashing Three Insurance Agencies in Georgia ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/12/12/850965.htm))
 - US P&C industry reports $35bn nine-month underwriting gain: AM Best ([1 days ago](https://www.reinsurancene.ws/us-pc-industry-reports-35bn-nine-month-underwriting-gain-am-best/))
@@ -64,7 +64,7 @@ description: Insurance Updates
 - People Moves: Penn National Insurance Announces Leadership Changes for 2026 ([1 days ago](https://www.insurancejournal.com/news/east/2025/12/12/850810.htm))
 - A Christmas Carol for insurance’s digital dilemmas ([1 days ago](https://www.postonline.co.uk/technology/7959499/a-christmas-carol-for-insurances-digital-dilemmas))
 - Penny Black’s Social Diary: Brit’s coats; Insurance Innovators’ chicken ([1 days ago](https://www.postonline.co.uk/people/7959345/penny-blacks-social-diary-brits-coats-insurance-innovators-chicken))
-- Parametric insurance: The shift towards data-driven financial protection for underserved exposure ([1 days ago](https://www.dig-in.com/opinion/parametric-insurance-and-data-driven-financial-protection))
+- Parametric insurance: The shift towards data-driven financial protection for underserved exposure ([2 days ago](https://www.dig-in.com/opinion/parametric-insurance-and-data-driven-financial-protection))
 - Active monitoring necessary for connected devices ([2 days ago](https://www.dig-in.com/opinion/active-monitoring-necessary-for-connected-devices))
 - Rising mental health referrals highlight growing pressure and increased reliance on employer health support ([2 days ago](https://ifamagazine.com/rising-mental-health-referrals-highlight-growing-pressure-and-increased-reliance-on-employer-health-support/))
 - With Nano Banana Pro, deepfakes have hit a new milestone – what does it mean for corporate risk? ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/with-nano-banana-pro-deepfakes-have-hit-a-new-milestone--what-does-it-mean-for-corporate-risk-559821.aspx))
@@ -87,8 +87,8 @@ description: Insurance Updates
 - AXA UK research signals opportunities for SME insurance products ([2 days ago](https://www.insurancebusinessmag.com/uk/news/sme/axa-uk-research-signals-opportunities-for-sme-insurance-products-559744.aspx))
 - WIL 2025: MetLife's Donna Carr leads by example ([2 days ago](https://www.dig-in.com/news/metlifes-donna-carr-leads-by-example))
 - AI from buzzword to business impact ([2 days ago](https://www.dig-in.com/opinion/ais-business-impact-for-insurers))
-- Megaquake warning issued as Japan hit by new tremors ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/megaquake-warning-issued-as-japan-hit-by-new-tremors-559717.aspx))
-- WIL 2025: Leaders have vision, Arch's Linda Fallon ([2 days ago](https://www.dig-in.com/news/wil-2025-leaders-have-vision-archs-linda-fallon))
+- Megaquake warning issued as Japan hit by new tremors ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/megaquake-warning-issued-as-japan-hit-by-new-tremors-559717.aspx))
+- WIL 2025: Leaders have vision, Arch's Linda Fallon ([3 days ago](https://www.dig-in.com/news/wil-2025-leaders-have-vision-archs-linda-fallon))
 - State insurance officials lobby for FEMA, NFIP funding ([3 days ago](https://www.dig-in.com/news/state-insurance-officials-lobby-for-fema-nfip-funding))
 - Motor insurance taskforce sets out claims-led reforms – insurers told to prepare for change ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/motor-insurance-taskforce-sets-out-claimsled-reforms--insurers-told-to-prepare-for-change-559656.aspx))
 - Holiday disconnect: How employers can help staff truly switch off ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/holiday-disconnect-how-employers-can-help-staff-truly-switch-off-559647.aspx))
