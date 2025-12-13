@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Ford and Renault Form Partnership on Light Commercials ([8 hours ago](https://insurance-edge.net/2025/12/13/ford-and-renault-form-partnership-on-light-commercials/))
-- Equiom Wins Three International Awards ([23 hours ago](https://insurance-edge.net/2025/12/12/equiom-wins-three-international-awards/))
+- Equiom Wins Three International Awards ([1 days ago](https://insurance-edge.net/2025/12/12/equiom-wins-three-international-awards/))
 - Man Sentenced for Flashing Three Insurance Agencies in Georgia ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/12/12/850965.htm))
 - US P&C industry reports $35bn nine-month underwriting gain: AM Best ([1 days ago](https://www.reinsurancene.ws/us-pc-industry-reports-35bn-nine-month-underwriting-gain-am-best/))
 - QBE Teams Up With Repair Ventures in the USA ([1 days ago](https://insurance-edge.net/2025/12/12/qbe-teams-up-with-repair-ventures-in-the-usa/))
