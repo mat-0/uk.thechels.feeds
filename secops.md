@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks ([10 hours ago](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html))
+- CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks ([11 hours ago](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html))
 - British Airways fears a future where AI agents pick flights and brands get ghosted ([13 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/13/british_airways_fears_a_future/))
-- Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild ([17 hours ago](https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html))
-- Apple fixes two zero-day flaws exploited in 'sophisticated' attacks ([23 hours ago](https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/))
+- Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild ([18 hours ago](https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html))
+- Apple fixes two zero-day flaws exploited in 'sophisticated' attacks ([1 days ago](https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/))
 - Microsoft RasMan DoS 0-day gets unofficial patch - and a working exploit ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/12/microsoft_windows_rasman_dos_0day/))
 - Processing 630 Million More Pwned Passwords, Courtesy of the FBI ([1 days ago](https://www.troyhunt.com/processing-630-million-more-pwned-passwords-courtesy-of-the-fbi/))
 - Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads ([1 days ago](https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html))
@@ -105,7 +105,7 @@ description: SecOps News
 - Vibe coding will deliver a wonderful proliferation of personalized software ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/10/vibe_coding_is_good_enough/))
 - Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws ([3 days ago](https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html))
 - Microsoft reports 7.8-rated zero day, plus 56 more in December Patch Tuesday ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/09/december_2025_patch_tuesday/))
-- Microsoft Patch Tuesday, December 2025 Edition ([3 days ago](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/))
+- Microsoft Patch Tuesday, December 2025 Edition ([4 days ago](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/))
 - How to answer the door when the AI agents come knocking ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/09/okta_agent_control/))
 - How to answer the door when the AI agents come knocking ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/09/okta_agent_control/))
 - Linux Foundation aims to become the Switzerland of AI agents ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/09/linux_foundation_agentic_ai_foundation/))
