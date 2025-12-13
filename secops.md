@@ -9,7 +9,7 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks ([10 hours ago](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html))
-- British Airways fears a future where AI agents pick flights and brands get ghosted ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/13/british_airways_fears_a_future/))
+- British Airways fears a future where AI agents pick flights and brands get ghosted ([13 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/13/british_airways_fears_a_future/))
 - Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild ([17 hours ago](https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html))
 - Apple fixes two zero-day flaws exploited in 'sophisticated' attacks ([23 hours ago](https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/))
 - Microsoft RasMan DoS 0-day gets unofficial patch - and a working exploit ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/12/microsoft_windows_rasman_dos_0day/))
@@ -51,8 +51,8 @@ description: SecOps News
 - CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog ([1 days ago](https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html))
 - Trump Signs Executive Order to Block State AI Regulations ([1 days ago](https://www.securityweek.com/trump-signs-executive-order-to-block-state-ai-regulations/))
 - Crypto-crasher Do Kwon jailed for 15 years over $40bn UST bust ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/12/do_kwon_sentenced/))
-- Brave browser starts testing agentic AI mode for automated tasks ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/brave-browser-starts-testing-agentic-ai-mode-for-automated-tasks/))
-- AI superintelligence is a Silicon Valley fantasy, Ai2 researcher says ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/11/ai_superintelligence_fantasy/))
+- Brave browser starts testing agentic AI mode for automated tasks ([2 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/brave-browser-starts-testing-agentic-ai-mode-for-automated-tasks/))
+- AI superintelligence is a Silicon Valley fantasy, Ai2 researcher says ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/11/ai_superintelligence_fantasy/))
 - VMware kills vSphere Foundation in parts of EMEA ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/11/vmware_kills_vsphere_foundation_parts_emea/))
 - Hackers exploit Gladinet CentreStack cryptographic flaw in RCE attacks ([2 days ago](https://www.bleepingcomputer.com/news/security/hackers-exploit-gladinet-centrestack-cryptographic-flaw-in-rce-attacks/))
 - Notepad++ fixes flaw that let attackers push malicious update files ([2 days ago](https://www.bleepingcomputer.com/news/security/notepad-plus-plus-fixes-flaw-that-let-attackers-push-malicious-update-files/))
@@ -139,7 +139,7 @@ description: SecOps News
 - Team synchronization is experiencing delays for non enterprise managed users ([8 days ago](https://www.githubstatus.com/incidents/3hdjjpkvz895))
 - Multiple Security Misconfigurations and Customer Enumeration Exposure in Convercent Whistleblowing Platform (EQS Group) ([8 days ago](https://seclists.org/fulldisclosure/2025/Dec/4))
 - Weekly Update 481 ([8 days ago](https://www.troyhunt.com/weekly-update-481/))
-- SMS Phishers Pivot to Points, Taxes, Fake Retailers ([8 days ago](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/))
+- SMS Phishers Pivot to Points, Taxes, Fake Retailers ([9 days ago](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/))
 - Why the record-breaking 30 Tbps DDoS attack should concern every business ([9 days ago](https://www.fortra.com/blog/why-record-breaking-30-tbps-ddos-attack-concern-business))
 - Smashing Security podcast #446: A hacker doxxes himself, and social engineering-as-a-service ([9 days ago](https://grahamcluley.com/smashing-security-podcast-446/))
 - Why Does Have I Been Pwned Contain "Fake" Email Addresses? ([9 days ago](https://www.troyhunt.com/why-does-have-i-been-pwned-contain-fake-email-addresses/))
