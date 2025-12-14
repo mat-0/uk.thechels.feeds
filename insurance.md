@@ -99,7 +99,7 @@ description: Insurance Updates
 - Octopus Legacy and Shepherds Friendly partner to offer simplified life insurance ([3 days ago](https://ifamagazine.com/octopus-legacy-and-shepherds-friendly-partner-to-offer-simplified-life-insurance/))
 - Dual moves to insure developers’ biodiversity liabilities ([3 days ago](https://www.postonline.co.uk/commercial/7959515/dual-moves-to-insure-developers-biodiversity-liabilities))
 - Spotlight: Health and life insurers are investing to stay ahead of document fraud ([3 days ago](https://www.postonline.co.uk/market-access/7959488/spotlight-health-and-life-insurers-are-investing-to-stay-ahead-of-document-fraud))
-- Tide names insurance business CEO ([3 days ago](https://www.postonline.co.uk/people/7959528/tide-names-insurance-business-ceo))
+- Tide names insurance business CEO ([4 days ago](https://www.postonline.co.uk/people/7959528/tide-names-insurance-business-ceo))
 - How modern methods of construction are affecting insurers ([4 days ago](https://www.postonline.co.uk/commercial/7959145/how-modern-methods-of-construction-are-affecting-insurers))
 - Avoiding a ‘compensation lottery’ from Court’s transgender ruling ([4 days ago](https://www.postonline.co.uk/personal/7959314/avoiding-a-compensation-lottery-from-courts-transgender-ruling))
 - Property and casualty insurance predictions for 2026 ([4 days ago](https://www.dig-in.com/news/property-and-casualty-insurance-predictions-for-2026))
