@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks ([14 hours ago](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html))
-- British Airways fears a future where AI agents pick flights and brands get ghosted ([16 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/13/british_airways_fears_a_future/))
-- Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild ([21 hours ago](https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html))
+- CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks ([15 hours ago](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html))
+- British Airways fears a future where AI agents pick flights and brands get ghosted ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/13/british_airways_fears_a_future/))
+- Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild ([22 hours ago](https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html))
 - Apple fixes two zero-day flaws exploited in 'sophisticated' attacks ([1 days ago](https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/))
 - Microsoft RasMan DoS 0-day gets unofficial patch - and a working exploit ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/12/microsoft_windows_rasman_dos_0day/))
 - Processing 630 Million More Pwned Passwords, Courtesy of the FBI ([1 days ago](https://www.troyhunt.com/processing-630-million-more-pwned-passwords-courtesy-of-the-fbi/))
@@ -95,7 +95,6 @@ description: SecOps News
 - Protecting value at risk - the role of a risk operations center ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/10/protecting_value_risk_role/))
 - Some macOS Actions jobs routing to Ubuntu instead ([3 days ago](https://www.githubstatus.com/incidents/17lxd87h22fj))
 - Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling ([3 days ago](https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html))
-- Latrodectus BackConnect ([3 days ago](https://www.netresec.com/?page=Blog&month=2025-12&post=Latrodectus-BackConnect))
 - Crisis in Icebergen: How NATO crafts stories to sharpen cyber skills ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/10/nato_cyber_training/))
 - Four years later, Irish health service offers €750 to victims of ransomware attack ([3 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/four-years-later-irish-health-service-offers-eu750-to-victims-of-ransomware-attack))
 - Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups ([3 days ago](https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html))
@@ -151,7 +150,6 @@ description: SecOps News
 - 2 vulnerabilities in Egovframe ([11 days ago](https://seclists.org/fulldisclosure/2025/Dec/2))
 - [REVIVE-SA-2025-005] Revive Adserver Vulnerability ([11 days ago](https://seclists.org/fulldisclosure/2025/Dec/1))
 - Missing Critical Security Headers in Legality WHISTLEBLOWING ([11 days ago](https://seclists.org/fulldisclosure/2025/Dec/0))
-- NetworkMiner 3.1 Released ([12 days ago](https://www.netresec.com/?page=Blog&month=2025-12&post=NetworkMiner-3-1-Released))
 - Zilvia.net - 287,863 breached accounts ([12 days ago](https://haveibeenpwned.com/Breach/Zilvia))
 - Weekly Update 480 ([12 days ago](https://www.troyhunt.com/weekly-update-480/))
 - What is Cyber Security? Definition and Best Practices ([15 days ago](https://grcsolutions.io/what-is-cybersecurity/))
