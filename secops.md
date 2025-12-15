@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Honeypots can help defenders, or damn them if implemented badly ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/14/infosec_news_in_brief/))
-- Beware: PayPal subscriptions abused to send fake purchase emails ([8 hours ago](https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/))
+- Honeypots can help defenders, or damn them if implemented badly ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/14/infosec_news_in_brief/))
+- Beware: PayPal subscriptions abused to send fake purchase emails ([9 hours ago](https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/))
 - CyberVolk’s ransomware debut stumbles on cryptography weakness ([1 days ago](https://www.bleepingcomputer.com/news/security/cybervolks-ransomware-debut-stumbles-on-cryptography-weakness/))
 - CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks ([1 days ago](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html))
 - British Airways fears a future where AI agents pick flights and brands get ghosted ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/13/british_airways_fears_a_future/))
@@ -176,7 +176,7 @@ description: SecOps News
 - Operation Endgame disrupts Rhadamanthys information-stealing malware ([20 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/operation-endgame-disrupts-rhadamanthys-information-stealing-malware))
 - CodeStepByStep - 103,077 breached accounts ([21 days ago](https://haveibeenpwned.com/Breach/CodeStepByStep))
 - Weekly Update 479 ([21 days ago](https://www.troyhunt.com/weekly-update-479/))
-- ADDA - 1,829,314 breached accounts ([21 days ago](https://haveibeenpwned.com/Breach/ADDA))
+- ADDA - 1,829,314 breached accounts ([22 days ago](https://haveibeenpwned.com/Breach/ADDA))
 - Disruption with some GitHub services ([24 days ago](https://www.githubstatus.com/incidents/zzl9nl31lb35))
 - International Kiteboarding Organization - 340,349 breached accounts ([24 days ago](https://haveibeenpwned.com/Breach/IKO))
 - Disruption with some GitHub services ([24 days ago](https://www.githubstatus.com/incidents/cg3wwz9dw5dg))
@@ -186,7 +186,7 @@ description: SecOps News
 - Smashing Security podcast #444: We’re sorry. Wait, did a company actually say that? ([24 days ago](https://grahamcluley.com/smashing-security-podcast-444/))
 - Beckett Collectibles - 1,041,238 breached accounts ([24 days ago](https://haveibeenpwned.com/Breach/Beckett))
 - Eurofiber - 10,003 breached accounts ([24 days ago](https://haveibeenpwned.com/Breach/Eurofiber))
-- Vultr - 187,872 breached accounts ([24 days ago](https://haveibeenpwned.com/Breach/Vultr))
+- Vultr - 187,872 breached accounts ([25 days ago](https://haveibeenpwned.com/Breach/Vultr))
 - Report URI - outage update ([25 days ago](https://scotthelme.ghost.io/report-uri-outage-update/))
 - [REVIVE-SA-2025-004] Revive Adserver Vulnerabilities ([25 days ago](https://seclists.org/fulldisclosure/2025/Nov/21))
 - [REVIVE-SA-2025-003] Revive Adserver Vulnerabilities ([25 days ago](https://seclists.org/fulldisclosure/2025/Nov/20))
