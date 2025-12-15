@@ -8,9 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
+- VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption ([1 hours ago](https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html))
 - Starlink claims Chinese launch came within 200 meters of broadband satellite ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/15/asia_tech_news_roundup/))
 - Starlink claims Chinese launch came within 200 meters of broadband satellite ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/15/asia_tech_news_roundup/))
-- Honeypots can help defenders, or damn them if implemented badly ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/14/infosec_news_in_brief/))
+- Honeypots can help defenders, or damn them if implemented badly ([7 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/14/infosec_news_in_brief/))
 - Beware: PayPal subscriptions abused to send fake purchase emails ([14 hours ago](https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/))
 - CyberVolk’s ransomware debut stumbles on cryptography weakness ([1 days ago](https://www.bleepingcomputer.com/news/security/cybervolks-ransomware-debut-stumbles-on-cryptography-weakness/))
 - CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks ([1 days ago](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html))
@@ -110,7 +111,6 @@ description: SecOps News
 - Porsche panic in Russia as pricey status symbols forget how to car ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/09/porsche_bricked_russia/))
 - Four Threat Clusters Using CastleLoader as GrayBravo Expands Its Malware Service Infrastructure ([5 days ago](https://thehackernews.com/2025/12/four-threat-clusters-using-castleloader.html))
 - As humanoid robots enter the mainstream, security pros flag the risk of botnets on legs ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/09/humanoid_robot_security/))
-- Storm-0249 Escalates Ransomware Attacks with ClickFix, Fileless PowerShell, and DLL Sideloading ([5 days ago](https://thehackernews.com/2025/12/storm-0249-escalates-ransomware-attacks.html))
 - UK to Europe: The time to counter Russia's information war machine is now ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/09/uk_europe_russia_information/))
 - Disruption with some GitHub services ([6 days ago](https://www.githubstatus.com/incidents/n4fpndtvbmwb))
 - Potential disruption with our Agent Control Plane UI Settings ([6 days ago](https://www.githubstatus.com/incidents/r6fc6tyzr430))
