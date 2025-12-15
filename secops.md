@@ -9,10 +9,10 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption ([1 hours ago](https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html))
-- Starlink claims Chinese launch came within 200 meters of broadband satellite ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/15/asia_tech_news_roundup/))
-- Starlink claims Chinese launch came within 200 meters of broadband satellite ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/15/asia_tech_news_roundup/))
+- Starlink claims Chinese launch came within 200 meters of broadband satellite ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/15/asia_tech_news_roundup/))
+- Starlink claims Chinese launch came within 200 meters of broadband satellite ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/15/asia_tech_news_roundup/))
 - Honeypots can help defenders, or damn them if implemented badly ([7 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/14/infosec_news_in_brief/))
-- Beware: PayPal subscriptions abused to send fake purchase emails ([14 hours ago](https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/))
+- Beware: PayPal subscriptions abused to send fake purchase emails ([15 hours ago](https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/))
 - CyberVolk’s ransomware debut stumbles on cryptography weakness ([1 days ago](https://www.bleepingcomputer.com/news/security/cybervolks-ransomware-debut-stumbles-on-cryptography-weakness/))
 - CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks ([1 days ago](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html))
 - British Airways fears a future where AI agents pick flights and brands get ghosted ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/13/british_airways_fears_a_future/))
@@ -80,7 +80,7 @@ description: SecOps News
 - Unpatched Gogs Zero-Day Exploited Across 700+ Instances Amid Active Attacks ([3 days ago](https://thehackernews.com/2025/12/unpatched-gogs-zero-day-exploited.html))
 - Airbus exec: Most CIOs in Europe will not finish SAP ECC6 migration by 2030 ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/11/airbus_exec_sap/))
 - Users report chaos as Legal Aid Agency stumbles back online after cyberattack ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/11/legal_aid_agency_recovery/))
-- Chrome Targeted by Active In-the-Wild Exploit Tied to Undisclosed High-Severity Flaw ([3 days ago](https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html))
+- Chrome Targeted by Active In-the-Wild Exploit Tied to Undisclosed High-Severity Flaw ([4 days ago](https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html))
 - Active Attacks Exploit Gladinet's Hard-Coded Keys for Unauthorized Access and Code Execution ([4 days ago](https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html))
 - India’s government wants to set prices for the content AI companies use to train models ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/11/india_ai_copyright_proposal/))
 - Parachutists told to check software after jumper dangled from a plane ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/11/atsb_parachute_snagged_software/))
