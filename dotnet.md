@@ -9,10 +9,10 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Azure updates for partners: December 2025 ([1 hours ago](https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025))
-- Critter Stack Roadmap for 2026 ([1 hours ago](https://dotnetkicks.com/r/736802?url=https://jeremydmiller.com/2025/12/17/critter-stack-roadmap-for-2026/))
-- Why "Microservices" Debates Miss the Point ([16 hours ago](https://dotnetkicks.com/r/736738?url=https://codeopinion.com/why-microservices-debates-miss-the-point/))
+- Critter Stack Roadmap for 2026 ([2 hours ago](https://dotnetkicks.com/r/736802?url=https://jeremydmiller.com/2025/12/17/critter-stack-roadmap-for-2026/))
+- Why "Microservices" Debates Miss the Point ([17 hours ago](https://dotnetkicks.com/r/736738?url=https://codeopinion.com/why-microservices-debates-miss-the-point/))
 - Microsoft.Testing.Platform Now Fully Supported in Azure DevOps - .NET Blog ([21 hours ago](https://dotnetkicks.com/r/736726?url=https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
-- Microsoft.Testing.Platform Now Fully Supported in Azure DevOps ([21 hours ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
+- Microsoft.Testing.Platform Now Fully Supported in Azure DevOps ([22 hours ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
 - Debugging, but Without the Drama (A Visual Studio 2026 Story) - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/736724?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2026-debugging-with-copilot/))
 - Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([1 days ago](https://dotnetkicks.com/r/736711?url=https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
 - Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([1 days ago](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
@@ -57,7 +57,7 @@ description: DotNet Updates
 - Exploring the .NET boot process via host tracing ([22 days ago](https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
 - Defensive Programming Rule #5: Let the Compiler Work for You — Harness the Power of Type Checking ([24 days ago](https://dotnettips.wordpress.com/2025/11/23/defensive-programming-rule-5-let-the-compiler-work-for-you-harness-the-power-of-type-checking/))
 - Reinventing how .NET Builds and Ships (Again) ([26 days ago](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/))
-- More Updates and Fixes for ReSharper and Rider 2025.3 ([26 days ago](https://blog.jetbrains.com/dotnet/2025/11/20/resharper-rider-2025-3-0-2/))
+- More Updates and Fixes for ReSharper and Rider 2025.3 ([27 days ago](https://blog.jetbrains.com/dotnet/2025/11/20/resharper-rider-2025-3-0-2/))
 - Companies complaining .NET moves too fast should just pay for post-EOL support ([29 days ago](https://andrewlock.net/companies-using-dotnet-need-to-suck-it-up-and-pay-for-support/))
 
 <!-- news_marker ends -->
