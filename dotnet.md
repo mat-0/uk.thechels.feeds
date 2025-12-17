@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Why "Microservices" Debates Miss the Point ([7 hours ago](https://dotnetkicks.com/r/736738?url=https://codeopinion.com/why-microservices-debates-miss-the-point/))
-- Microsoft.Testing.Platform Now Fully Supported in Azure DevOps - .NET Blog ([11 hours ago](https://dotnetkicks.com/r/736726?url=https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
+- Why "Microservices" Debates Miss the Point ([8 hours ago](https://dotnetkicks.com/r/736738?url=https://codeopinion.com/why-microservices-debates-miss-the-point/))
+- Microsoft.Testing.Platform Now Fully Supported in Azure DevOps - .NET Blog ([12 hours ago](https://dotnetkicks.com/r/736726?url=https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
 - Microsoft.Testing.Platform Now Fully Supported in Azure DevOps ([12 hours ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
 - Debugging, but Without the Drama (A Visual Studio 2026 Story) - Visual Studio Blog ([15 hours ago](https://dotnetkicks.com/r/736724?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2026-debugging-with-copilot/))
-- Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([19 hours ago](https://dotnetkicks.com/r/736711?url=https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
+- Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([20 hours ago](https://dotnetkicks.com/r/736711?url=https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
 - Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([20 hours ago](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
 - Prompt Noise Is Killing Your AI Accuracy: How To Optimize Context For Grounded Output  -  Build5Nines ([1 days ago](https://dotnetkicks.com/r/736689?url=https://build5nines.com/prompt-noise-is-killing-your-ai-accuracy-how-to-optimize-context-for-grounded-output/))
 - How to Build iOS Widgets with .NET MAUI - .NET Blog ([1 days ago](https://dotnetkicks.com/r/736640?url=https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/))
@@ -38,7 +38,7 @@ description: DotNet Updates
 - "Classic" .NET Domain Events with Wolverine and EF Core ([12 days ago](https://dotnetkicks.com/r/736077?url=https://jeremydmiller.com/2025/12/04/classic-net-domain-events-with-wolverine-and-ef-core/))
 - .NET Conf 2025 Recap - Celebrating .NET 10, Visual Studio 2026, AI, Community, & More - .NET Blog ([12 days ago](https://dotnetkicks.com/r/736049?url=https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
 - .NET Conf 2025 Recap – Celebrating .NET 10, Visual Studio 2026, AI, Community, & More ([12 days ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
-- Security Surfaces ([12 days ago](https://dotnetkicks.com/r/735992?url=https://textslashplain.com/2025/12/03/security-surfaces/))
+- Security Surfaces ([13 days ago](https://dotnetkicks.com/r/735992?url=https://textslashplain.com/2025/12/03/security-surfaces/))
 - Unlock GitHub Copilot's Full Potential: Why Every Repo Needs An AGENTS.md File  -  Build5Nines ([13 days ago](https://dotnetkicks.com/r/735949?url=https://build5nines.com/unlock-github-copilots-full-potential-why-every-repo-needs-an-agents-md-file/))
 - AutoMapper 16.0.0 and MediatR 14.0.0 Released with .NET 10 Support ([13 days ago](https://dotnetkicks.com/r/735934?url=https://www.jimmybogard.com/automapper-16-0-0-and-mediatr-14-0-0-released-with-net-10-support/))
 - Introducing Data Ingestion Building Blocks (Preview) - .NET Blog ([13 days ago](https://dotnetkicks.com/r/735929?url=https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/))
