@@ -9,7 +9,7 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - RansomHouse upgrades encryption with multi-layered data processing ([6 hours ago](https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/))
-- U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware ([7 hours ago](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html))
+- U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware ([8 hours ago](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html))
 - Weekly Update 483 ([15 hours ago](https://www.troyhunt.com/weekly-update-483/))
 - ATM jackpotting gang accused of unleashing Ploutus malware across US ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/19/tren_de_aragua_atm/))
 - Microsoft confirms Teams is down and messages are delayed ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/))
@@ -90,7 +90,7 @@ description: SecOps News
 - Attacks pummeling Cisco AsyncOS 0-day since late November ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/17/attacks_pummeling_cisco_0day/))
 - Web Hosting Talk - 515,149 breached accounts ([2 days ago](https://haveibeenpwned.com/Breach/WebHostingTalk))
 - CEO spills the Tea about massive token farming campaigns ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/17/tea_ceo_fends_off_token_farmers/))
-- Jassy taps 27-year Amazon veteran to run AGI org, which is now definitely a thing that exists ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/17/jassy_taps_peter_desantis_to_run_agi/))
+- Jassy taps 27-year Amazon veteran to run AGI org, which is now definitely a thing that exists ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/17/jassy_taps_peter_desantis_to_run_agi/))
 - Datacenters feel the Bern as Senator Sanders pushes bit barn building pause ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/17/datacenter_ai_bernie_sanders/))
 - SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances ([3 days ago](https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html))
 - Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks ([3 days ago](https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html))
@@ -117,7 +117,7 @@ description: SecOps News
 - Cisco decides its homegrown AI model is ready to power its products ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/17/cisco_foundation_model_indentity_intelligence/))
 - Hot for its bot, McKinsey may cut thousands of jobs ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/16/mckinsey_may_cut_staff/))
 - Weekly Update 482 ([3 days ago](https://www.troyhunt.com/weekly-update-482/))
-- Meta's SAM bot keeps 'em separated as it isolates voices and instruments from audio clips ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/16/meta_sam_ai_audio/))
+- Meta's SAM bot keeps 'em separated as it isolates voices and instruments from audio clips ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/16/meta_sam_ai_audio/))
 - Browser 'privacy' extensions have eye on your AI, log all your chats ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/16/chrome_edge_privacy_extensions_quietly/))
 - Nvidia fills the void of American open-weights models with some of its own ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/16/nvidia_nemotron/))
 - OH SH!T, I’ve Got Bowel Cancer — A bold, raw and supportive narrative from one patient’s journey ([4 days ago](https://grcsolutions.io/oh-sht-ive-got-bowel-cancer-pr/))

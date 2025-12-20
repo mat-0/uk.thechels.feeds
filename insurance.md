@@ -88,7 +88,7 @@ description: Insurance Updates
 - FLA urges targeted approach for FCA Section 404 motor finance redress scheme ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/fla-urges-targeted-approach-for-fca-section-404-motor-finance-redress-scheme-560551.aspx))
 - UK motor insurance market stabilises, LexisNexis finds ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/uk-motor-insurance-market-stabilises-lexisnexis-finds-560549.aspx))
 - 16.4 million could be affected in giant French hack ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/16-4-million-could-be-affected-in-giant-french-hack-560537.aspx))
-- First Street, advocates respond to Zillow removal of climate risk scores ([2 days ago](https://www.dig-in.com/news/first-street-responds-to-zillow-dropping-climate-risk-scores))
+- First Street, advocates respond to Zillow removal of climate risk scores ([3 days ago](https://www.dig-in.com/news/first-street-responds-to-zillow-dropping-climate-risk-scores))
 - People dropped federal flood Insurance when rates rose ([3 days ago](https://www.dig-in.com/articles/people-dropped-federal-flood-insurance-when-rates-rose))
 - Guiding policyholders to communication pathways ([3 days ago](https://www.dig-in.com/opinion/guiding-policyholders-to-communication-pathways))
 - Why are fewer employees getting annual bonuses? ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/why-are-fewer-employees-getting-annual-bonuses-560509.aspx))
