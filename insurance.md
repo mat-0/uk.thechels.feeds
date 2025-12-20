@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Are We Heading Towards Two-Tier Contactless Limits in The UK? ([6 hours ago](https://insurance-edge.net/2025/12/20/are-we-heading-towards-two-tier-contactless-limits-in-the-uk/))
+- Are We Heading Towards Two-Tier Contactless Limits in The UK? ([7 hours ago](https://insurance-edge.net/2025/12/20/are-we-heading-towards-two-tier-contactless-limits-in-the-uk/))
 - Everest names Carter as Head of NA Re Claims as Parker takes over as Head of Intl. Re Claims ([1 days ago](https://www.reinsurancene.ws/everest-names-carter-as-head-of-na-re-claims-as-parker-takes-over-as-head-of-intl-re-claims/))
 - Cessna Jet Tied to Nascar Driver Greg Biffle Crashes in North Carolina ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/12/19/851823.htm))
 - London Market faces pivotal moment for industry’s future: Guidewire’s McDonnell ([1 days ago](https://www.reinsurancene.ws/london-market-faces-pivotal-moment-for-industrys-future-guidewires-mcdonnell/))
