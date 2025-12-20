@@ -9,10 +9,10 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware ([5 hours ago](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html))
-- Weekly Update 483 ([12 hours ago](https://www.troyhunt.com/weekly-update-483/))
-- ATM jackpotting gang accused of unleashing Ploutus malware across US ([22 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/19/tren_de_aragua_atm/))
+- Weekly Update 483 ([13 hours ago](https://www.troyhunt.com/weekly-update-483/))
+- ATM jackpotting gang accused of unleashing Ploutus malware across US ([23 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/19/tren_de_aragua_atm/))
 - Microsoft confirms Teams is down and messages are delayed ([23 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/))
-- Thailand Conference Launches International Initiative to Fight Online Scams ([23 hours ago](https://www.securityweek.com/thailand-conference-launches-international-initiative-to-fight-online-scams/))
+- Thailand Conference Launches International Initiative to Fight Online Scams ([1 days ago](https://www.securityweek.com/thailand-conference-launches-international-initiative-to-fight-online-scams/))
 - Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform ([1 days ago](https://www.bleepingcomputer.com/news/security/nigeria-arrests-dev-of-microsoft-365-raccoon0365-phishing-platform/))
 - DOE recruits cloud, chip, and AI giants for Trump's Genesis Mission ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/19/doe_genesis_agreements/))
 - WatchGuard sounds alarm as critical Firebox flaw comes under active attack ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/19/watchguard_firebox/))
@@ -55,7 +55,7 @@ description: SecOps News
 - University of Sydney suffers data breach exposing student and staff info ([1 days ago](https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/))
 - Clop ransomware targets Gladinet CentreStack in data theft attacks ([1 days ago](https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/))
 - Your car’s web browser may be on the road to cyber ruin ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/18/web_browsers_in_devices_security_vulnerabilities/))
-- Disruption with some GitHub services ([1 days ago](https://www.githubstatus.com/incidents/49y7x9g06l4x))
+- Disruption with some GitHub services ([2 days ago](https://www.githubstatus.com/incidents/49y7x9g06l4x))
 - Crypto crooks co-opt stolen AWS creds to mine coins ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/18/crypto_crooks_use_stolen_aws/))
 - Kim's crypto thieving reached a record $2B in 2025 ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/18/north_korea_stole_2b_crypto_2025/))
 - Intermittent networking failures across GitHub-hosted Actions runners ([2 days ago](https://www.githubstatus.com/incidents/x696x0g4t85l))
@@ -119,7 +119,7 @@ description: SecOps News
 - Weekly Update 482 ([3 days ago](https://www.troyhunt.com/weekly-update-482/))
 - Meta's SAM bot keeps 'em separated as it isolates voices and instruments from audio clips ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/16/meta_sam_ai_audio/))
 - Browser 'privacy' extensions have eye on your AI, log all your chats ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/16/chrome_edge_privacy_extensions_quietly/))
-- Nvidia fills the void of American open-weights models with some of its own ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/16/nvidia_nemotron/))
+- Nvidia fills the void of American open-weights models with some of its own ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/16/nvidia_nemotron/))
 - OH SH!T, I’ve Got Bowel Cancer — A bold, raw and supportive narrative from one patient’s journey ([4 days ago](https://grcsolutions.io/oh-sht-ive-got-bowel-cancer-pr/))
 - Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign ([4 days ago](https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html))
 - Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data ([4 days ago](https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html))
@@ -207,7 +207,5 @@ description: SecOps News
 - ADDA - 1,829,314 breached accounts ([27 days ago](https://haveibeenpwned.com/Breach/ADDA))
 - Disruption with some GitHub services ([29 days ago](https://www.githubstatus.com/incidents/zzl9nl31lb35))
 - International Kiteboarding Organization - 340,349 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/IKO))
-- Disruption with some GitHub services ([29 days ago](https://www.githubstatus.com/incidents/cg3wwz9dw5dg))
-- Mozilla Says It’s Finally Done With Two-Faced Onerep ([29 days ago](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/))
 
 <!-- news_marker ends -->
