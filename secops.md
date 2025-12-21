@@ -9,7 +9,7 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Workers should control the means of agentic production, suggests WorkBeaver boss ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/21/workbeaver_ceo_interview_ai_agents/))
-- NIST tried to pull the pin on NTP servers after blackout caused atomic clock drift ([8 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/21/nist_ntp_outage_warning/))
+- NIST tried to pull the pin on NTP servers after blackout caused atomic clock drift ([9 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/21/nist_ntp_outage_warning/))
 - Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence ([12 hours ago](https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html))
 - RansomHouse upgrades encryption with multi-layered data processing ([1 days ago](https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/))
 - U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware ([1 days ago](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html))
@@ -22,7 +22,7 @@ description: SecOps News
 - WatchGuard sounds alarm as critical Firebox flaw comes under active attack ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/19/watchguard_firebox/))
 - Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers ([1 days ago](https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html))
 - Microsoft 365 accounts targeted in wave of OAuth phishing attacks ([1 days ago](https://www.bleepingcomputer.com/news/security/microsoft-365-accounts-targeted-in-wave-of-oauth-phishing-attacks/))
-- Sydney Uni data goes walkabout after criminals raid code repo ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/19/sydney_uni_breach/))
+- Sydney Uni data goes walkabout after criminals raid code repo ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/19/sydney_uni_breach/))
 - In Other News: Docker AI Attack, Google Sues Chinese Cybercriminals, Coupang Hacked by Employee ([2 days ago](https://www.securityweek.com/in-other-news-docker-ai-attack-google-sues-chinese-cybercriminals-coupang-hacked-by-employee/))
 - New UEFI flaw enables pre-boot attacks on motherboards from Gigabyte, MSI, ASUS, ASRock ([2 days ago](https://www.bleepingcomputer.com/news/security/new-uefi-flaw-enables-pre-boot-attacks-on-motherboards-from-gigabyte-msi-asus-asrock/))
 - Palo Alto Networks, Google Cloud Strike Multibillion-Dollar AI and Cloud Security Deal ([2 days ago](https://www.securityweek.com/palo-alto-networks-google-cloud-strike-multibillion-dollar-ai-and-cloud-security-deal/))
@@ -140,7 +140,7 @@ description: SecOps News
 - APPLE-SA-12-12-2025-8 visionOS 26.2 ([5 days ago](https://seclists.org/fulldisclosure/2025/Dec/13))
 - APPLE-SA-12-12-2025-7 watchOS 26.2 ([5 days ago](https://seclists.org/fulldisclosure/2025/Dec/12))
 - Copilot Code Review is degraded, and not returning responses to users ([5 days ago](https://www.githubstatus.com/incidents/qkr3gcys0lzx))
-- Data Subject Access Requests (DSARs) – A concise guide ([5 days ago](https://grcsolutions.io/data-subject-access-requests-dsars-a-concise-guide/))
+- Data Subject Access Requests (DSARs) – A concise guide ([6 days ago](https://grcsolutions.io/data-subject-access-requests-dsars-a-concise-guide/))
 - Incident with Copilot Grok Code Fast 1 ([6 days ago](https://www.githubstatus.com/incidents/jcbsbbfd1x9r))
 - Report URI Penetration Test 2025 ([6 days ago](https://scotthelme.ghost.io/report-uri-penetration-test-2025/))
 - Mitigating malware and ransomware attacks ([6 days ago](https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks))
