@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Code It Anyway You Want: Initializing Reference Type Static Fields Inline for Enhanced Code Readability ([7 hours ago](https://dotnettips.wordpress.com/2025/12/21/code-it-anyway-you-want-initializing-reference-type-static-fields-inline-for-enhanced-code-readability/))
-- Digital Authentication and Identity validation ([11 hours ago](https://dotnetkicks.com/r/736960?url=https://damienbod.com/2025/12/20/digital-authentication-and-identity-validation/))
+- Code It Anyway You Want: Initializing Reference Type Static Fields Inline for Enhanced Code Readability ([8 hours ago](https://dotnettips.wordpress.com/2025/12/21/code-it-anyway-you-want-initializing-reference-type-static-fields-inline-for-enhanced-code-readability/))
+- Digital Authentication and Identity validation ([12 hours ago](https://dotnetkicks.com/r/736960?url=https://damienbod.com/2025/12/20/digital-authentication-and-identity-validation/))
 - Joe Dluzen on Azure Functions & Durable Functions ([16 hours ago](https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/))
 - ReSharper and Rider 2025.3.1 Released: Next Edit Suggestions and Other Important Updates ([2 days ago](https://blog.jetbrains.com/dotnet/2025/12/18/resharper-and-rider-2025-3-1/))
 - 2025 in review: How we elevated the Microsoft Store experience ([2 days ago](https://dotnetkicks.com/r/736902?url=https://blogs.windows.com/windowsdeveloper/2025/12/18/2025-in-review-how-we-elevated-the-microsoft-store-experience/))
@@ -18,7 +18,7 @@ description: DotNet Updates
 - Why "Microservices" Debates Miss the Point ([4 days ago](https://dotnetkicks.com/r/736738?url=https://codeopinion.com/why-microservices-debates-miss-the-point/))
 - Microsoft.Testing.Platform Now Fully Supported in Azure DevOps - .NET Blog ([4 days ago](https://dotnetkicks.com/r/736726?url=https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
 - Microsoft.Testing.Platform Now Fully Supported in Azure DevOps ([4 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
-- Debugging, but Without the Drama (A Visual Studio 2026 Story) - Visual Studio Blog ([4 days ago](https://dotnetkicks.com/r/736724?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2026-debugging-with-copilot/))
+- Debugging, but Without the Drama (A Visual Studio 2026 Story) - Visual Studio Blog ([5 days ago](https://dotnetkicks.com/r/736724?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2026-debugging-with-copilot/))
 - Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([5 days ago](https://dotnetkicks.com/r/736711?url=https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
 - Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([5 days ago](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
 - Prompt Noise Is Killing Your AI Accuracy: How To Optimize Context For Grounded Output  -  Build5Nines ([5 days ago](https://dotnetkicks.com/r/736689?url=https://build5nines.com/prompt-noise-is-killing-your-ai-accuracy-how-to-optimize-context-for-grounded-output/))
