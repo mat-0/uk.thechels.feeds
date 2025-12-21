@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Are We Heading Towards Two-Tier Contactless Limits in The UK? ([22 hours ago](https://insurance-edge.net/2025/12/20/are-we-heading-towards-two-tier-contactless-limits-in-the-uk/))
+- Are We Heading Towards Two-Tier Contactless Limits in The UK? ([23 hours ago](https://insurance-edge.net/2025/12/20/are-we-heading-towards-two-tier-contactless-limits-in-the-uk/))
 - Everest names Carter as Head of NA Re Claims as Parker takes over as Head of Intl. Re Claims ([1 days ago](https://www.reinsurancene.ws/everest-names-carter-as-head-of-na-re-claims-as-parker-takes-over-as-head-of-intl-re-claims/))
 - Cessna Jet Tied to Nascar Driver Greg Biffle Crashes in North Carolina ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/12/19/851823.htm))
 - London Market faces pivotal moment for industry’s future: Guidewire’s McDonnell ([1 days ago](https://www.reinsurancene.ws/london-market-faces-pivotal-moment-for-industrys-future-guidewires-mcdonnell/))
@@ -78,7 +78,7 @@ description: Insurance Updates
 - Markel taps James Howell to senior underwriting role in terrorism and political violence ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/markel-taps-james-howell-to-senior-underwriting-role-in-terrorism-and-political-violence-560592.aspx))
 - Clear Group’s Howard Lickens to retire ([2 days ago](https://www.postonline.co.uk/broker/7959565/clear-groups-howard-lickens-to-retire))
 - Volt Underwriting renews Lloyd’s binder, lifts line size to $50m for 2026 ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/volt-underwriting-renews-lloyds-binder-lifts-line-size-to-50m-for-2026-560588.aspx))
-- UK charities face cyberattacks as holiday donations move online: Hiscox ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/uk-charities-face-cyberattacks-as-holiday-donations-move-online-hiscox-560586.aspx))
+- UK charities face cyberattacks as holiday donations move online: Hiscox ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/uk-charities-face-cyberattacks-as-holiday-donations-move-online-hiscox-560586.aspx))
 - Throwback Thursday: ‘Goldfinger’ of Lloyd’s attempts comeback ([3 days ago](https://www.postonline.co.uk/lloydslondon/7956782/throwback-thursday-goldfinger-of-lloyds-attempts-comeback))
 - Q&A: Nikki Lidster, Zurich ([3 days ago](https://www.postonline.co.uk/broker/7959500/qa-nikki-lidster-zurich))
 - NFU Mutual chief urges action on rising rural road fatalities ([3 days ago](https://www.postonline.co.uk/personal/7959521/nfu-mutual-chief-urges-action-on-rising-rural-road-fatalities))
@@ -99,7 +99,7 @@ description: Insurance Updates
 - Blog: What you told me you want from risk management ([3 days ago](https://www.postonline.co.uk/technology/7959495/blog-what-you-told-me-you-want-from-risk-management))
 - Esure CEO already heading for the exit ([3 days ago](https://www.postonline.co.uk/news/7959558/esure-ceo-already-heading-for-the-exit))
 - Motor Insurance Taskforce report proves providers call the shots ([3 days ago](https://www.postonline.co.uk/personal/7959555/motor-insurance-taskforce-report-proves-providers-call-the-shots))
-- Leadership, innovation, and the future of insurtech: a 2026 outlook for the UK protection market ([3 days ago](https://ifamagazine.com/leadership-innovation-and-the-future-of-insurtech-a-2026-outlook-for-the-uk-protection-market/))
+- Leadership, innovation, and the future of insurtech: a 2026 outlook for the UK protection market ([4 days ago](https://ifamagazine.com/leadership-innovation-and-the-future-of-insurtech-a-2026-outlook-for-the-uk-protection-market/))
 - Insurance perils of driving home for Christmas ([4 days ago](https://www.postonline.co.uk/personal/7959344/insurance-perils-of-driving-home-for-christmas))
 - Potholes put councils on legal front line over road repairs ([4 days ago](https://www.postonline.co.uk/claims/7959155/potholes-put-councils-on-legal-front-line-over-road-repairs))
 - Broker Review of the Year 2025 ([4 days ago](https://www.postonline.co.uk/broker/7959392/broker-review-of-the-year-2025))
@@ -116,9 +116,9 @@ description: Insurance Updates
 - MOJ review must confront delays in the OIC Portal ([5 days ago](https://www.postonline.co.uk/claims/7959547/moj-review-must-confront-delays-in-the-oic-portal))
 - How a health insurer is using AI ([5 days ago](https://www.dig-in.com/news/how-a-health-insurer-is-using-ai))
 - Protection market 2026: Embracing transformation and opportunity ([5 days ago](https://ifamagazine.com/protection-market-2026-embracing-transformation-and-opportunity/))
-- SM Advice launches free social media service for firms in response to AMI Viewpoint findings that 51% do not use social media ([5 days ago](https://ifamagazine.com/sm-advice-launches-free-social-media-service-for-firms-in-response-to-ami-viewpoint-findings-that-51-do-not-use-social-media/))
+- SM Advice launches free social media service for firms in response to AMI Viewpoint findings that 51% do not use social media ([6 days ago](https://ifamagazine.com/sm-advice-launches-free-social-media-service-for-firms-in-response-to-ami-viewpoint-findings-that-51-do-not-use-social-media/))
 - Rising mental health referrals highlight growing pressure and increased reliance on employer health support ([9 days ago](https://ifamagazine.com/rising-mental-health-referrals-highlight-growing-pressure-and-increased-reliance-on-employer-health-support/))
-- Reassured announces 16% growth in Term Assurance sales which outperforms UK market growth for 2025 YTD ([9 days ago](https://ifamagazine.com/reassured-announces-16-growth-in-term-assurance-sales-which-outperforms-uk-market-growth-for-2025-ytd/))
+- Reassured announces 16% growth in Term Assurance sales which outperforms UK market growth for 2025 YTD ([10 days ago](https://ifamagazine.com/reassured-announces-16-growth-in-term-assurance-sales-which-outperforms-uk-market-growth-for-2025-ytd/))
 - Octopus Legacy and Shepherds Friendly partner to offer simplified life insurance ([10 days ago](https://ifamagazine.com/octopus-legacy-and-shepherds-friendly-partner-to-offer-simplified-life-insurance/))
 - Tide Enters Insurance Market in Partnership with Admiral Business to Close SME Protection Gap ([22 days ago](https://thefintechtimes.com/tide-enters-insurance-market-in-partnership-with-admiral-business-to-close-sme-protection-gap/))
 
