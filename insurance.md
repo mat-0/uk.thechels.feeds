@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Swiss Re: Insured nat cat losses surpass $100B for 6th year ([5 minutes ago](https://www.dig-in.com/news/insured-natural-disaster-losses-surpass-100b-for-6th-year))
-- NAIC starts work on AI evaluation method for regulators ([35 minutes ago](https://www.dig-in.com/news/naic-starts-work-on-ai-evaluation-method-for-regulators))
+- Swiss Re: Insured nat cat losses surpass $100B for 6th year ([37 minutes ago](https://www.dig-in.com/news/insured-natural-disaster-losses-surpass-100b-for-6th-year))
+- NAIC starts work on AI evaluation method for regulators ([1 hours ago](https://www.dig-in.com/news/naic-starts-work-on-ai-evaluation-method-for-regulators))
 - Are We Heading Towards Two-Tier Contactless Limits in The UK? ([1 days ago](https://insurance-edge.net/2025/12/20/are-we-heading-towards-two-tier-contactless-limits-in-the-uk/))
 - Everest names Carter as Head of NA Re Claims as Parker takes over as Head of Intl. Re Claims ([2 days ago](https://www.reinsurancene.ws/everest-names-carter-as-head-of-na-re-claims-as-parker-takes-over-as-head-of-intl-re-claims/))
 - Cessna Jet Tied to Nascar Driver Greg Biffle Crashes in North Carolina ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/12/19/851823.htm))
@@ -90,7 +90,7 @@ description: Insurance Updates
 - FLA urges targeted approach for FCA Section 404 motor finance redress scheme ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/fla-urges-targeted-approach-for-fca-section-404-motor-finance-redress-scheme-560551.aspx))
 - UK motor insurance market stabilises, LexisNexis finds ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/uk-motor-insurance-market-stabilises-lexisnexis-finds-560549.aspx))
 - 16.4 million could be affected in giant French hack ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/16-4-million-could-be-affected-in-giant-french-hack-560537.aspx))
-- First Street, advocates respond to Zillow removal of climate risk scores ([3 days ago](https://www.dig-in.com/news/first-street-responds-to-zillow-dropping-climate-risk-scores))
+- First Street, advocates respond to Zillow removal of climate risk scores ([4 days ago](https://www.dig-in.com/news/first-street-responds-to-zillow-dropping-climate-risk-scores))
 - People dropped federal flood Insurance when rates rose ([4 days ago](https://www.dig-in.com/articles/people-dropped-federal-flood-insurance-when-rates-rose))
 - Guiding policyholders to communication pathways ([4 days ago](https://www.dig-in.com/opinion/guiding-policyholders-to-communication-pathways))
 - Why are fewer employees getting annual bonuses? ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/why-are-fewer-employees-getting-annual-bonuses-560509.aspx))
