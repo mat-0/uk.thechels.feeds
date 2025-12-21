@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Are We Heading Towards Two-Tier Contactless Limits in The UK? ([19 hours ago](https://insurance-edge.net/2025/12/20/are-we-heading-towards-two-tier-contactless-limits-in-the-uk/))
+- Are We Heading Towards Two-Tier Contactless Limits in The UK? ([20 hours ago](https://insurance-edge.net/2025/12/20/are-we-heading-towards-two-tier-contactless-limits-in-the-uk/))
 - Everest names Carter as Head of NA Re Claims as Parker takes over as Head of Intl. Re Claims ([1 days ago](https://www.reinsurancene.ws/everest-names-carter-as-head-of-na-re-claims-as-parker-takes-over-as-head-of-intl-re-claims/))
 - Cessna Jet Tied to Nascar Driver Greg Biffle Crashes in North Carolina ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/12/19/851823.htm))
 - London Market faces pivotal moment for industry’s future: Guidewire’s McDonnell ([1 days ago](https://www.reinsurancene.ws/london-market-faces-pivotal-moment-for-industrys-future-guidewires-mcdonnell/))
@@ -46,10 +46,10 @@ description: Insurance Updates
 - UK on track for record insurance premium tax year after strong November ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uk-on-track-for-record-insurance-premium-tax-year-after-strong-november-560738.aspx))
 - HDI Global taps Michael Reynolds to lead UK, Ireland motor fleet strategy ([1 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/hdi-global-taps-michael-reynolds-to-lead-uk-ireland-motor-fleet-strategy-560737.aspx))
 - Open letter calls on FCA to extend time for unresolved Covid-19 BI claims ([1 days ago](https://www.insurancebusinessmag.com/uk/news/claims/open-letter-calls-on-fca-to-extend-time-for-unresolved-covid19-bi-claims-560734.aspx))
-- New global risk order: Health and tech are reshaping insurers’ and brokers’ agendas ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/new-global-risk-order-health-and-tech-are-reshaping-insurers-and-brokers-agendas-560367.aspx))
-- Tesla Door Safety Issues Have Owners Buying Car Escape Tools ([1 days ago](https://www.insurancejournal.com/news/national/2025/12/19/851692.htm))
-- Odometer Fraud Sees 14% Jump in the Past Year ([1 days ago](https://www.insurancejournal.com/news/national/2025/12/19/851689.htm))
-- UPS Ripped Off Seasonal Workers With Unfair Pay Practices, Lawsuit Alleges ([1 days ago](https://www.insurancejournal.com/news/national/2025/12/19/851686.htm))
+- New global risk order: Health and tech are reshaping insurers’ and brokers’ agendas ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/new-global-risk-order-health-and-tech-are-reshaping-insurers-and-brokers-agendas-560367.aspx))
+- Tesla Door Safety Issues Have Owners Buying Car Escape Tools ([2 days ago](https://www.insurancejournal.com/news/national/2025/12/19/851692.htm))
+- Odometer Fraud Sees 14% Jump in the Past Year ([2 days ago](https://www.insurancejournal.com/news/national/2025/12/19/851689.htm))
+- UPS Ripped Off Seasonal Workers With Unfair Pay Practices, Lawsuit Alleges ([2 days ago](https://www.insurancejournal.com/news/national/2025/12/19/851686.htm))
 - Higginbotham Adds Energy Sector Specialty Firm in Georgia ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/12/19/851682.htm))
 - Everest Group strengthens global wholesale and specialty leadership ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/everest-group-strengthens-global-wholesale-and-specialty-leadership-560729.aspx))
 - People Moves: Siry Joins Patriot Growth; Starkweather & Shepley Names Zito ([2 days ago](https://www.insurancejournal.com/news/east/2025/12/19/851340.htm))

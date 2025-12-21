@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence ([1 hours ago](https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html))
-- RansomHouse upgrades encryption with multi-layered data processing ([14 hours ago](https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/))
+- Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence ([2 hours ago](https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html))
+- RansomHouse upgrades encryption with multi-layered data processing ([15 hours ago](https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/))
 - U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware ([16 hours ago](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html))
-- Weekly Update 483 ([23 hours ago](https://www.troyhunt.com/weekly-update-483/))
+- Weekly Update 483 ([1 days ago](https://www.troyhunt.com/weekly-update-483/))
 - ATM jackpotting gang accused of unleashing Ploutus malware across US ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/19/tren_de_aragua_atm/))
 - Microsoft confirms Teams is down and messages are delayed ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/))
 - Thailand Conference Launches International Initiative to Fight Online Scams ([1 days ago](https://www.securityweek.com/thailand-conference-launches-international-initiative-to-fight-online-scams/))
@@ -115,7 +115,7 @@ description: SecOps News
 - England keeping pen and paper exams despite limited digital expansion ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/17/england_pen_paper_exams/))
 - Surveillance at sea: Cruise firm bans smart glasses to curb covert recording ([3 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/surveillance-at-sea-cruise-firm-bans-smart-glasses-to-curb-covert-recording))
 - GhostPoster Malware Found in 17 Firefox Add-ons with 50,000+ Downloads ([3 days ago](https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html))
-- Cisco decides its homegrown AI model is ready to power its products ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/17/cisco_foundation_model_indentity_intelligence/))
+- Cisco decides its homegrown AI model is ready to power its products ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/17/cisco_foundation_model_indentity_intelligence/))
 - Hot for its bot, McKinsey may cut thousands of jobs ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/16/mckinsey_may_cut_staff/))
 - Weekly Update 482 ([4 days ago](https://www.troyhunt.com/weekly-update-482/))
 - Meta's SAM bot keeps 'em separated as it isolates voices and instruments from audio clips ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/16/meta_sam_ai_audio/))
