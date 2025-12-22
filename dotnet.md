@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - F# Weekly #51, 2025 - WebSharper 10 &amp; Fidelity Framework ([9 hours ago](https://dotnetkicks.com/r/736980?url=https://sergeytihon.com/2025/12/20/f-weekly-51-2025-websharper-10-fidelity-framework/))
-- New Book: Build And Deploy Apps Using Azure Developer CLI By Chris Pietschmann  -  Build5Nines ([14 hours ago](https://dotnetkicks.com/r/736976?url=https://build5nines.com/new-book-build-and-deploy-apps-using-azure-developer-cli-written-by-chris-pietschmann/))
+- New Book: Build And Deploy Apps Using Azure Developer CLI By Chris Pietschmann  -  Build5Nines ([15 hours ago](https://dotnetkicks.com/r/736976?url=https://build5nines.com/new-book-build-and-deploy-apps-using-azure-developer-cli-written-by-chris-pietschmann/))
 - Code It Anyway You Want: Initializing Reference Type Static Fields Inline for Enhanced Code Readability ([1 days ago](https://dotnettips.wordpress.com/2025/12/21/code-it-anyway-you-want-initializing-reference-type-static-fields-inline-for-enhanced-code-readability/))
 - Digital Authentication and Identity validation ([1 days ago](https://dotnetkicks.com/r/736960?url=https://damienbod.com/2025/12/20/digital-authentication-and-identity-validation/))
 - Joe Dluzen on Azure Functions & Durable Functions ([1 days ago](https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/))
@@ -42,7 +42,7 @@ description: DotNet Updates
 - .NET 10 Networking Improvements - .NET Blog ([13 days ago](https://dotnetkicks.com/r/736202?url=https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/))
 - .NET 10 Networking Improvements ([13 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/))
 - Meet the Islands Theme – The New Default Look for JetBrains IDEs ([13 days ago](https://blog.jetbrains.com/platform/2025/12/meet-the-islands-theme-the-new-default-look-for-jetbrains-ides/))
-- F# Weekly #49, 2025 - Oxpecker 2, fsi-mcp, LSP &amp; AOC in F# ([14 days ago](https://dotnetkicks.com/r/736168?url=https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/))
+- F# Weekly #49, 2025 - Oxpecker 2, fsi-mcp, LSP &amp; AOC in F# ([15 days ago](https://dotnetkicks.com/r/736168?url=https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/))
 - Immutable Collection Add() Trap: Don’t Get Burned — Use a Builder Instead ([15 days ago](https://dotnettips.wordpress.com/2025/12/07/immutable-collection-add-trap-dont-get-burned-use-a-builder-instead/))
 - How the Microsoft SQL team is investing in SQL tools and experiences - Microsoft SQL Server Blog ([16 days ago](https://dotnetkicks.com/r/736132?url=https://www.microsoft.com/en-us/sql-server/blog/2025/12/05/how-the-microsoft-sql-team-is-investing-in-sql-tools-and-experiences/))
 - "Classic" .NET Domain Events with Wolverine and EF Core ([17 days ago](https://dotnetkicks.com/r/736077?url=https://jeremydmiller.com/2025/12/04/classic-net-domain-events-with-wolverine-and-ef-core/))
@@ -51,7 +51,7 @@ description: DotNet Updates
 - Introducing Data Ingestion Building Blocks (Preview) ([18 days ago](https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/))
 - 5 Stories Of Developers Using JetBrains Rider to Create, Collaborate, and Have Fun ([18 days ago](https://blog.jetbrains.com/dotnet/2025/12/03/5-stories-of-developers-using-jetbrains-rider/))
 - dotInsights  -  December 2025 ([19 days ago](https://blog.jetbrains.com/dotnet/2025/12/02/dotinsights-december-2025/))
-- Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([19 days ago](https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
+- Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([20 days ago](https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
 - Defensive Programming Rule #6: Verify Resource Availability (Before You Access It) ([22 days ago](https://dotnettips.wordpress.com/2025/11/30/defensive-programming-rule-6-verify-resource-availability-before-you-access-it/))
 - Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions ([23 days ago](http://feeds.hanselman.com/~/930373259/0/scotthanselman~Automatically-Signing-a-Windows-EXE-with-Azure-Trusted-Signing-dotnet-sign-and-GitHub-Actions))
 - ReSharper and Rider 2025.3.0.3: A Fresh Set of Updates Released ([24 days ago](https://blog.jetbrains.com/dotnet/2025/11/27/resharper-and-rider-2025-3-0-3/))
