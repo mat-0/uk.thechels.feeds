@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- There’s so much stolen data in the world, South Korea will require face scans to buy a SIM ([35 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/12/22/south_korea_facial_verification/))
+- There’s so much stolen data in the world, South Korea will require face scans to buy a SIM ([59 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/12/22/south_korea_facial_verification/))
 - Through gritted teeth, Apple and Google allow alternative app stores in Japan ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/22/asia_tech_news_roundup/))
 - Through gritted teeth, Apple and Google allow alternative app stores in Japan ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/22/asia_tech_news_roundup/))
 - Google sends Dark Web Report to its dead services graveyard ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/21/infosec_news_in_brief/))
@@ -86,8 +86,8 @@ description: SecOps News
 - [KIS-2025-09] Control Web Panel <= 0.9.8.1208 (admin/index.php) OS Command Injection Vulnerability ([3 days ago](https://seclists.org/fulldisclosure/2025/Dec/25))
 - Raydium CP Swap: Unchecked Account Allows Creator Fee Hijacking ([3 days ago](https://seclists.org/fulldisclosure/2025/Dec/24))
 - [CFP] Security BSidesLjubljana 0x7EA  -  March 13, 2026 ([3 days ago](https://seclists.org/fulldisclosure/2025/Dec/23))
-- AUTOSUR - 487,226 breached accounts ([3 days ago](https://haveibeenpwned.com/Breach/AUTOSUR))
-- CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation ([3 days ago](https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html))
+- AUTOSUR - 487,226 breached accounts ([4 days ago](https://haveibeenpwned.com/Breach/AUTOSUR))
+- CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation ([4 days ago](https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html))
 - Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances ([4 days ago](https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html))
 - Micron says memory shortages are here for the foreseeable future ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/18/micron_q1_2026/))
 - The Botting Network - 96,320 breached accounts ([4 days ago](https://haveibeenpwned.com/Breach/TheBottingNetwork))
