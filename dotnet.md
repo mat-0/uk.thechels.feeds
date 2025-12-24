@@ -50,11 +50,11 @@ description: DotNet Updates
 - .NET Conf 2025 Recap – Celebrating .NET 10, Visual Studio 2026, AI, Community, & More ([19 days ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
 - Introducing Data Ingestion Building Blocks (Preview) ([20 days ago](https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/))
 - 5 Stories Of Developers Using JetBrains Rider to Create, Collaborate, and Have Fun ([21 days ago](https://blog.jetbrains.com/dotnet/2025/12/03/5-stories-of-developers-using-jetbrains-rider/))
-- dotInsights  -  December 2025 ([21 days ago](https://blog.jetbrains.com/dotnet/2025/12/02/dotinsights-december-2025/))
+- dotInsights  -  December 2025 ([22 days ago](https://blog.jetbrains.com/dotnet/2025/12/02/dotinsights-december-2025/))
 - Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([22 days ago](https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
 - Defensive Programming Rule #6: Verify Resource Availability (Before You Access It) ([24 days ago](https://dotnettips.wordpress.com/2025/11/30/defensive-programming-rule-6-verify-resource-availability-before-you-access-it/))
 - Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions ([25 days ago](http://feeds.hanselman.com/~/930373259/0/scotthanselman~Automatically-Signing-a-Windows-EXE-with-Azure-Trusted-Signing-dotnet-sign-and-GitHub-Actions))
-- ReSharper and Rider 2025.3.0.3: A Fresh Set of Updates Released ([26 days ago](https://blog.jetbrains.com/dotnet/2025/11/27/resharper-and-rider-2025-3-0-3/))
+- ReSharper and Rider 2025.3.0.3: A Fresh Set of Updates Released ([27 days ago](https://blog.jetbrains.com/dotnet/2025/11/27/resharper-and-rider-2025-3-0-3/))
 - .NET Day on Agentic Modernization Coming Soon ([27 days ago](https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
 - Exploring the .NET boot process via host tracing ([29 days ago](https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
 
