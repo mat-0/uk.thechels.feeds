@@ -8,11 +8,11 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Best Insurance Looks Ahead to 2026: AI, Portals, White Labels & More ([32 minutes ago](https://insurance-edge.net/2025/12/26/best-insurance-looks-ahead-to-2026-ai-portals-white-labels-more/))
+- Best Insurance Looks Ahead to 2026: AI, Portals, White Labels & More ([59 minutes ago](https://insurance-edge.net/2025/12/26/best-insurance-looks-ahead-to-2026-ai-portals-white-labels-more/))
 - Russell Scanlan Raises £11,300 For Trent Bridge Community Trust ([2 hours ago](https://insurance-edge.net/2025/12/26/russell-scanlan-raises-11300-for-trent-bridge-community-trust/))
 - Sometimes All You Want For Christmas is Cheaper Car Insurance ([1 days ago](https://insurance-edge.net/2025/12/25/sometimes-all-you-want-for-christmas-is-cheaper-car-insurance/))
-- Why case management systems are crucial for fraud detection ([1 days ago](https://www.dig-in.com/opinion/why-case-management-systems-are-crucial-for-fraud-detection))
 - Growth to control: How 2025 redefined insurance and what 2026 demands next ([1 days ago](https://www.dig-in.com/opinion/how-2025-redefined-insurance-and-what-2026-demands))
+- Why case management systems are crucial for fraud detection ([1 days ago](https://www.dig-in.com/opinion/why-case-management-systems-are-crucial-for-fraud-detection))
 - People Moves: Gallagher Taps EY’s Hughes as Tax Specialist in Private Equity/M&A Team ([1 days ago](https://www.insurancejournal.com/news/international/2025/12/24/852298.htm))
 - EU Faces Renewed US Ire After ESG Cutbacks Fail to Calm Tensions ([1 days ago](https://www.insurancejournal.com/news/international/2025/12/24/852292.htm))
 - Reinsurers face pressure on growing top-line and maintaining margin in 2026: Autonomous ([1 days ago](https://www.reinsurancene.ws/reinsurers-face-pressure-on-growing-top-line-and-maintaining-margin-in-2026-autonomous/))
@@ -30,8 +30,8 @@ description: Insurance Updates
 - Explosion at Nursing Home in Pennsylvania Kills Two, Injures Others ([1 days ago](https://www.insurancejournal.com/news/east/2025/12/24/852221.htm))
 - Mexican Navy Plane on Medical Mission Crashes in Texas, Killing At Least 5 ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/12/24/852225.htm))
 - US Steel Sued for Pregnancy Discrimination at Minnesota Mine ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/12/24/852220.htm))
-- Globe Life establishes Bermuda reinsurance affiliate ([1 days ago](https://www.reinsurancene.ws/globe-life-establishes-bermuda-reinsurance-affiliate/))
-- Georgia Regulators Approve Huge Electric Generation Increase for Data Centers ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/12/24/852216.htm))
+- Globe Life establishes Bermuda reinsurance affiliate ([2 days ago](https://www.reinsurancene.ws/globe-life-establishes-bermuda-reinsurance-affiliate/))
+- Georgia Regulators Approve Huge Electric Generation Increase for Data Centers ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/12/24/852216.htm))
 - Howden advises K2 on launch of Lloyd’s Syndicate 1954 ([2 days ago](https://www.reinsurancene.ws/howden-advises-k2-on-launch-of-lloyds-syndicate-1954/))
 - Massachusetts Approves Reorganizations, Mergers for Andover Companies ([2 days ago](https://www.insurancejournal.com/news/east/2025/12/24/852201.htm))
 - Freedom to buy outstanding shares of Concert ([2 days ago](https://www.reinsurancene.ws/freedom-to-buy-outstanding-shares-of-concert/))
@@ -114,7 +114,7 @@ description: Insurance Updates
 - AFC Bournemouth proud to announce Vitality as front-of-shirt sponsor ([10 days ago](https://ifamagazine.com/afc-bournemouth-proud-to-announce-vitality-as-front-of-shirt-sponsor/))
 - Protection market 2026: Embracing transformation and opportunity ([11 days ago](https://ifamagazine.com/protection-market-2026-embracing-transformation-and-opportunity/))
 - SM Advice launches free social media service for firms in response to AMI Viewpoint findings that 51% do not use social media ([11 days ago](https://ifamagazine.com/sm-advice-launches-free-social-media-service-for-firms-in-response-to-ami-viewpoint-findings-that-51-do-not-use-social-media/))
-- Rising mental health referrals highlight growing pressure and increased reliance on employer health support ([14 days ago](https://ifamagazine.com/rising-mental-health-referrals-highlight-growing-pressure-and-increased-reliance-on-employer-health-support/))
+- Rising mental health referrals highlight growing pressure and increased reliance on employer health support ([15 days ago](https://ifamagazine.com/rising-mental-health-referrals-highlight-growing-pressure-and-increased-reliance-on-employer-health-support/))
 - Reassured announces 16% growth in Term Assurance sales which outperforms UK market growth for 2025 YTD ([15 days ago](https://ifamagazine.com/reassured-announces-16-growth-in-term-assurance-sales-which-outperforms-uk-market-growth-for-2025-ytd/))
 - Tide Enters Insurance Market in Partnership with Admiral Business to Close SME Protection Gap ([28 days ago](https://thefintechtimes.com/tide-enters-insurance-market-in-partnership-with-admiral-business-to-close-sme-protection-gap/))
 
