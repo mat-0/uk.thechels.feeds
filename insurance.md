@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Best Insurance Looks Ahead to 2026: AI, Portals, White Labels & More ([5 hours ago](https://insurance-edge.net/2025/12/26/best-insurance-looks-ahead-to-2026-ai-portals-white-labels-more/))
-- Russell Scanlan Raises £11,300 For Trent Bridge Community Trust ([7 hours ago](https://insurance-edge.net/2025/12/26/russell-scanlan-raises-11300-for-trent-bridge-community-trust/))
+- Best Insurance Looks Ahead to 2026: AI, Portals, White Labels & More ([6 hours ago](https://insurance-edge.net/2025/12/26/best-insurance-looks-ahead-to-2026-ai-portals-white-labels-more/))
+- Russell Scanlan Raises £11,300 For Trent Bridge Community Trust ([8 hours ago](https://insurance-edge.net/2025/12/26/russell-scanlan-raises-11300-for-trent-bridge-community-trust/))
 - Sometimes All You Want For Christmas is Cheaper Car Insurance ([1 days ago](https://insurance-edge.net/2025/12/25/sometimes-all-you-want-for-christmas-is-cheaper-car-insurance/))
 - Why case management systems are crucial for fraud detection ([2 days ago](https://www.dig-in.com/opinion/why-case-management-systems-are-crucial-for-fraud-detection))
 - Growth to control: How 2025 redefined insurance and what 2026 demands next ([2 days ago](https://www.dig-in.com/opinion/how-2025-redefined-insurance-and-what-2026-demands))
@@ -71,7 +71,7 @@ description: Insurance Updates
 - Underwriting takes its toll so mental health support is vital ([3 days ago](https://www.postonline.co.uk/people/7959564/underwriting-takes-its-toll-so-mental-health-support-is-vital))
 - Insurtech forecast for 2026 ([3 days ago](https://www.postonline.co.uk/technology/7959389/insurtech-forecast-for-2026))
 - How insurance brokers can retain clients post M&A ([3 days ago](https://www.dig-in.com/opinion/how-brokers-can-retain-clients-post-m-a))
-- Customer satisfaction high with all digital claims: J.D. Power ([3 days ago](https://www.dig-in.com/news/customer-satisfaction-high-with-digital-claims-j-d-power))
+- Customer satisfaction high with all digital claims: J.D. Power ([4 days ago](https://www.dig-in.com/news/customer-satisfaction-high-with-digital-claims-j-d-power))
 - LV looking to relaunch into general insurance in early 2028 ([4 days ago](https://www.postonline.co.uk/personal/7959573/lv-looking-to-relaunch-into-general-insurance-in-early-2028))
 - Axa Partners hit with FCA limitations ([4 days ago](https://www.postonline.co.uk/personal/7959576/axa-partners-hit-with-FCA-limitations))
 - Insurers could deploy quantum computing within five years ([4 days ago](https://www.postonline.co.uk/technology/7959529/insurers-could-deploy-quantum-computing-within-five-years))
