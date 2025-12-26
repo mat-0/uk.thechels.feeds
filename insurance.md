@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Sometimes All You Want For Christmas is Cheaper Car Insurance ([17 hours ago](https://insurance-edge.net/2025/12/25/sometimes-all-you-want-for-christmas-is-cheaper-car-insurance/))
+- Sometimes All You Want For Christmas is Cheaper Car Insurance ([18 hours ago](https://insurance-edge.net/2025/12/25/sometimes-all-you-want-for-christmas-is-cheaper-car-insurance/))
 - Growth to control: How 2025 redefined insurance and what 2026 demands next ([1 days ago](https://www.dig-in.com/opinion/how-2025-redefined-insurance-and-what-2026-demands))
 - Why case management systems are crucial for fraud detection ([1 days ago](https://www.dig-in.com/opinion/why-case-management-systems-are-crucial-for-fraud-detection))
 - People Moves: Gallagher Taps EY’s Hughes as Tax Specialist in Private Equity/M&A Team ([1 days ago](https://www.insurancejournal.com/news/international/2025/12/24/852298.htm))
@@ -98,7 +98,7 @@ description: Insurance Updates
 - Tokio Marine Kiln strengthens cyber team with new hire ([6 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/tokio-marine-kiln-strengthens-cyber-team-with-new-hire-560715.aspx))
 - Premium Credit and PIB Group extend long-term partnership ([6 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/premium-credit-and-pib-group-extend-longterm-partnership-560711.aspx))
 - Clear Group co-founder to retire at year-end ([6 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/clear-group-cofounder-to-retire-at-yearend-560709.aspx))
-- Bravo Networks launches segment to support new brokers ([6 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/bravo-networks-launches-segment-to-support-new-brokers-560708.aspx))
+- Bravo Networks launches segment to support new brokers ([7 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/bravo-networks-launches-segment-to-support-new-brokers-560708.aspx))
 - A guide to the London Market Underwriting Principles (LM3) course ([7 days ago](https://www.insurancebusinessmag.com/uk/guides/a-guide-to-the-london-market-underwriting-principles-lm3-course-560706.aspx))
 - ACORD announces winner of AI student challenge ([7 days ago](https://www.dig-in.com/news/acord-announces-winner-of-ai-student-challenge))
 - Regulator urged to act to avert Covid BI lawsuit wave ([7 days ago](https://www.postonline.co.uk/commercial/7959568/regulator-urged-to-act-to-avert-covid-bi-lawsuit-wave))
