@@ -100,7 +100,7 @@ description: Insurance Updates
 - Clear Group co-founder to retire at year-end ([7 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/clear-group-cofounder-to-retire-at-yearend-560709.aspx))
 - Bravo Networks launches segment to support new brokers ([7 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/bravo-networks-launches-segment-to-support-new-brokers-560708.aspx))
 - A guide to the London Market Underwriting Principles (LM3) course ([7 days ago](https://www.insurancebusinessmag.com/uk/guides/a-guide-to-the-london-market-underwriting-principles-lm3-course-560706.aspx))
-- ACORD announces winner of AI student challenge ([7 days ago](https://www.dig-in.com/news/acord-announces-winner-of-ai-student-challenge))
+- ACORD announces winner of AI student challenge ([8 days ago](https://www.dig-in.com/news/acord-announces-winner-of-ai-student-challenge))
 - Regulator urged to act to avert Covid BI lawsuit wave ([8 days ago](https://www.postonline.co.uk/commercial/7959568/regulator-urged-to-act-to-avert-covid-bi-lawsuit-wave))
 - FCA partly rebuffs Which? but widens insurance crackdown ([8 days ago](https://www.postonline.co.uk/news/7959566/fca-partly-rebuffs-which-but-widens-insurance-crackdown))
 - Clear Group’s Howard Lickens to retire ([8 days ago](https://www.postonline.co.uk/broker/7959565/clear-groups-howard-lickens-to-retire))
