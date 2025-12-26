@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Azure Functions & Durable Functions Part 1 ([9 hours ago](https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/))
+- Azure Functions & Durable Functions Part 1 ([10 hours ago](https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/))
 - F# Weekly #51, 2025 - WebSharper 10 &amp; Fidelity Framework ([4 days ago](https://dotnetkicks.com/r/736980?url=https://sergeytihon.com/2025/12/20/f-weekly-51-2025-websharper-10-fidelity-framework/))
 - New Book: Build And Deploy Apps Using Azure Developer CLI By Chris Pietschmann  -  Build5Nines ([4 days ago](https://dotnetkicks.com/r/736976?url=https://build5nines.com/new-book-build-and-deploy-apps-using-azure-developer-cli-written-by-chris-pietschmann/))
 - Code It Anyway You Want: Initializing Reference Type Static Fields Inline for Enhanced Code Readability ([4 days ago](https://dotnettips.wordpress.com/2025/12/21/code-it-anyway-you-want-initializing-reference-type-static-fields-inline-for-enhanced-code-readability/))
@@ -45,7 +45,7 @@ description: DotNet Updates
 - Meet the Islands Theme – The New Default Look for JetBrains IDEs ([17 days ago](https://blog.jetbrains.com/platform/2025/12/meet-the-islands-theme-the-new-default-look-for-jetbrains-ides/))
 - F# Weekly #49, 2025 - Oxpecker 2, fsi-mcp, LSP &amp; AOC in F# ([18 days ago](https://dotnetkicks.com/r/736168?url=https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/))
 - Immutable Collection Add() Trap: Don’t Get Burned — Use a Builder Instead ([18 days ago](https://dotnettips.wordpress.com/2025/12/07/immutable-collection-add-trap-dont-get-burned-use-a-builder-instead/))
-- How the Microsoft SQL team is investing in SQL tools and experiences - Microsoft SQL Server Blog ([19 days ago](https://dotnetkicks.com/r/736132?url=https://www.microsoft.com/en-us/sql-server/blog/2025/12/05/how-the-microsoft-sql-team-is-investing-in-sql-tools-and-experiences/))
+- How the Microsoft SQL team is investing in SQL tools and experiences - Microsoft SQL Server Blog ([20 days ago](https://dotnetkicks.com/r/736132?url=https://www.microsoft.com/en-us/sql-server/blog/2025/12/05/how-the-microsoft-sql-team-is-investing-in-sql-tools-and-experiences/))
 - "Classic" .NET Domain Events with Wolverine and EF Core ([20 days ago](https://dotnetkicks.com/r/736077?url=https://jeremydmiller.com/2025/12/04/classic-net-domain-events-with-wolverine-and-ef-core/))
 - .NET Conf 2025 Recap – Celebrating .NET 10, Visual Studio 2026, AI, Community, & More ([21 days ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
 - Introducing Data Ingestion Building Blocks (Preview) ([22 days ago](https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/))
