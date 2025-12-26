@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Sometimes All You Want For Christmas is Cheaper Car Insurance ([19 hours ago](https://insurance-edge.net/2025/12/25/sometimes-all-you-want-for-christmas-is-cheaper-car-insurance/))
+- Sometimes All You Want For Christmas is Cheaper Car Insurance ([20 hours ago](https://insurance-edge.net/2025/12/25/sometimes-all-you-want-for-christmas-is-cheaper-car-insurance/))
 - Why case management systems are crucial for fraud detection ([1 days ago](https://www.dig-in.com/opinion/why-case-management-systems-are-crucial-for-fraud-detection))
 - Growth to control: How 2025 redefined insurance and what 2026 demands next ([1 days ago](https://www.dig-in.com/opinion/how-2025-redefined-insurance-and-what-2026-demands))
 - People Moves: Gallagher Taps EY’s Hughes as Tax Specialist in Private Equity/M&A Team ([1 days ago](https://www.insurancejournal.com/news/international/2025/12/24/852298.htm))
@@ -95,7 +95,7 @@ description: Insurance Updates
 - Insurance Post’s star-studded Christmas Special for 2025 ([6 days ago](https://www.postonline.co.uk/news/7959516/insurance-posts-star-studded-christmas-special-for-2025))
 - Five insurance M&A storylines to follow in 2026 ([6 days ago](https://www.postonline.co.uk/personal/7959549/five-insurance-ma-storylines-to-follow-in-2026))
 - AIG launches Lloyd’s syndicate with Amwins and Blackstone backing ([6 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aig-launches-lloyds-syndicate-with-amwins-and-blackstone-backing-560769.aspx))
-- Tokio Marine Kiln strengthens cyber team with new hire ([6 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/tokio-marine-kiln-strengthens-cyber-team-with-new-hire-560715.aspx))
+- Tokio Marine Kiln strengthens cyber team with new hire ([7 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/tokio-marine-kiln-strengthens-cyber-team-with-new-hire-560715.aspx))
 - Premium Credit and PIB Group extend long-term partnership ([7 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/premium-credit-and-pib-group-extend-longterm-partnership-560711.aspx))
 - Clear Group co-founder to retire at year-end ([7 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/clear-group-cofounder-to-retire-at-yearend-560709.aspx))
 - Bravo Networks launches segment to support new brokers ([7 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/bravo-networks-launches-segment-to-support-new-brokers-560708.aspx))
