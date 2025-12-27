@@ -8,6 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
+- 2026 Resolutions? Hey Under 25s, Don’t Overpay on Car Insurance Next Year ([17 minutes ago](https://insurance-edge.net/2025/12/27/2026-resolutions-hey-under-25s-dont-overpay-on-car-insurance-next-year/))
 - Best Insurance Looks Ahead to 2026: AI, Portals, White Labels & More ([1 days ago](https://insurance-edge.net/2025/12/26/best-insurance-looks-ahead-to-2026-ai-portals-white-labels-more/))
 - Russell Scanlan Raises £11,300 For Trent Bridge Community Trust ([1 days ago](https://insurance-edge.net/2025/12/26/russell-scanlan-raises-11300-for-trent-bridge-community-trust/))
 - Sometimes All You Want For Christmas is Cheaper Car Insurance ([2 days ago](https://insurance-edge.net/2025/12/25/sometimes-all-you-want-for-christmas-is-cheaper-car-insurance/))
@@ -30,8 +31,8 @@ description: Insurance Updates
 - Explosion at Nursing Home in Pennsylvania Kills Two, Injures Others ([2 days ago](https://www.insurancejournal.com/news/east/2025/12/24/852221.htm))
 - Mexican Navy Plane on Medical Mission Crashes in Texas, Killing At Least 5 ([2 days ago](https://www.insurancejournal.com/news/southcentral/2025/12/24/852225.htm))
 - US Steel Sued for Pregnancy Discrimination at Minnesota Mine ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/12/24/852220.htm))
-- Globe Life establishes Bermuda reinsurance affiliate ([2 days ago](https://www.reinsurancene.ws/globe-life-establishes-bermuda-reinsurance-affiliate/))
-- Georgia Regulators Approve Huge Electric Generation Increase for Data Centers ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/12/24/852216.htm))
+- Globe Life establishes Bermuda reinsurance affiliate ([3 days ago](https://www.reinsurancene.ws/globe-life-establishes-bermuda-reinsurance-affiliate/))
+- Georgia Regulators Approve Huge Electric Generation Increase for Data Centers ([3 days ago](https://www.insurancejournal.com/news/southeast/2025/12/24/852216.htm))
 - Howden advises K2 on launch of Lloyd’s Syndicate 1954 ([3 days ago](https://www.reinsurancene.ws/howden-advises-k2-on-launch-of-lloyds-syndicate-1954/))
 - Massachusetts Approves Reorganizations, Mergers for Andover Companies ([3 days ago](https://www.insurancejournal.com/news/east/2025/12/24/852201.htm))
 - Freedom to buy outstanding shares of Concert ([3 days ago](https://www.reinsurancene.ws/freedom-to-buy-outstanding-shares-of-concert/))
@@ -39,7 +40,6 @@ description: Insurance Updates
 - IHT Change For Farmers is Given a Cautious Welcome ([3 days ago](https://insurance-edge.net/2025/12/24/iht-change-for-farmers-is-given-a-cautious-welcome/))
 - Cyber risk to grow more systemic in 2026 as digital dependencies deepen: Coalition ([3 days ago](https://www.reinsurancene.ws/cyber-risk-to-grow-more-systemic-in-2026-as-digital-dependencies-deepen-coalition/))
 - Enjoy Christmas Day, For Many Traders It’s Just Another Tough Shift ([3 days ago](https://insurance-edge.net/2025/12/24/enjoy-christmas-day-for-many-traders-its-just-another-tough-shift/))
-- Extra Capacity For Mosaic in Canada ([3 days ago](https://insurance-edge.net/2025/12/24/extra-capacity-for-mosaic-in-canada/))
 - Zurich North America enhances underwriting efficiency with Convr AI ([3 days ago](https://www.reinsurancene.ws/zurich-north-america-enhances-underwriting-efficiency-with-convr-ai/))
 - Allianz and Aviva drop Elbit cover ([3 days ago](https://www.postonline.co.uk/news/7959629/allianz-and-aviva-drop-elbit-cover))
 - Amiga Specialty welcomes David Filtness as MD, Professional Indemnity ([3 days ago](https://www.reinsurancene.ws/amiga-specialty-welcomes-david-filtness-as-md-professional-indemnity/))
@@ -101,7 +101,7 @@ description: Insurance Updates
 - AFC Bournemouth proud to announce Vitality as front-of-shirt sponsor ([11 days ago](https://ifamagazine.com/afc-bournemouth-proud-to-announce-vitality-as-front-of-shirt-sponsor/))
 - Protection market 2026: Embracing transformation and opportunity ([12 days ago](https://ifamagazine.com/protection-market-2026-embracing-transformation-and-opportunity/))
 - SM Advice launches free social media service for firms in response to AMI Viewpoint findings that 51% do not use social media ([12 days ago](https://ifamagazine.com/sm-advice-launches-free-social-media-service-for-firms-in-response-to-ami-viewpoint-findings-that-51-do-not-use-social-media/))
-- Rising mental health referrals highlight growing pressure and increased reliance on employer health support ([15 days ago](https://ifamagazine.com/rising-mental-health-referrals-highlight-growing-pressure-and-increased-reliance-on-employer-health-support/))
+- Rising mental health referrals highlight growing pressure and increased reliance on employer health support ([16 days ago](https://ifamagazine.com/rising-mental-health-referrals-highlight-growing-pressure-and-increased-reliance-on-employer-health-support/))
 - Reassured announces 16% growth in Term Assurance sales which outperforms UK market growth for 2025 YTD ([16 days ago](https://ifamagazine.com/reassured-announces-16-growth-in-term-assurance-sales-which-outperforms-uk-market-growth-for-2025-ytd/))
 - Tide Enters Insurance Market in Partnership with Admiral Business to Close SME Protection Gap ([29 days ago](https://thefintechtimes.com/tide-enters-insurance-market-in-partnership-with-admiral-business-to-close-sme-protection-gap/))
 
