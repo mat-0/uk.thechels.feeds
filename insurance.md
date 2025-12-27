@@ -14,7 +14,7 @@ description: Insurance Updates
 - Sometimes All You Want For Christmas is Cheaper Car Insurance ([2 days ago](https://insurance-edge.net/2025/12/25/sometimes-all-you-want-for-christmas-is-cheaper-car-insurance/))
 - Why case management systems are crucial for fraud detection ([2 days ago](https://www.dig-in.com/opinion/why-case-management-systems-are-crucial-for-fraud-detection))
 - Growth to control: How 2025 redefined insurance and what 2026 demands next ([2 days ago](https://www.dig-in.com/opinion/how-2025-redefined-insurance-and-what-2026-demands))
-- People Moves: Gallagher Taps EY’s Hughes as Tax Specialist in Private Equity/M&A Team ([2 days ago](https://www.insurancejournal.com/news/international/2025/12/24/852298.htm))
+- People Moves: Gallagher Taps EY’s Hughes as Tax Specialist in Private Equity/M&A Team ([3 days ago](https://www.insurancejournal.com/news/international/2025/12/24/852298.htm))
 - EU Faces Renewed US Ire After ESG Cutbacks Fail to Calm Tensions ([3 days ago](https://www.insurancejournal.com/news/international/2025/12/24/852292.htm))
 - Reinsurers face pressure on growing top-line and maintaining margin in 2026: Autonomous ([3 days ago](https://www.reinsurancene.ws/reinsurers-face-pressure-on-growing-top-line-and-maintaining-margin-in-2026-autonomous/))
 - Louvre Tightens Security After $102M Jewel Heist, Installs Bars on Infamous Window ([3 days ago](https://www.insurancejournal.com/news/international/2025/12/24/852280.htm))
