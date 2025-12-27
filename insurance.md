@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- 2026 Resolutions? Hey Under 25s, Don’t Overpay on Car Insurance Next Year ([6 hours ago](https://insurance-edge.net/2025/12/27/2026-resolutions-hey-under-25s-dont-overpay-on-car-insurance-next-year/))
+- 2026 Resolutions? Hey Under 25s, Don’t Overpay on Car Insurance Next Year ([7 hours ago](https://insurance-edge.net/2025/12/27/2026-resolutions-hey-under-25s-dont-overpay-on-car-insurance-next-year/))
 - Best Insurance Looks Ahead to 2026: AI, Portals, White Labels & More ([1 days ago](https://insurance-edge.net/2025/12/26/best-insurance-looks-ahead-to-2026-ai-portals-white-labels-more/))
 - Russell Scanlan Raises £11,300 For Trent Bridge Community Trust ([1 days ago](https://insurance-edge.net/2025/12/26/russell-scanlan-raises-11300-for-trent-bridge-community-trust/))
 - Sometimes All You Want For Christmas is Cheaper Car Insurance ([2 days ago](https://insurance-edge.net/2025/12/25/sometimes-all-you-want-for-christmas-is-cheaper-car-insurance/))
@@ -55,7 +55,7 @@ description: Insurance Updates
 - Claims and Legal Forecast of 2026 ([3 days ago](https://www.postonline.co.uk/claims/7959391/claims-and-legal-forecast-of-2026))
 - JLR breach sparks debate on insurance gaps and state support ([3 days ago](https://www.postonline.co.uk/commercial/7959451/jlr-breach-sparks-debate-on-insurance-gaps-and-state-support))
 - Why Which?’s super-complaint is a turning point for insurance ([3 days ago](https://www.postonline.co.uk/regulation/7959579/why-whichs-super-complaint-is-a-turning-point-for-insurance))
-- Verisk rolls out insurance regulatory data tool ([3 days ago](https://www.dig-in.com/news/verisk-rolls-out-insurance-regulatory-data-tool))
+- Verisk rolls out insurance regulatory data tool ([4 days ago](https://www.dig-in.com/news/verisk-rolls-out-insurance-regulatory-data-tool))
 - WIL 2025: Sarah Murrow on resilience and her commitment to quality leadership ([4 days ago](https://www.dig-in.com/news/sarah-murrow-on-her-commitment-to-quality-leadership))
 - AI and insurtech predictions for 2026 ([4 days ago](https://www.dig-in.com/news/ai-and-insurtech-predictions-for-2026))
 - UK, Bermuda and EU markets: For US business, ditch direct procurement, go surplus lines ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uk-bermuda-and-eu-markets-for-us-business-ditch-direct-procurement-go-surplus-lines-560894.aspx))
