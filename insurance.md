@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- 2026 Resolutions? Hey Under 25s, Don’t Overpay on Car Insurance Next Year ([5 hours ago](https://insurance-edge.net/2025/12/27/2026-resolutions-hey-under-25s-dont-overpay-on-car-insurance-next-year/))
+- 2026 Resolutions? Hey Under 25s, Don’t Overpay on Car Insurance Next Year ([6 hours ago](https://insurance-edge.net/2025/12/27/2026-resolutions-hey-under-25s-dont-overpay-on-car-insurance-next-year/))
 - Best Insurance Looks Ahead to 2026: AI, Portals, White Labels & More ([1 days ago](https://insurance-edge.net/2025/12/26/best-insurance-looks-ahead-to-2026-ai-portals-white-labels-more/))
 - Russell Scanlan Raises £11,300 For Trent Bridge Community Trust ([1 days ago](https://insurance-edge.net/2025/12/26/russell-scanlan-raises-11300-for-trent-bridge-community-trust/))
 - Sometimes All You Want For Christmas is Cheaper Car Insurance ([2 days ago](https://insurance-edge.net/2025/12/25/sometimes-all-you-want-for-christmas-is-cheaper-car-insurance/))
@@ -70,7 +70,7 @@ description: Insurance Updates
 - 60 Seconds With... Sarah Vaughan, Angelica Solutions ([4 days ago](https://www.postonline.co.uk/people/7958980/60-seconds-with-sarah-vaughan-angelica-solutions))
 - Underwriting takes its toll so mental health support is vital ([4 days ago](https://www.postonline.co.uk/people/7959564/underwriting-takes-its-toll-so-mental-health-support-is-vital))
 - Insurtech forecast for 2026 ([4 days ago](https://www.postonline.co.uk/technology/7959389/insurtech-forecast-for-2026))
-- How insurance brokers can retain clients post M&A ([4 days ago](https://www.dig-in.com/opinion/how-brokers-can-retain-clients-post-m-a))
+- How insurance brokers can retain clients post M&A ([5 days ago](https://www.dig-in.com/opinion/how-brokers-can-retain-clients-post-m-a))
 - Customer satisfaction high with all digital claims: J.D. Power ([5 days ago](https://www.dig-in.com/news/customer-satisfaction-high-with-digital-claims-j-d-power))
 - LV looking to relaunch into general insurance in early 2028 ([5 days ago](https://www.postonline.co.uk/personal/7959573/lv-looking-to-relaunch-into-general-insurance-in-early-2028))
 - Axa Partners hit with FCA limitations ([5 days ago](https://www.postonline.co.uk/personal/7959576/axa-partners-hit-with-FCA-limitations))
@@ -79,7 +79,7 @@ description: Insurance Updates
 - How Covid-19 litigation has shifted BI policy wording ([5 days ago](https://www.postonline.co.uk/commercial/7959461/how-covid-19-litigation-has-shifted-bi-policy-wording))
 - Diary of an Insurer: QBE’s Hannah Wilkinson ([5 days ago](https://www.postonline.co.uk/commercial/7959330/diary-of-an-insurer-qbes-hannah-wilkinson))
 - Swiss Re: Insured nat cat losses surpass $100B for 6th year ([5 days ago](https://www.dig-in.com/news/insured-natural-disaster-losses-surpass-100b-for-6th-year))
-- NAIC starts work on AI evaluation method for regulators ([5 days ago](https://www.dig-in.com/news/naic-starts-work-on-ai-evaluation-method-for-regulators))
+- NAIC starts work on AI evaluation method for regulators ([6 days ago](https://www.dig-in.com/news/naic-starts-work-on-ai-evaluation-method-for-regulators))
 - Skyward Specialty and Sixfold Partner to Advance AI Powered Underwriting ([8 days ago](https://www.insurtechinsights.com/skyward-specialty-and-sixfold-partner-to-advance-ai-powered-underwriting/))
 - Cyber insurance uptake is reportedly below 10% – why broker education is key to market growth ([8 days ago](https://ifamagazine.com/cyber-insurance-uptake-is-reportedly-below-10-why-broker-education-is-key-to-market-growth/))
 - AIG buys Salford City FC; Prestige x Urban Jungle; Biba’s deputy chair ([8 days ago](https://www.postonline.co.uk/news/7959567/aig-buys-salford-city-fc-prestige-x-urban-jungle-bibas-deputy-chair))
