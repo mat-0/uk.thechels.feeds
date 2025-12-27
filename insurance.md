@@ -8,11 +8,11 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Best Insurance Looks Ahead to 2026: AI, Portals, White Labels & More ([17 hours ago](https://insurance-edge.net/2025/12/26/best-insurance-looks-ahead-to-2026-ai-portals-white-labels-more/))
+- Best Insurance Looks Ahead to 2026: AI, Portals, White Labels & More ([18 hours ago](https://insurance-edge.net/2025/12/26/best-insurance-looks-ahead-to-2026-ai-portals-white-labels-more/))
 - Russell Scanlan Raises £11,300 For Trent Bridge Community Trust ([19 hours ago](https://insurance-edge.net/2025/12/26/russell-scanlan-raises-11300-for-trent-bridge-community-trust/))
 - Sometimes All You Want For Christmas is Cheaper Car Insurance ([1 days ago](https://insurance-edge.net/2025/12/25/sometimes-all-you-want-for-christmas-is-cheaper-car-insurance/))
-- Growth to control: How 2025 redefined insurance and what 2026 demands next ([2 days ago](https://www.dig-in.com/opinion/how-2025-redefined-insurance-and-what-2026-demands))
 - Why case management systems are crucial for fraud detection ([2 days ago](https://www.dig-in.com/opinion/why-case-management-systems-are-crucial-for-fraud-detection))
+- Growth to control: How 2025 redefined insurance and what 2026 demands next ([2 days ago](https://www.dig-in.com/opinion/how-2025-redefined-insurance-and-what-2026-demands))
 - People Moves: Gallagher Taps EY’s Hughes as Tax Specialist in Private Equity/M&A Team ([2 days ago](https://www.insurancejournal.com/news/international/2025/12/24/852298.htm))
 - EU Faces Renewed US Ire After ESG Cutbacks Fail to Calm Tensions ([2 days ago](https://www.insurancejournal.com/news/international/2025/12/24/852292.htm))
 - Reinsurers face pressure on growing top-line and maintaining margin in 2026: Autonomous ([2 days ago](https://www.reinsurancene.ws/reinsurers-face-pressure-on-growing-top-line-and-maintaining-margin-in-2026-autonomous/))
@@ -44,7 +44,7 @@ description: Insurance Updates
 - Allianz and Aviva drop Elbit cover ([2 days ago](https://www.postonline.co.uk/news/7959629/allianz-and-aviva-drop-elbit-cover))
 - Amiga Specialty welcomes David Filtness as MD, Professional Indemnity ([2 days ago](https://www.reinsurancene.ws/amiga-specialty-welcomes-david-filtness-as-md-professional-indemnity/))
 - Mosaic increases Canada cyber risk capacity to $25m ([2 days ago](https://www.reinsurancene.ws/mosaic-increases-canada-cyber-risk-capacity-to-25m/))
-- IMAC introduces 2026 Executive Committee and launches talent development initiative ([2 days ago](https://www.reinsurancene.ws/imac-introduces-2026-executive-committee-and-launches-talent-development-initiative/))
+- IMAC introduces 2026 Executive Committee and launches talent development initiative ([3 days ago](https://www.reinsurancene.ws/imac-introduces-2026-executive-committee-and-launches-talent-development-initiative/))
 - Underwriter, Actuary Fears of AI Drop; Work Needed on Collaboration ([3 days ago](https://www.insurancejournal.com/news/national/2025/12/24/852124.htm))
 - The Rise of Deepfake Cyberbullying Poses a Growing Problem for Schools ([3 days ago](https://www.insurancejournal.com/news/national/2025/12/24/852111.htm))
 - Head of EEOC Urges White Men to Report Discrimination ([3 days ago](https://www.insurancejournal.com/news/national/2025/12/24/852120.htm))
