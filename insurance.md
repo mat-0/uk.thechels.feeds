@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- 2026 Resolutions? Hey Under 25s, Don’t Overpay on Car Insurance Next Year ([22 hours ago](https://insurance-edge.net/2025/12/27/2026-resolutions-hey-under-25s-dont-overpay-on-car-insurance-next-year/))
+- 2026 Resolutions? Hey Under 25s, Don’t Overpay on Car Insurance Next Year ([23 hours ago](https://insurance-edge.net/2025/12/27/2026-resolutions-hey-under-25s-dont-overpay-on-car-insurance-next-year/))
 - Best Insurance Looks Ahead to 2026: AI, Portals, White Labels & More ([1 days ago](https://insurance-edge.net/2025/12/26/best-insurance-looks-ahead-to-2026-ai-portals-white-labels-more/))
 - Russell Scanlan Raises £11,300 For Trent Bridge Community Trust ([2 days ago](https://insurance-edge.net/2025/12/26/russell-scanlan-raises-11300-for-trent-bridge-community-trust/))
 - Sometimes All You Want For Christmas is Cheaper Car Insurance ([3 days ago](https://insurance-edge.net/2025/12/25/sometimes-all-you-want-for-christmas-is-cheaper-car-insurance/))
@@ -33,8 +33,8 @@ description: Insurance Updates
 - US Steel Sued for Pregnancy Discrimination at Minnesota Mine ([3 days ago](https://www.insurancejournal.com/news/midwest/2025/12/24/852220.htm))
 - Globe Life establishes Bermuda reinsurance affiliate ([3 days ago](https://www.reinsurancene.ws/globe-life-establishes-bermuda-reinsurance-affiliate/))
 - Georgia Regulators Approve Huge Electric Generation Increase for Data Centers ([3 days ago](https://www.insurancejournal.com/news/southeast/2025/12/24/852216.htm))
-- Howden advises K2 on launch of Lloyd’s Syndicate 1954 ([3 days ago](https://www.reinsurancene.ws/howden-advises-k2-on-launch-of-lloyds-syndicate-1954/))
-- Massachusetts Approves Reorganizations, Mergers for Andover Companies ([3 days ago](https://www.insurancejournal.com/news/east/2025/12/24/852201.htm))
+- Howden advises K2 on launch of Lloyd’s Syndicate 1954 ([4 days ago](https://www.reinsurancene.ws/howden-advises-k2-on-launch-of-lloyds-syndicate-1954/))
+- Massachusetts Approves Reorganizations, Mergers for Andover Companies ([4 days ago](https://www.insurancejournal.com/news/east/2025/12/24/852201.htm))
 - Freedom to buy outstanding shares of Concert ([4 days ago](https://www.reinsurancene.ws/freedom-to-buy-outstanding-shares-of-concert/))
 - People Moves: Great Bay Insurance Group Makes Leadership Changes ([4 days ago](https://www.insurancejournal.com/news/east/2025/12/24/852016.htm))
 - IHT Change For Farmers is Given a Cautious Welcome ([4 days ago](https://insurance-edge.net/2025/12/24/iht-change-for-farmers-is-given-a-cautious-welcome/))
@@ -81,7 +81,7 @@ description: Insurance Updates
 - Swiss Re: Insured nat cat losses surpass $100B for 6th year ([6 days ago](https://www.dig-in.com/news/insured-natural-disaster-losses-surpass-100b-for-6th-year))
 - NAIC starts work on AI evaluation method for regulators ([6 days ago](https://www.dig-in.com/news/naic-starts-work-on-ai-evaluation-method-for-regulators))
 - Skyward Specialty and Sixfold Partner to Advance AI Powered Underwriting ([8 days ago](https://www.insurtechinsights.com/skyward-specialty-and-sixfold-partner-to-advance-ai-powered-underwriting/))
-- Cyber insurance uptake is reportedly below 10% – why broker education is key to market growth ([8 days ago](https://ifamagazine.com/cyber-insurance-uptake-is-reportedly-below-10-why-broker-education-is-key-to-market-growth/))
+- Cyber insurance uptake is reportedly below 10% – why broker education is key to market growth ([9 days ago](https://ifamagazine.com/cyber-insurance-uptake-is-reportedly-below-10-why-broker-education-is-key-to-market-growth/))
 - AIG buys Salford City FC; Prestige x Urban Jungle; Biba’s deputy chair ([9 days ago](https://www.postonline.co.uk/news/7959567/aig-buys-salford-city-fc-prestige-x-urban-jungle-bibas-deputy-chair))
 - MGAs Review of the Year 2025 ([9 days ago](https://www.postonline.co.uk/commercial/7959384/mgas-review-of-the-year-2025))
 - Penny Black’s Social Diary: Markerstudy’s feast; ISC’s balloons ([9 days ago](https://www.postonline.co.uk/people/7959396/penny-blacks-social-diary-markerstudys-feast-iscs-balloons))
