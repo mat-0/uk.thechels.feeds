@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- F# Weekly #52, 2025 - Happy New Year ([5 hours ago](https://dotnetkicks.com/r/737174?url=https://sergeytihon.com/2025/12/28/f-weekly-52-2025-happy-new-year/))
-- Supercharging Application Performance with Intelligent Client-Side Caching ([7 hours ago](https://dotnettips.wordpress.com/2025/12/28/supercharging-application-performance-with-intelligent-client-side-caching/))
+- F# Weekly #52, 2025 - Happy New Year ([6 hours ago](https://dotnetkicks.com/r/737174?url=https://sergeytihon.com/2025/12/28/f-weekly-52-2025-happy-new-year/))
+- Supercharging Application Performance with Intelligent Client-Side Caching ([8 hours ago](https://dotnettips.wordpress.com/2025/12/28/supercharging-application-performance-with-intelligent-client-side-caching/))
 - Implementing Azure Naming Conventions At Scale With Terraform And Build5Nines/naming/azure (AzureRM + Region Pairs)  -  Build5Nines ([2 days ago](https://dotnetkicks.com/r/737130?url=https://build5nines.com/implementing-azure-naming-conventions-at-scale-with-terraform-and-build5nines-naming-azure-azurerm-region-pairs/))
 - Azure Functions & Durable Functions Part 1 ([2 days ago](https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/))
 - F# Weekly #51, 2025 - WebSharper 10 &amp; Fidelity Framework ([6 days ago](https://dotnetkicks.com/r/736980?url=https://sergeytihon.com/2025/12/20/f-weekly-51-2025-websharper-10-fidelity-framework/))
@@ -24,7 +24,7 @@ description: DotNet Updates
 - Why "Microservices" Debates Miss the Point ([11 days ago](https://dotnetkicks.com/r/736738?url=https://codeopinion.com/why-microservices-debates-miss-the-point/))
 - Microsoft.Testing.Platform Now Fully Supported in Azure DevOps - .NET Blog ([11 days ago](https://dotnetkicks.com/r/736726?url=https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
 - Microsoft.Testing.Platform Now Fully Supported in Azure DevOps ([11 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
-- Debugging, but Without the Drama (A Visual Studio 2026 Story) - Visual Studio Blog ([11 days ago](https://dotnetkicks.com/r/736724?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2026-debugging-with-copilot/))
+- Debugging, but Without the Drama (A Visual Studio 2026 Story) - Visual Studio Blog ([12 days ago](https://dotnetkicks.com/r/736724?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2026-debugging-with-copilot/))
 - Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([12 days ago](https://dotnetkicks.com/r/736711?url=https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
 - Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([12 days ago](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
 - Prompt Noise Is Killing Your AI Accuracy: How To Optimize Context For Grounded Output  -  Build5Nines ([12 days ago](https://dotnetkicks.com/r/736689?url=https://build5nines.com/prompt-noise-is-killing-your-ai-accuracy-how-to-optimize-context-for-grounded-output/))
