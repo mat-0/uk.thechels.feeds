@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- 2025 WIL: Tresa Stephens ([20 minutes ago](https://www.dig-in.com/news/2025-wil-tresa-stephens))
-- New leader of Nationwide Securities, Beazley's head of digital follow underwriting: Insurance news ([49 minutes ago](https://www.dig-in.com/news/leader-nationwide-securities-beazley-digital-underwriting))
-- The human side of digital transformation ([50 minutes ago](https://www.dig-in.com/opinion/the-human-side-of-digital-transformation))
+- 2025 WIL: Tresa Stephens ([50 minutes ago](https://www.dig-in.com/news/2025-wil-tresa-stephens))
+- New leader of Nationwide Securities, Beazley's head of digital follow underwriting: Insurance news ([1 hours ago](https://www.dig-in.com/news/leader-nationwide-securities-beazley-digital-underwriting))
+- The human side of digital transformation ([1 hours ago](https://www.dig-in.com/opinion/the-human-side-of-digital-transformation))
 - 2026 Resolutions? Hey Under 25s, Don’t Overpay on Car Insurance Next Year ([1 days ago](https://insurance-edge.net/2025/12/27/2026-resolutions-hey-under-25s-dont-overpay-on-car-insurance-next-year/))
 - Best Insurance Looks Ahead to 2026: AI, Portals, White Labels & More ([2 days ago](https://insurance-edge.net/2025/12/26/best-insurance-looks-ahead-to-2026-ai-portals-white-labels-more/))
 - Russell Scanlan Raises £11,300 For Trent Bridge Community Trust ([2 days ago](https://insurance-edge.net/2025/12/26/russell-scanlan-raises-11300-for-trent-bridge-community-trust/))
@@ -59,8 +59,8 @@ description: Insurance Updates
 - JLR breach sparks debate on insurance gaps and state support ([4 days ago](https://www.postonline.co.uk/commercial/7959451/jlr-breach-sparks-debate-on-insurance-gaps-and-state-support))
 - Why Which?’s super-complaint is a turning point for insurance ([4 days ago](https://www.postonline.co.uk/regulation/7959579/why-whichs-super-complaint-is-a-turning-point-for-insurance))
 - Verisk rolls out insurance regulatory data tool ([4 days ago](https://www.dig-in.com/news/verisk-rolls-out-insurance-regulatory-data-tool))
-- WIL 2025: Sarah Murrow on resilience and her commitment to quality leadership ([4 days ago](https://www.dig-in.com/news/sarah-murrow-on-her-commitment-to-quality-leadership))
-- AI and insurtech predictions for 2026 ([4 days ago](https://www.dig-in.com/news/ai-and-insurtech-predictions-for-2026))
+- WIL 2025: Sarah Murrow on resilience and her commitment to quality leadership ([5 days ago](https://www.dig-in.com/news/sarah-murrow-on-her-commitment-to-quality-leadership))
+- AI and insurtech predictions for 2026 ([5 days ago](https://www.dig-in.com/news/ai-and-insurtech-predictions-for-2026))
 - UK, Bermuda and EU markets: For US business, ditch direct procurement, go surplus lines ([5 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uk-bermuda-and-eu-markets-for-us-business-ditch-direct-procurement-go-surplus-lines-560894.aspx))
 - Broker warns FCA crackdown exposes cost of price-led insurance ([5 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/broker-warns-fca-crackdown-exposes-cost-of-priceled-insurance-560884.aspx))
 - IUA sets out agenda for 2026 ([5 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/iua-sets-out-agenda-for-2026-560883.aspx))
