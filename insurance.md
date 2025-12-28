@@ -8,8 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- New leader of Nationwide Securities, Beazley's head of digital follow underwriting: Insurance news ([21 minutes ago](https://www.dig-in.com/news/leader-nationwide-securities-beazley-digital-underwriting))
-- The human side of digital transformation ([22 minutes ago](https://www.dig-in.com/opinion/the-human-side-of-digital-transformation))
+- 2025 WIL: Tresa Stephens ([20 minutes ago](https://www.dig-in.com/news/2025-wil-tresa-stephens))
+- New leader of Nationwide Securities, Beazley's head of digital follow underwriting: Insurance news ([49 minutes ago](https://www.dig-in.com/news/leader-nationwide-securities-beazley-digital-underwriting))
+- The human side of digital transformation ([50 minutes ago](https://www.dig-in.com/opinion/the-human-side-of-digital-transformation))
 - 2026 Resolutions? Hey Under 25s, Don’t Overpay on Car Insurance Next Year ([1 days ago](https://insurance-edge.net/2025/12/27/2026-resolutions-hey-under-25s-dont-overpay-on-car-insurance-next-year/))
 - Best Insurance Looks Ahead to 2026: AI, Portals, White Labels & More ([2 days ago](https://insurance-edge.net/2025/12/26/best-insurance-looks-ahead-to-2026-ai-portals-white-labels-more/))
 - Russell Scanlan Raises £11,300 For Trent Bridge Community Trust ([2 days ago](https://insurance-edge.net/2025/12/26/russell-scanlan-raises-11300-for-trent-bridge-community-trust/))
@@ -72,7 +73,7 @@ description: Insurance Updates
 - 60 Seconds With... Sarah Vaughan, Angelica Solutions ([5 days ago](https://www.postonline.co.uk/people/7958980/60-seconds-with-sarah-vaughan-angelica-solutions))
 - Underwriting takes its toll so mental health support is vital ([5 days ago](https://www.postonline.co.uk/people/7959564/underwriting-takes-its-toll-so-mental-health-support-is-vital))
 - Insurtech forecast for 2026 ([5 days ago](https://www.postonline.co.uk/technology/7959389/insurtech-forecast-for-2026))
-- How insurance brokers can retain clients post M&A ([5 days ago](https://www.dig-in.com/opinion/how-brokers-can-retain-clients-post-m-a))
+- How insurance brokers can retain clients post M&A ([6 days ago](https://www.dig-in.com/opinion/how-brokers-can-retain-clients-post-m-a))
 - Customer satisfaction high with all digital claims: J.D. Power ([6 days ago](https://www.dig-in.com/news/customer-satisfaction-high-with-digital-claims-j-d-power))
 - LV looking to relaunch into general insurance in early 2028 ([6 days ago](https://www.postonline.co.uk/personal/7959573/lv-looking-to-relaunch-into-general-insurance-in-early-2028))
 - Axa Partners hit with FCA limitations ([6 days ago](https://www.postonline.co.uk/personal/7959576/axa-partners-hit-with-FCA-limitations))
@@ -80,7 +81,6 @@ description: Insurance Updates
 - Pinpoint UK gains Lloyd’s coverholder status ([6 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/pinpoint-uk-gains-lloyds-coverholder-status-560834.aspx))
 - How Covid-19 litigation has shifted BI policy wording ([6 days ago](https://www.postonline.co.uk/commercial/7959461/how-covid-19-litigation-has-shifted-bi-policy-wording))
 - Diary of an Insurer: QBE’s Hannah Wilkinson ([6 days ago](https://www.postonline.co.uk/commercial/7959330/diary-of-an-insurer-qbes-hannah-wilkinson))
-- Swiss Re: Insured nat cat losses surpass $100B for 6th year ([6 days ago](https://www.dig-in.com/news/insured-natural-disaster-losses-surpass-100b-for-6th-year))
 - Skyward Specialty and Sixfold Partner to Advance AI Powered Underwriting ([9 days ago](https://www.insurtechinsights.com/skyward-specialty-and-sixfold-partner-to-advance-ai-powered-underwriting/))
 - Cyber insurance uptake is reportedly below 10% – why broker education is key to market growth ([9 days ago](https://ifamagazine.com/cyber-insurance-uptake-is-reportedly-below-10-why-broker-education-is-key-to-market-growth/))
 - AIG buys Salford City FC; Prestige x Urban Jungle; Biba’s deputy chair ([9 days ago](https://www.postonline.co.uk/news/7959567/aig-buys-salford-city-fc-prestige-x-urban-jungle-bibas-deputy-chair))
