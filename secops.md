@@ -9,10 +9,10 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - WIRED - 2,364,431 breached accounts ([5 hours ago](https://haveibeenpwned.com/Breach/WIRED))
-- OrthopedicsNY fined $500K by NYS for patient data breach ([5 hours ago](https://databreaches.net/2025/12/27/orthopedicsny-fined-500k-by-nys-for-patient-data-breach/?pk_campaign=feed&pk_kwd=orthopedicsny-fined-500k-by-nys-for-patient-data-breach))
-- SSL Santa greets London Victoria visitors with a borked update ([16 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/27/victoria_bork/))
+- OrthopedicsNY fined $500K by NYS for patient data breach ([6 hours ago](https://databreaches.net/2025/12/27/orthopedicsny-fined-500k-by-nys-for-patient-data-breach/?pk_campaign=feed&pk_kwd=orthopedicsny-fined-500k-by-nys-for-patient-data-breach))
+- SSL Santa greets London Victoria visitors with a borked update ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/27/victoria_bork/))
 - OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers ([19 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ads-will-allegedly-prioritize-sponsored-content-in-answers/))
-- New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory ([20 hours ago](https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html))
+- New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory ([21 hours ago](https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html))
 - Fake Grubhub emails promise tenfold return on sent cryptocurrency ([1 days ago](https://www.bleepingcomputer.com/news/security/fake-grubhub-emails-promise-tenfold-return-on-sent-cryptocurrency/))
 - Stop the slop by disabling AI features in Chrome ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/26/disable_ai_features_chrome/))
 - From AI to analog, cybersecurity tabletop exercises look a little different this year ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/26/end_of_year_tabletop_exercises/))
@@ -140,7 +140,7 @@ description: SecOps News
 - [KIS-2025-09] Control Web Panel <= 0.9.8.1208 (admin/index.php) OS Command Injection Vulnerability ([9 days ago](https://seclists.org/fulldisclosure/2025/Dec/25))
 - Raydium CP Swap: Unchecked Account Allows Creator Fee Hijacking ([9 days ago](https://seclists.org/fulldisclosure/2025/Dec/24))
 - [CFP] Security BSidesLjubljana 0x7EA  -  March 13, 2026 ([9 days ago](https://seclists.org/fulldisclosure/2025/Dec/23))
-- AUTOSUR - 487,226 breached accounts ([9 days ago](https://haveibeenpwned.com/Breach/AUTOSUR))
+- AUTOSUR - 487,226 breached accounts ([10 days ago](https://haveibeenpwned.com/Breach/AUTOSUR))
 - The Botting Network - 96,320 breached accounts ([10 days ago](https://haveibeenpwned.com/Breach/TheBottingNetwork))
 - Smashing Security podcast #448: The Kindle that got pwned ([10 days ago](https://grahamcluley.com/smashing-security-podcast-448/))
 - Web Hosting Talk - 515,149 breached accounts ([10 days ago](https://haveibeenpwned.com/Breach/WebHostingTalk))
