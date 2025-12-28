@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- WIRED - 2,364,431 breached accounts ([3 hours ago](https://haveibeenpwned.com/Breach/WIRED))
-- OrthopedicsNY fined $500K by NYS for patient data breach ([3 hours ago](https://databreaches.net/2025/12/27/orthopedicsny-fined-500k-by-nys-for-patient-data-breach/?pk_campaign=feed&pk_kwd=orthopedicsny-fined-500k-by-nys-for-patient-data-breach))
-- SSL Santa greets London Victoria visitors with a borked update ([14 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/27/victoria_bork/))
+- WIRED - 2,364,431 breached accounts ([4 hours ago](https://haveibeenpwned.com/Breach/WIRED))
+- OrthopedicsNY fined $500K by NYS for patient data breach ([4 hours ago](https://databreaches.net/2025/12/27/orthopedicsny-fined-500k-by-nys-for-patient-data-breach/?pk_campaign=feed&pk_kwd=orthopedicsny-fined-500k-by-nys-for-patient-data-breach))
+- SSL Santa greets London Victoria visitors with a borked update ([15 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/27/victoria_bork/))
 - OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers ([17 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ads-will-allegedly-prioritize-sponsored-content-in-answers/))
 - New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory ([19 hours ago](https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html))
 - Fake Grubhub emails promise tenfold return on sent cryptocurrency ([1 days ago](https://www.bleepingcomputer.com/news/security/fake-grubhub-emails-promise-tenfold-return-on-sent-cryptocurrency/))
