@@ -9,8 +9,8 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - 2025 WIL: Tresa Stephens ([6 hours ago](https://www.dig-in.com/news/2025-wil-tresa-stephens))
-- New leader of Nationwide Securities, Beazley's head of digital follow underwriting: Insurance news ([6 hours ago](https://www.dig-in.com/news/leader-nationwide-securities-beazley-digital-underwriting))
-- The human side of digital transformation ([6 hours ago](https://www.dig-in.com/opinion/the-human-side-of-digital-transformation))
+- New leader of Nationwide Securities, Beazley's head of digital follow underwriting: Insurance news ([7 hours ago](https://www.dig-in.com/news/leader-nationwide-securities-beazley-digital-underwriting))
+- The human side of digital transformation ([7 hours ago](https://www.dig-in.com/opinion/the-human-side-of-digital-transformation))
 - 2026 Resolutions? Hey Under 25s, Don’t Overpay on Car Insurance Next Year ([1 days ago](https://insurance-edge.net/2025/12/27/2026-resolutions-hey-under-25s-dont-overpay-on-car-insurance-next-year/))
 - Best Insurance Looks Ahead to 2026: AI, Portals, White Labels & More ([2 days ago](https://insurance-edge.net/2025/12/26/best-insurance-looks-ahead-to-2026-ai-portals-white-labels-more/))
 - Russell Scanlan Raises £11,300 For Trent Bridge Community Trust ([2 days ago](https://insurance-edge.net/2025/12/26/russell-scanlan-raises-11300-for-trent-bridge-community-trust/))
