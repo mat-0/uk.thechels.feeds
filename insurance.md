@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- 2025 WIL: Tresa Stephens ([7 hours ago](https://www.dig-in.com/news/2025-wil-tresa-stephens))
+- 2025 WIL: Tresa Stephens ([8 hours ago](https://www.dig-in.com/news/2025-wil-tresa-stephens))
 - New leader of Nationwide Securities, Beazley's head of digital follow underwriting: Insurance news ([8 hours ago](https://www.dig-in.com/news/leader-nationwide-securities-beazley-digital-underwriting))
 - The human side of digital transformation ([8 hours ago](https://www.dig-in.com/opinion/the-human-side-of-digital-transformation))
 - 2026 Resolutions? Hey Under 25s, Don’t Overpay on Car Insurance Next Year ([1 days ago](https://insurance-edge.net/2025/12/27/2026-resolutions-hey-under-25s-dont-overpay-on-car-insurance-next-year/))
