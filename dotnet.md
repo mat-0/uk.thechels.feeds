@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- F# Weekly #52, 2025 - Happy New Year ([1 days ago](https://dotnetkicks.com/r/737174?url=https://sergeytihon.com/2025/12/28/f-weekly-52-2025-happy-new-year/))
+- F# Weekly #52, 2025 - Happy New Year ([2 days ago](https://dotnetkicks.com/r/737174?url=https://sergeytihon.com/2025/12/28/f-weekly-52-2025-happy-new-year/))
 - Supercharging Application Performance with Intelligent Client-Side Caching ([2 days ago](https://dotnettips.wordpress.com/2025/12/28/supercharging-application-performance-with-intelligent-client-side-caching/))
 - Implementing Azure Naming Conventions At Scale With Terraform And Build5Nines/naming/azure (AzureRM + Region Pairs)  -  Build5Nines ([4 days ago](https://dotnetkicks.com/r/737130?url=https://build5nines.com/implementing-azure-naming-conventions-at-scale-with-terraform-and-build5nines-naming-azure-azurerm-region-pairs/))
 - Azure Functions & Durable Functions Part 1 ([4 days ago](https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/))
@@ -46,12 +46,12 @@ description: DotNet Updates
 - .NET 10 Networking Improvements - .NET Blog ([21 days ago](https://dotnetkicks.com/r/736202?url=https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/))
 - .NET 10 Networking Improvements ([21 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/))
 - Meet the Islands Theme – The New Default Look for JetBrains IDEs ([21 days ago](https://blog.jetbrains.com/platform/2025/12/meet-the-islands-theme-the-new-default-look-for-jetbrains-ides/))
-- F# Weekly #49, 2025 - Oxpecker 2, fsi-mcp, LSP &amp; AOC in F# ([22 days ago](https://dotnetkicks.com/r/736168?url=https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/))
+- F# Weekly #49, 2025 - Oxpecker 2, fsi-mcp, LSP &amp; AOC in F# ([23 days ago](https://dotnetkicks.com/r/736168?url=https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/))
 - Immutable Collection Add() Trap: Don’t Get Burned — Use a Builder Instead ([23 days ago](https://dotnettips.wordpress.com/2025/12/07/immutable-collection-add-trap-dont-get-burned-use-a-builder-instead/))
 - .NET Conf 2025 Recap – Celebrating .NET 10, Visual Studio 2026, AI, Community, & More ([25 days ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
 - Introducing Data Ingestion Building Blocks (Preview) ([26 days ago](https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/))
 - 5 Stories Of Developers Using JetBrains Rider to Create, Collaborate, and Have Fun ([26 days ago](https://blog.jetbrains.com/dotnet/2025/12/03/5-stories-of-developers-using-jetbrains-rider/))
 - dotInsights  -  December 2025 ([27 days ago](https://blog.jetbrains.com/dotnet/2025/12/02/dotinsights-december-2025/))
-- Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([27 days ago](https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
+- Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([28 days ago](https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
 
 <!-- news_marker ends -->
