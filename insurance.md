@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- How AI agents are redefining the insurance experience ([1 hours ago](https://www.dig-in.com/opinion/how-ai-agents-are-redefining-the-insurance-experience))
-- How to avoid costly mistakes in small commercial insurance ([1 hours ago](https://www.dig-in.com/opinion/avoiding-costly-mistakes-in-small-commercial-insurance))
-- Skywell Teams Up With Adrian Flux on EV Cover ([12 hours ago](https://insurance-edge.net/2026/01/01/skywell-teams-up-with-adrian-flux-on-ev-cover/))
+- How AI agents are redefining the insurance experience ([2 hours ago](https://www.dig-in.com/opinion/how-ai-agents-are-redefining-the-insurance-experience))
+- How to avoid costly mistakes in small commercial insurance ([2 hours ago](https://www.dig-in.com/opinion/avoiding-costly-mistakes-in-small-commercial-insurance))
+- Skywell Teams Up With Adrian Flux on EV Cover ([13 hours ago](https://insurance-edge.net/2026/01/01/skywell-teams-up-with-adrian-flux-on-ev-cover/))
 - Predictions 2026: Insurance Sector Trends, Comment and Analysis ([14 hours ago](https://insurance-edge.net/2026/01/01/predictions-2026-insurance-sector-trends-comment-and-analysis/))
 - The agentic AI pricing revolution and investment strategy ([1 days ago](https://www.dig-in.com/opinion/the-agentic-ai-pricing-revolution-and-investment-strategy))
 - Willis Re expects further easing of conditions, greater competition & continued new supply in 2026 ([1 days ago](https://www.reinsurancene.ws/willis-re-expects-further-easing-of-conditions-greater-competition-continued-new-supply-in-2026/))

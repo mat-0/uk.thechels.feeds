@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Visual Studio 2026: Regressions, Reliability Issues, and Missed Opportunities ([15 hours ago](https://dotnettips.wordpress.com/2026/01/01/visual-studio-2026-regressions-reliability-issues-and-missed-opportunities/))
-- Rock Your Code: Code & App Performance for Microsoft .NET (5th Edition) ([15 hours ago](https://dotnettips.wordpress.com/2026/01/01/rock-your-code-code-app-performance-for-microsoft-net-5th-edition/))
+- Rock Your Code: Code & App Performance for Microsoft .NET (5th Edition) ([16 hours ago](https://dotnettips.wordpress.com/2026/01/01/rock-your-code-code-app-performance-for-microsoft-net-5th-edition/))
 - Top .NET Videos & Live Streams of 2025 - .NET Blog ([1 days ago](https://dotnetkicks.com/r/737376?url=https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
 - Top .NET Videos & Live Streams of 2025 ([1 days ago](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
 - 2025 Year in Review ([1 days ago](https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review))
@@ -31,7 +31,7 @@ description: DotNet Updates
 - 2025 in review: How we elevated the Microsoft Store experience ([14 days ago](https://dotnetkicks.com/r/736902?url=https://blogs.windows.com/windowsdeveloper/2025/12/18/2025-in-review-how-we-elevated-the-microsoft-store-experience/))
 - Azure updates for partners: December 2025 ([15 days ago](https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025))
 - Critter Stack Roadmap for 2026 ([15 days ago](https://dotnetkicks.com/r/736802?url=https://jeremydmiller.com/2025/12/17/critter-stack-roadmap-for-2026/))
-- Why "Microservices" Debates Miss the Point ([15 days ago](https://dotnetkicks.com/r/736738?url=https://codeopinion.com/why-microservices-debates-miss-the-point/))
+- Why "Microservices" Debates Miss the Point ([16 days ago](https://dotnetkicks.com/r/736738?url=https://codeopinion.com/why-microservices-debates-miss-the-point/))
 - Microsoft.Testing.Platform Now Fully Supported in Azure DevOps - .NET Blog ([16 days ago](https://dotnetkicks.com/r/736726?url=https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
 - Microsoft.Testing.Platform Now Fully Supported in Azure DevOps ([16 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
 - Debugging, but Without the Drama (A Visual Studio 2026 Story) - Visual Studio Blog ([16 days ago](https://dotnetkicks.com/r/736724?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2026-debugging-with-copilot/))
