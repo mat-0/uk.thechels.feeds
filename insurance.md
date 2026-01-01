@@ -8,17 +8,17 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Skywell Teams Up With Adrian Flux on EV Cover ([4 hours ago](https://insurance-edge.net/2026/01/01/skywell-teams-up-with-adrian-flux-on-ev-cover/))
+- Skywell Teams Up With Adrian Flux on EV Cover ([5 hours ago](https://insurance-edge.net/2026/01/01/skywell-teams-up-with-adrian-flux-on-ev-cover/))
 - Predictions 2026: Insurance Sector Trends, Comment and Analysis ([6 hours ago](https://insurance-edge.net/2026/01/01/predictions-2026-insurance-sector-trends-comment-and-analysis/))
 - The agentic AI pricing revolution and investment strategy ([18 hours ago](https://www.dig-in.com/opinion/the-agentic-ai-pricing-revolution-and-investment-strategy))
-- Willis Re expects further easing of conditions, greater competition & continued new supply in 2026 ([21 hours ago](https://www.reinsurancene.ws/willis-re-expects-further-easing-of-conditions-greater-competition-continued-new-supply-in-2026/))
-- China’s PICC P&C enters into reinsurance agreements with PICC Re & PICC HK ([22 hours ago](https://www.reinsurancene.ws/chinas-picc-pc-enters-into-reinsurance-agreements-with-picc-re-picc-hk/))
-- Goldman Helps Lead Financing for 5-Gigawatt Texas AI Power Sites ([22 hours ago](https://www.insurancejournal.com/news/southcentral/2025/12/31/852831.htm))
+- Willis Re expects further easing of conditions, greater competition & continued new supply in 2026 ([22 hours ago](https://www.reinsurancene.ws/willis-re-expects-further-easing-of-conditions-greater-competition-continued-new-supply-in-2026/))
+- China’s PICC P&C enters into reinsurance agreements with PICC Re & PICC HK ([23 hours ago](https://www.reinsurancene.ws/chinas-picc-pc-enters-into-reinsurance-agreements-with-picc-re-picc-hk/))
+- Goldman Helps Lead Financing for 5-Gigawatt Texas AI Power Sites ([23 hours ago](https://www.insurancejournal.com/news/southcentral/2025/12/31/852831.htm))
 - Texas Secures $1.25M Settlement from Hyatt for Consumer Protection Violations ([23 hours ago](https://www.insurancejournal.com/news/southcentral/2025/12/31/852828.htm))
 - Michigan AG Provides Tips to Avoid Storm-Related Scams ([23 hours ago](https://www.insurancejournal.com/news/midwest/2025/12/31/852825.htm))
 - Ohio Wendy’s Sued for Disability and Age Discrimination ([23 hours ago](https://www.insurancejournal.com/news/midwest/2025/12/31/852822.htm))
-- AXIS Capital appoints Mirzaian as Underwriting & Product Lead US Media ([23 hours ago](https://www.reinsurancene.ws/axis-capital-appoints-mirzaian-as-underwriting-product-lead-us-media/))
-- Last of 7 Kentucky Crop Insurance Fraudsters Sentenced to Prison Time ([23 hours ago](https://www.insurancejournal.com/news/southeast/2025/12/31/852818.htm))
+- AXIS Capital appoints Mirzaian as Underwriting & Product Lead US Media ([1 days ago](https://www.reinsurancene.ws/axis-capital-appoints-mirzaian-as-underwriting-product-lead-us-media/))
+- Last of 7 Kentucky Crop Insurance Fraudsters Sentenced to Prison Time ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/12/31/852818.htm))
 - Target, Walmart, Whole Foods Targeted in Botulism Suits ([1 days ago](https://www.insurancejournal.com/news/national/2025/12/31/852808.htm))
 - Brown University Faces US Probe Over Security After Deadly Shooting ([1 days ago](https://www.insurancejournal.com/news/east/2025/12/31/852810.htm))
 - US P&C set for strong 2026 despite shifting landscape: Fitch ([1 days ago](https://www.reinsurancene.ws/us-pc-set-for-strong-2026-despite-shifting-landscape-fitch/))
@@ -94,6 +94,6 @@ description: Insurance Updates
 - AFC Bournemouth proud to announce Vitality as front-of-shirt sponsor ([16 days ago](https://ifamagazine.com/afc-bournemouth-proud-to-announce-vitality-as-front-of-shirt-sponsor/))
 - Protection market 2026: Embracing transformation and opportunity ([17 days ago](https://ifamagazine.com/protection-market-2026-embracing-transformation-and-opportunity/))
 - SM Advice launches free social media service for firms in response to AMI Viewpoint findings that 51% do not use social media ([17 days ago](https://ifamagazine.com/sm-advice-launches-free-social-media-service-for-firms-in-response-to-ami-viewpoint-findings-that-51-do-not-use-social-media/))
-- Rising mental health referrals highlight growing pressure and increased reliance on employer health support ([20 days ago](https://ifamagazine.com/rising-mental-health-referrals-highlight-growing-pressure-and-increased-reliance-on-employer-health-support/))
+- Rising mental health referrals highlight growing pressure and increased reliance on employer health support ([21 days ago](https://ifamagazine.com/rising-mental-health-referrals-highlight-growing-pressure-and-increased-reliance-on-employer-health-support/))
 
 <!-- news_marker ends -->
