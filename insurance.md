@@ -9,8 +9,8 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Skywell Teams Up With Adrian Flux on EV Cover ([7 hours ago](https://insurance-edge.net/2026/01/01/skywell-teams-up-with-adrian-flux-on-ev-cover/))
-- Predictions 2026: Insurance Sector Trends, Comment and Analysis ([8 hours ago](https://insurance-edge.net/2026/01/01/predictions-2026-insurance-sector-trends-comment-and-analysis/))
-- The agentic AI pricing revolution and investment strategy ([20 hours ago](https://www.dig-in.com/opinion/the-agentic-ai-pricing-revolution-and-investment-strategy))
+- Predictions 2026: Insurance Sector Trends, Comment and Analysis ([9 hours ago](https://insurance-edge.net/2026/01/01/predictions-2026-insurance-sector-trends-comment-and-analysis/))
+- The agentic AI pricing revolution and investment strategy ([21 hours ago](https://www.dig-in.com/opinion/the-agentic-ai-pricing-revolution-and-investment-strategy))
 - Willis Re expects further easing of conditions, greater competition & continued new supply in 2026 ([1 days ago](https://www.reinsurancene.ws/willis-re-expects-further-easing-of-conditions-greater-competition-continued-new-supply-in-2026/))
 - China’s PICC P&C enters into reinsurance agreements with PICC Re & PICC HK ([1 days ago](https://www.reinsurancene.ws/chinas-picc-pc-enters-into-reinsurance-agreements-with-picc-re-picc-hk/))
 - Goldman Helps Lead Financing for 5-Gigawatt Texas AI Power Sites ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/12/31/852831.htm))
@@ -57,7 +57,7 @@ description: Insurance Updates
 - Governing the promise and perils of Agentic AI ([1 days ago](https://www.dig-in.com/opinion/governing-the-promise-and-perils-of-agentic-ai))
 - A 2026 playbook for outsmarting the fraud surge ([1 days ago](https://www.dig-in.com/opinion/a-2026-playbook-for-outsmarting-the-fraud-surge))
 - US lawmakers launch probe into insurance rating firm in Florida ([1 days ago](https://www.dig-in.com/articles/us-lawmakers-launch-probe-into-insurance-rating-firm-in-florida))
-- QBE Insurance Sponsors US$400M Catastrophe Bond via Bridge Street Program ([1 days ago](https://www.insurancejournal.com/news/international/2025/12/30/852699.htm))
+- QBE Insurance Sponsors US$400M Catastrophe Bond via Bridge Street Program ([2 days ago](https://www.insurancejournal.com/news/international/2025/12/30/852699.htm))
 - Go.Compare Launches Ad Campaign With Ian Wright ([2 days ago](https://insurance-edge.net/2025/12/30/go-compare-launches-ad-campaign-with-ian-wright/))
 - Medical cannabis reimbursement moves from fringe to workplace benefit ([2 days ago](https://www.dig-in.com/news/medical-cannabis-enters-workplace-health-benefits))
 - Insurers Forecast of 2026 ([2 days ago](https://www.postonline.co.uk/personal/7959399/insurers-forecast-of-2026))
