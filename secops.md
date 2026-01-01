@@ -8,12 +8,12 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories ([2 hours ago](https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html))
-- Welcome to Wendy's! Before your order can be taken, you must first reset this kiosk ([7 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/01/bork_wendys_kiosk/))
+- ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories ([3 hours ago](https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html))
+- Welcome to Wendy's! Before your order can be taken, you must first reset this kiosk ([8 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/01/bork_wendys_kiosk/))
 - How Microsoft gave customers what they wanted: An audience with Bill Gates ([9 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/01/microsofts_approach_to_customer_service/))
 - RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers ([9 hours ago](https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html))
-- How To Browse Faster and Get More Done Using Adapt Browser ([12 hours ago](https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html))
-- NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices ([19 hours ago](https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/))
+- How To Browse Faster and Get More Done Using Adapt Browser ([13 hours ago](https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html))
+- NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices ([20 hours ago](https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/))
 - US Army seeks human AI officers to manage its battle bots ([23 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/31/us_army_seeking_officers_willing/))
 - European Space Agency hit again as cybercrims claim 200 GB data up for sale ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/31/european_space_agency_hacked/))
 - Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack ([1 days ago](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html))
@@ -89,7 +89,7 @@ description: SecOps News
 - WIRED - 2,364,431 breached accounts ([4 days ago](https://haveibeenpwned.com/Breach/WIRED))
 - SSL Santa greets London Victoria visitors with a borked update ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/27/victoria_bork/))
 - New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory ([5 days ago](https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html))
-- Stop the slop by disabling AI features in Chrome ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/26/disable_ai_features_chrome/))
+- Stop the slop by disabling AI features in Chrome ([6 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/26/disable_ai_features_chrome/))
 - From AI to analog, cybersecurity tabletop exercises look a little different this year ([6 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/26/end_of_year_tabletop_exercises/))
 - From AI to analog, cybersecurity tabletop exercises look a little different this year ([6 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/26/end_of_year_tabletop_exercises/))
 - Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code ([6 days ago](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html))
@@ -204,6 +204,5 @@ description: SecOps News
 - Webhooks delivery degradation ([28 days ago](https://www.githubstatus.com/incidents/k95d6yq4tmly))
 - FBI warns of surge in account takeover (ATO) fraud schemes – what you need to know ([29 days ago](https://www.fortra.com/blog/fbi-warns-surge-account-takeover-ato-fraud-schemes-need-know))
 - The AI Fix #79: Gemini 3, poetry jailbreaks, and do we even need safe robots? ([29 days ago](https://grahamcluley.com/the-ai-fix-79/))
-- Asahi cyber attack spirals into massive data breach impacting almost 2 million people ([29 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/asahi-cyber-attack-spirals-into-massive-data-breach-impacting-almost-2-million-people))
 
 <!-- news_marker ends -->
