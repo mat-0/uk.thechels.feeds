@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Visual Studio 2026: Regressions, Reliability Issues, and Missed Opportunities ([21 hours ago](https://dotnettips.wordpress.com/2026/01/01/visual-studio-2026-regressions-reliability-issues-and-missed-opportunities/))
+- Visual Studio 2026: Regressions, Reliability Issues, and Missed Opportunities ([22 hours ago](https://dotnettips.wordpress.com/2026/01/01/visual-studio-2026-regressions-reliability-issues-and-missed-opportunities/))
 - Rock Your Code: Code & App Performance for Microsoft .NET (5th Edition) ([22 hours ago](https://dotnettips.wordpress.com/2026/01/01/rock-your-code-code-app-performance-for-microsoft-net-5th-edition/))
 - Top .NET Videos & Live Streams of 2025 - .NET Blog ([1 days ago](https://dotnetkicks.com/r/737376?url=https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
 - Top .NET Videos & Live Streams of 2025 ([1 days ago](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
@@ -20,7 +20,7 @@ description: DotNet Updates
 - Top .NET Blog Posts of 2025 ([2 days ago](https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/))
 - F# Weekly #52, 2025 - Happy New Year ([4 days ago](https://dotnetkicks.com/r/737174?url=https://sergeytihon.com/2025/12/28/f-weekly-52-2025-happy-new-year/))
 - Supercharging Application Performance with Intelligent Client-Side Caching ([4 days ago](https://dotnettips.wordpress.com/2025/12/28/supercharging-application-performance-with-intelligent-client-side-caching/))
-- Implementing Azure Naming Conventions At Scale With Terraform And Build5Nines/naming/azure (AzureRM + Region Pairs)  -  Build5Nines ([6 days ago](https://dotnetkicks.com/r/737130?url=https://build5nines.com/implementing-azure-naming-conventions-at-scale-with-terraform-and-build5nines-naming-azure-azurerm-region-pairs/))
+- Implementing Azure Naming Conventions At Scale With Terraform And Build5Nines/naming/azure (AzureRM + Region Pairs)  -  Build5Nines ([7 days ago](https://dotnetkicks.com/r/737130?url=https://build5nines.com/implementing-azure-naming-conventions-at-scale-with-terraform-and-build5nines-naming-azure-azurerm-region-pairs/))
 - Azure Functions & Durable Functions Part 1 ([7 days ago](https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/))
 - F# Weekly #51, 2025 - WebSharper 10 &amp; Fidelity Framework ([11 days ago](https://dotnetkicks.com/r/736980?url=https://sergeytihon.com/2025/12/20/f-weekly-51-2025-websharper-10-fidelity-framework/))
 - New Book: Build And Deploy Apps Using Azure Developer CLI By Chris Pietschmann  -  Build5Nines ([11 days ago](https://dotnetkicks.com/r/736976?url=https://build5nines.com/new-book-build-and-deploy-apps-using-azure-developer-cli-written-by-chris-pietschmann/))
