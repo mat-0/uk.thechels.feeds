@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- How AI agents are redefining the insurance experience ([6 hours ago](https://www.dig-in.com/opinion/how-ai-agents-are-redefining-the-insurance-experience))
-- How to avoid costly mistakes in small commercial insurance ([6 hours ago](https://www.dig-in.com/opinion/avoiding-costly-mistakes-in-small-commercial-insurance))
-- Skywell Teams Up With Adrian Flux on EV Cover ([17 hours ago](https://insurance-edge.net/2026/01/01/skywell-teams-up-with-adrian-flux-on-ev-cover/))
-- Predictions 2026: Insurance Sector Trends, Comment and Analysis ([19 hours ago](https://insurance-edge.net/2026/01/01/predictions-2026-insurance-sector-trends-comment-and-analysis/))
+- How AI agents are redefining the insurance experience ([7 hours ago](https://www.dig-in.com/opinion/how-ai-agents-are-redefining-the-insurance-experience))
+- How to avoid costly mistakes in small commercial insurance ([7 hours ago](https://www.dig-in.com/opinion/avoiding-costly-mistakes-in-small-commercial-insurance))
+- Skywell Teams Up With Adrian Flux on EV Cover ([18 hours ago](https://insurance-edge.net/2026/01/01/skywell-teams-up-with-adrian-flux-on-ev-cover/))
+- Predictions 2026: Insurance Sector Trends, Comment and Analysis ([20 hours ago](https://insurance-edge.net/2026/01/01/predictions-2026-insurance-sector-trends-comment-and-analysis/))
 - The agentic AI pricing revolution and investment strategy ([1 days ago](https://www.dig-in.com/opinion/the-agentic-ai-pricing-revolution-and-investment-strategy))
 - Willis Re expects further easing of conditions, greater competition & continued new supply in 2026 ([1 days ago](https://www.reinsurancene.ws/willis-re-expects-further-easing-of-conditions-greater-competition-continued-new-supply-in-2026/))
 - China’s PICC P&C enters into reinsurance agreements with PICC Re & PICC HK ([1 days ago](https://www.reinsurancene.ws/chinas-picc-pc-enters-into-reinsurance-agreements-with-picc-re-picc-hk/))
@@ -85,7 +85,6 @@ description: Insurance Updates
 - Insurers could deploy quantum computing within five years ([10 days ago](https://www.postonline.co.uk/technology/7959529/insurers-could-deploy-quantum-computing-within-five-years))
 - Diary of an Insurer: QBE’s Hannah Wilkinson ([10 days ago](https://www.postonline.co.uk/commercial/7959330/diary-of-an-insurer-qbes-hannah-wilkinson))
 - How Covid-19 litigation has shifted BI policy wording ([10 days ago](https://www.postonline.co.uk/commercial/7959461/how-covid-19-litigation-has-shifted-bi-policy-wording))
-- Skyward Specialty and Sixfold Partner to Advance AI Powered Underwriting ([13 days ago](https://www.insurtechinsights.com/skyward-specialty-and-sixfold-partner-to-advance-ai-powered-underwriting/))
 - Cyber insurance uptake is reportedly below 10% – why broker education is key to market growth ([13 days ago](https://ifamagazine.com/cyber-insurance-uptake-is-reportedly-below-10-why-broker-education-is-key-to-market-growth/))
 - AIG buys Salford City FC; Prestige x Urban Jungle; Biba’s deputy chair ([13 days ago](https://www.postonline.co.uk/news/7959567/aig-buys-salford-city-fc-prestige-x-urban-jungle-bibas-deputy-chair))
 - From estate planning to AI: why 2026 must be the year the protection market truly opens up ([15 days ago](https://ifamagazine.com/from-estate-planning-to-ai-why-2026-must-be-the-year-the-protection-market-truly-opens-up/))
