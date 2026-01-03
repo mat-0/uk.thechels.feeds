@@ -14,7 +14,7 @@ description: DotNet Updates
 - Top .NET Videos & Live Streams of 2025 ([2 days ago](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
 - 2025 Year in Review ([2 days ago](https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review))
 - Striking a Balance: Working Fully Remote for Nearly a Decade ([2 days ago](https://dotnetkicks.com/r/737327?url=https://rion.io/2025/12/30/striking-a-balance-working-fully-remote-for-nearly-a-decade/))
-- Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence ([2 days ago](https://dotnetkicks.com/r/737312?url=https://petabridge.com/blog/crud-to-cqrs-akka-persistence/))
+- Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence ([3 days ago](https://dotnetkicks.com/r/737312?url=https://petabridge.com/blog/crud-to-cqrs-akka-persistence/))
 - Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence ([3 days ago](https://dotnetkicks.com/r/737305?url=https://petabridge.com/blog/akka-persistence-cqrs-upgrades/))
 - Top .NET Blog Posts of 2025 - .NET Blog ([3 days ago](https://dotnetkicks.com/r/737287?url=https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/))
 - Top .NET Blog Posts of 2025 ([3 days ago](https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/))
