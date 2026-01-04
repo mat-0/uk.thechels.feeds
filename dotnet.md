@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- F# Weekly #1, 2026 - Kipo &amp; future of MonoGame ([1 hours ago](https://dotnetkicks.com/r/737508?url=https://sergeytihon.com/2026/01/03/f-weekly-1-2026-kipo-future-of-monogame/))
-- Leveraging Span-Based String Concatenation for Improved Performance ([2 hours ago](https://dotnettips.wordpress.com/2026/01/04/leveraging-span-based-string-concatenation-for-improved-performance/))
+- F# Weekly #1, 2026 - Kipo &amp; future of MonoGame ([2 hours ago](https://dotnetkicks.com/r/737508?url=https://sergeytihon.com/2026/01/03/f-weekly-1-2026-kipo-future-of-monogame/))
+- Leveraging Span-Based String Concatenation for Improved Performance ([3 hours ago](https://dotnettips.wordpress.com/2026/01/04/leveraging-span-based-string-concatenation-for-improved-performance/))
 - Visual Studio 2026: Regressions, Reliability Issues, and Missed Opportunities ([3 days ago](https://dotnettips.wordpress.com/2026/01/01/visual-studio-2026-regressions-reliability-issues-and-missed-opportunities/))
 - Rock Your Code: Code & App Performance for Microsoft .NET (5th Edition) ([3 days ago](https://dotnettips.wordpress.com/2026/01/01/rock-your-code-code-app-performance-for-microsoft-net-5th-edition/))
 - Top .NET Videos & Live Streams of 2025 - .NET Blog ([3 days ago](https://dotnetkicks.com/r/737376?url=https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
@@ -38,7 +38,7 @@ description: DotNet Updates
 - Microsoft.Testing.Platform Now Fully Supported in Azure DevOps ([18 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
 - Debugging, but Without the Drama (A Visual Studio 2026 Story) - Visual Studio Blog ([18 days ago](https://dotnetkicks.com/r/736724?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2026-debugging-with-copilot/))
 - Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([18 days ago](https://dotnetkicks.com/r/736711?url=https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
-- Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([18 days ago](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
+- Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([19 days ago](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
 - Prompt Noise Is Killing Your AI Accuracy: How To Optimize Context For Grounded Output  -  Build5Nines ([19 days ago](https://dotnetkicks.com/r/736689?url=https://build5nines.com/prompt-noise-is-killing-your-ai-accuracy-how-to-optimize-context-for-grounded-output/))
 - How to Build iOS Widgets with .NET MAUI - .NET Blog ([19 days ago](https://dotnetkicks.com/r/736640?url=https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/))
 - How to Build iOS Widgets with .NET MAUI ([19 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/))
@@ -48,10 +48,10 @@ description: DotNet Updates
 - Streamlining your Git workflow with Visual Studio 2026 - Visual Studio Blog ([24 days ago](https://dotnetkicks.com/r/736367?url=https://devblogs.microsoft.com/visualstudio/streamlining-your-git-workflow-with-visual-studio-2026/))
 - .NET and .NET Framework December 2025 servicing releases updates ([25 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/))
 - Implementing Cross-Platform In-App Billing in .NET MAUI Applications ([25 days ago](https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui/))
-- Trying out the Zed editor on Windows for .NET and Markdown ([25 days ago](https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/))
+- Trying out the Zed editor on Windows for .NET and Markdown ([26 days ago](https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/))
 - Microsoft Learn MCP Server Elevates Development ([26 days ago](https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/))
 - .NET 10 Networking Improvements ([26 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/))
-- Meet the Islands Theme – The New Default Look for JetBrains IDEs ([26 days ago](https://blog.jetbrains.com/platform/2025/12/meet-the-islands-theme-the-new-default-look-for-jetbrains-ides/))
+- Meet the Islands Theme – The New Default Look for JetBrains IDEs ([27 days ago](https://blog.jetbrains.com/platform/2025/12/meet-the-islands-theme-the-new-default-look-for-jetbrains-ides/))
 - Immutable Collection Add() Trap: Don’t Get Burned — Use a Builder Instead ([28 days ago](https://dotnettips.wordpress.com/2025/12/07/immutable-collection-add-trap-dont-get-burned-use-a-builder-instead/))
 
 <!-- news_marker ends -->
