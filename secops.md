@@ -9,7 +9,7 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Hackers claim to hack Resecurity, firm says it was a honeypot ([8 hours ago](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/))
-- ShinyHunters claims to have compromised Resecurity, but it looks like they fell for a honeypot ([9 hours ago](https://databreaches.net/2026/01/03/shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot/?pk_campaign=feed&pk_kwd=shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot))
+- ShinyHunters claims to have compromised Resecurity, but it looks like they fell for a honeypot ([10 hours ago](https://databreaches.net/2026/01/03/shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot/?pk_campaign=feed&pk_kwd=shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot))
 - Claude is his copilot: Rust veteran designs new Rue programming language with help from AI bot ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/03/claude_copilot_rue_steve_klabnik/))
 - President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests ([18 hours ago](https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/))
 - Users prompt Elon Musk's Grok AI chatbot to remove clothes in photos then 'apologize' for it ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/03/elon_musk_grok_scandal_underwear_strippers_gross/))
@@ -63,7 +63,7 @@ description: SecOps News
 - European Space Agency Confirms Breach After Hacker Offers to Sell Data ([3 days ago](https://www.securityweek.com/european-space-agency-confirms-breach-after-hacker-offers-to-sell-data/))
 - The most durable tech is boring, old, and everywhere ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/31/long_lived_tech/))
 - U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware ([3 days ago](https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html))
-- Hong Kong’s newest anti-scam technology is over-the-counter banking ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/31/hong_kong_antiscam_money_safe/))
+- Hong Kong’s newest anti-scam technology is over-the-counter banking ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/31/hong_kong_antiscam_money_safe/))
 - Cybersecurity pros admit to moonlighting as ransomware scum ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/31/alphv_ransomware_affiliates_plead_guilty/))
 - New York’s incoming mayor bans Raspberry Pi at his inauguration party ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/31/zohran_mamdani_raspberry_pi_ban/))
 - An early end to the holidays: 'Heartbleed of MongoDB' is now under active exploit ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/30/mongodb_vuln_exploited_cve_2025_14847/))
@@ -152,7 +152,7 @@ description: SecOps News
 - [KIS-2025-09] Control Web Panel <= 0.9.8.1208 (admin/index.php) OS Command Injection Vulnerability ([16 days ago](https://seclists.org/fulldisclosure/2025/Dec/25))
 - Raydium CP Swap: Unchecked Account Allows Creator Fee Hijacking ([16 days ago](https://seclists.org/fulldisclosure/2025/Dec/24))
 - [CFP] Security BSidesLjubljana 0x7EA  -  March 13, 2026 ([16 days ago](https://seclists.org/fulldisclosure/2025/Dec/23))
-- AUTOSUR - 487,226 breached accounts ([16 days ago](https://haveibeenpwned.com/Breach/AUTOSUR))
+- AUTOSUR - 487,226 breached accounts ([17 days ago](https://haveibeenpwned.com/Breach/AUTOSUR))
 - The Botting Network - 96,320 breached accounts ([17 days ago](https://haveibeenpwned.com/Breach/TheBottingNetwork))
 - Smashing Security podcast #448: The Kindle that got pwned ([17 days ago](https://grahamcluley.com/smashing-security-podcast-448/))
 - Web Hosting Talk - 515,149 breached accounts ([17 days ago](https://haveibeenpwned.com/Breach/WebHostingTalk))
