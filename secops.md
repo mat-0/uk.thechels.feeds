@@ -9,8 +9,8 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Trump admin sends heart emoji to commercial spyware makers with lifted Predator sanctions ([3 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/04/trump_admin_lifts_sanctions_predator_spyware_execs/))
-- Reminder: Survey on threats experienced by journalists and security researchers ([5 hours ago](https://databreaches.net/2026/01/04/reminder-survey-on-threats-experienced-by-journalists-and-security-researchers/?pk_campaign=feed&pk_kwd=reminder-survey-on-threats-experienced-by-journalists-and-security-researchers))
-- Illinois Department of Human Services tightens map security after data incident ([5 hours ago](https://databreaches.net/2026/01/04/illinois-department-of-human-services-tightens-map-security-after-data-incident/?pk_campaign=feed&pk_kwd=illinois-department-of-human-services-tightens-map-security-after-data-incident))
+- Reminder: Survey on threats experienced by journalists and security researchers ([6 hours ago](https://databreaches.net/2026/01/04/reminder-survey-on-threats-experienced-by-journalists-and-security-researchers/?pk_campaign=feed&pk_kwd=reminder-survey-on-threats-experienced-by-journalists-and-security-researchers))
+- Illinois Department of Human Services tightens map security after data incident ([6 hours ago](https://databreaches.net/2026/01/04/illinois-department-of-human-services-tightens-map-security-after-data-incident/?pk_campaign=feed&pk_kwd=illinois-department-of-human-services-tightens-map-security-after-data-incident))
 - Palo Alto Networks security-intel boss calls AI agents 2026's biggest insider threat ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/04/ai_agents_insider_threats_panw/))
 - Palo Alto Networks security-intel boss calls AI agents 2026's biggest insider threat ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/04/ai_agents_insider_threats_panw/))
 - Hackers claim to hack Resecurity, firm says it was a honeypot ([1 days ago](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/))
@@ -44,7 +44,7 @@ description: SecOps News
 - Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign ([2 days ago](https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html))
 - Safe CEO: AI is an assistant, not a replacement ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/02/safe_ceo_interview/))
 - Cisco XDR in 30: Turning Security Signals Into Confident Action ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/02/cisco-xdr-in-30/))
-- Disruption with some GitHub services ([2 days ago](https://www.githubstatus.com/incidents/d5t56pdnjxhd))
+- Disruption with some GitHub services ([3 days ago](https://www.githubstatus.com/incidents/d5t56pdnjxhd))
 - OpenAI is offering $20 ChatGPT Plus for free to some users ([3 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/))
 - The biggest cybersecurity and cyberattack stories of 2025 ([3 days ago](https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/))
 - ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories ([3 days ago](https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html))
@@ -136,7 +136,7 @@ description: SecOps News
 - FastTrack ISO 27001 Certification – Compliance and Continual Improvement ([11 days ago](https://grcsolutions.io/fasttrack-iso-27001-certification-compliance-and-continual-improvement/))
 - Microsoft wants to replace its entire C and C++ codebase, perhaps by 2030 ([11 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/24/microsoft_rust_codebase_migration/))
 - Медицинская лаборатория Гемотест (Gemotest) - 6,341,495 breached accounts ([11 days ago](https://haveibeenpwned.com/Breach/Gemotest))
-- ServiceNow opens $7.7B ticket titled 'Buy security company, make it Armis' ([11 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/23/servicenow_to_buy_armis_in/))
+- ServiceNow opens $7.7B ticket titled 'Buy security company, make it Armis' ([12 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/23/servicenow_to_buy_armis_in/))
 - 21K Nissan customers' data stolen in Red Hat raid ([12 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/23/21k_nissan_customers_data_stolen/))
 - The AI Fix #82: Santa Claus doesn’t exist (according to AI) ([12 days ago](https://grahamcluley.com/the-ai-fix-82-santa-claus-doesnt-exist-according-to-ai/))
 - Incident with Issues and Pull Requests ([12 days ago](https://www.githubstatus.com/incidents/ccrzb3ms9j2d))
@@ -183,7 +183,7 @@ description: SecOps News
 - Microsoft Patch Tuesday, December 2025 Edition ([25 days ago](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/))
 - California man admits role in $263 million cryptocurrency theft that funded lavish lifestyle ([26 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/california-man-admits-role-in-263-million-cryptocurrency-theft-that-funded-lavish-lifestyle))
 - The AI Fix #80: DeepSeek’s cheap GPT-5 rival, Antigravity fails, and your LLM likes it when you’re rude ([26 days ago](https://grahamcluley.com/the-ai-fix-80/))
-- Disruption with some GitHub services ([26 days ago](https://www.githubstatus.com/incidents/n4fpndtvbmwb))
+- Disruption with some GitHub services ([27 days ago](https://www.githubstatus.com/incidents/n4fpndtvbmwb))
 - Potential disruption with our Agent Control Plane UI Settings ([27 days ago](https://www.githubstatus.com/incidents/r6fc6tyzr430))
 - Shopping and paying safely online ([27 days ago](https://www.ncsc.gov.uk/guidance/shopping-online-securely))
 - How to recover an infected device ([27 days ago](https://www.ncsc.gov.uk/guidance/hacked-device-action-to-take))
@@ -197,6 +197,5 @@ description: SecOps News
 - Provisioning and managing certificates in the Web PKI ([27 days ago](https://www.ncsc.gov.uk/guidance/provisioning-and-managing-certificates-in-the-web-pki))
 - Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill ([29 days ago](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/))
 - KinoKong - 817,808 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/KinoKong))
-- Team synchronization is experiencing delays for non enterprise managed users ([29 days ago](https://www.githubstatus.com/incidents/3hdjjpkvz895))
 
 <!-- news_marker ends -->
