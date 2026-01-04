@@ -9,8 +9,8 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Trump admin sends heart emoji to commercial spyware makers with lifted Predator sanctions ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/04/trump_admin_lifts_sanctions_predator_spyware_execs/))
-- Reminder: Survey on threats experienced by journalists and security researchers ([4 hours ago](https://databreaches.net/2026/01/04/reminder-survey-on-threats-experienced-by-journalists-and-security-researchers/?pk_campaign=feed&pk_kwd=reminder-survey-on-threats-experienced-by-journalists-and-security-researchers))
-- Illinois Department of Human Services tightens map security after data incident ([4 hours ago](https://databreaches.net/2026/01/04/illinois-department-of-human-services-tightens-map-security-after-data-incident/?pk_campaign=feed&pk_kwd=illinois-department-of-human-services-tightens-map-security-after-data-incident))
+- Reminder: Survey on threats experienced by journalists and security researchers ([5 hours ago](https://databreaches.net/2026/01/04/reminder-survey-on-threats-experienced-by-journalists-and-security-researchers/?pk_campaign=feed&pk_kwd=reminder-survey-on-threats-experienced-by-journalists-and-security-researchers))
+- Illinois Department of Human Services tightens map security after data incident ([5 hours ago](https://databreaches.net/2026/01/04/illinois-department-of-human-services-tightens-map-security-after-data-incident/?pk_campaign=feed&pk_kwd=illinois-department-of-human-services-tightens-map-security-after-data-incident))
 - Palo Alto Networks security-intel boss calls AI agents 2026's biggest insider threat ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/04/ai_agents_insider_threats_panw/))
 - Palo Alto Networks security-intel boss calls AI agents 2026's biggest insider threat ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/04/ai_agents_insider_threats_panw/))
 - Hackers claim to hack Resecurity, firm says it was a honeypot ([1 days ago](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/))
@@ -85,7 +85,7 @@ description: SecOps News
 - Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor ([5 days ago](https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html))
 - Korean telco failed at femtocell security, exposed customers to snooping and fraud ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/30/kt_telecom_femtocell_security_fail/))
 - Zuck buys Chinese AI company Manus that claims it deals in actions, not words ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/30/meta_acquires_manus/))
-- Indian cops cuff ex-Coinbase rep over selling customer info to crims ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/29/indian_cops_cuff_coinbase_exrep/))
+- Indian cops cuff ex-Coinbase rep over selling customer info to crims ([6 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/29/indian_cops_cuff_coinbase_exrep/))
 - Happy 16th Birthday, KrebsOnSecurity.com! ([6 days ago](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/))
 - Crims disconnect Wired subscribers from their privacy, publish deets online ([6 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/29/wired_hack_subscriber_info_leaked/))
 - Sam Altman is willing to pay somebody $555,000 a year to keep ChatGPT in line ([6 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/29/openai_safety_chief/))
@@ -170,7 +170,7 @@ description: SecOps News
 - Report URI Penetration Test 2025 ([20 days ago](https://scotthelme.ghost.io/report-uri-penetration-test-2025/))
 - Mitigating malware and ransomware attacks ([20 days ago](https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks))
 - Man jailed for teaching criminals how to use malware ([20 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/man-jailed-for-teaching-criminals-how-to-use-malware))
-- Processing 630 Million More Pwned Passwords, Courtesy of the FBI ([22 days ago](https://www.troyhunt.com/processing-630-million-more-pwned-passwords-courtesy-of-the-fbi/))
+- Processing 630 Million More Pwned Passwords, Courtesy of the FBI ([23 days ago](https://www.troyhunt.com/processing-630-million-more-pwned-passwords-courtesy-of-the-fbi/))
 - Gartner tells businesses to block AI browsers now ([23 days ago](https://www.fortra.com/blog/gartner-tells-businesses-block-ai-browsers-now))
 - Disruptions in Login and Signup Flows ([24 days ago](https://www.githubstatus.com/incidents/40730vhmg6y8))
 - We are investigating a rise in request failures on several services ([24 days ago](https://www.githubstatus.com/incidents/xntfc1fz5rfb))
