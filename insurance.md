@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Managing off-channel communication risks in digital insurance ([43 minutes ago](https://www.dig-in.com/opinion/managing-off-channel-communication-risks-in-insurance))
-- New and emerging risk predictions for 2026 ([51 minutes ago](https://www.dig-in.com/news/new-and-emerging-risk-predictions-for-2026))
+- Managing off-channel communication risks in digital insurance ([1 hours ago](https://www.dig-in.com/opinion/managing-off-channel-communication-risks-in-insurance))
+- New and emerging risk predictions for 2026 ([1 hours ago](https://www.dig-in.com/news/new-and-emerging-risk-predictions-for-2026))
 - Washington Workplace Changes for 2026 Include Higher Pay, New Tower Crane Rules ([1 days ago](https://www.insurancejournal.com/news/west/2026/01/03/852966.htm))
 - Munich Re’s ERGO acquires non-life insurer ADB Gjensidige in the Baltics ([2 days ago](https://www.reinsurancene.ws/munich-res-ergo-acquires-non-life-insurer-adb-gjensidige-in-the-baltics/))
 - US Rice, Cotton Farmers Get Biggest Relief in Trump Bailout ([2 days ago](https://www.insurancejournal.com/news/midwest/2026/01/02/852960.htm))
@@ -72,7 +72,7 @@ description: Insurance Updates
 - Insurers Forecast of 2026 ([5 days ago](https://www.postonline.co.uk/personal/7959399/insurers-forecast-of-2026))
 - Why insurers can’t afford to sleepwalk into the next regulatory wave ([5 days ago](https://www.postonline.co.uk/regulation/7959505/why-insurers-cant-afford-to-sleepwalk-into-the-next-regulatory-wave))
 - Could AI widen the insurance gap? ([5 days ago](https://www.postonline.co.uk/technology/7959581/could-ai-widen-the-insurance-gap))
-- Insurers need more than tech to combat risk ([6 days ago](https://www.dig-in.com/opinion/insurers-need-more-than-tech-to-combat-risk))
+- AI's double-edged cyber protection role in 2026 ([6 days ago](https://www.dig-in.com/opinion/ais-double-edged-cyber-protection-role-in-2026))
 - Navigating the Arbitration Act 2025 ([6 days ago](https://www.postonline.co.uk/claims/7959506/navigating-the-arbitration-act-2025))
 - Diary of an Insurer: Charles Taylor Adjusting’s Matthew Calveley ([6 days ago](https://www.postonline.co.uk/claims/7959306/diary-of-an-insurer-charles-taylor-adjustings-matthew-calveley))
 - Broker Forecast for 2026 ([6 days ago](https://www.postonline.co.uk/broker/7959393/broker-forecast-for-2026))
