@@ -8,14 +8,14 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Learning AI ([5 hours ago](https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/))
-- F# Weekly #1, 2026 - Kipo &amp; future of MonoGame ([16 hours ago](https://dotnetkicks.com/r/737508?url=https://sergeytihon.com/2026/01/03/f-weekly-1-2026-kipo-future-of-monogame/))
-- Leveraging Span-Based String Concatenation for Improved Performance ([17 hours ago](https://dotnettips.wordpress.com/2026/01/04/leveraging-span-based-string-concatenation-for-improved-performance/))
+- Learning AI ([6 hours ago](https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/))
+- F# Weekly #1, 2026 - Kipo &amp; future of MonoGame ([17 hours ago](https://dotnetkicks.com/r/737508?url=https://sergeytihon.com/2026/01/03/f-weekly-1-2026-kipo-future-of-monogame/))
+- Leveraging Span-Based String Concatenation for Improved Performance ([18 hours ago](https://dotnettips.wordpress.com/2026/01/04/leveraging-span-based-string-concatenation-for-improved-performance/))
 - Visual Studio 2026: Regressions, Reliability Issues, and Missed Opportunities ([3 days ago](https://dotnettips.wordpress.com/2026/01/01/visual-studio-2026-regressions-reliability-issues-and-missed-opportunities/))
 - Rock Your Code: Code & App Performance for Microsoft .NET (5th Edition) ([3 days ago](https://dotnettips.wordpress.com/2026/01/01/rock-your-code-code-app-performance-for-microsoft-net-5th-edition/))
 - Top .NET Videos & Live Streams of 2025 - .NET Blog ([4 days ago](https://dotnetkicks.com/r/737376?url=https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
 - Top .NET Videos & Live Streams of 2025 ([4 days ago](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
-- 2025 Year in Review ([4 days ago](https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review))
+- 2025 Year in Review ([5 days ago](https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review))
 - Striking a Balance: Working Fully Remote for Nearly a Decade ([5 days ago](https://dotnetkicks.com/r/737327?url=https://rion.io/2025/12/30/striking-a-balance-working-fully-remote-for-nearly-a-decade/))
 - Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence ([5 days ago](https://dotnetkicks.com/r/737312?url=https://petabridge.com/blog/crud-to-cqrs-akka-persistence/))
 - Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence ([5 days ago](https://dotnetkicks.com/r/737305?url=https://petabridge.com/blog/akka-persistence-cqrs-upgrades/))
