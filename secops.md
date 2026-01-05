@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Trump admin sends heart emoji to commercial spyware makers with lifted Predator sanctions ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/04/trump_admin_lifts_sanctions_predator_spyware_execs/))
+- Trump admin sends heart emoji to commercial spyware makers with lifted Predator sanctions ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/04/trump_admin_lifts_sanctions_predator_spyware_execs/))
 - Reminder: Survey on threats experienced by journalists and security researchers ([13 hours ago](https://databreaches.net/2026/01/04/reminder-survey-on-threats-experienced-by-journalists-and-security-researchers/?pk_campaign=feed&pk_kwd=reminder-survey-on-threats-experienced-by-journalists-and-security-researchers))
 - Illinois Department of Human Services tightens map security after data incident ([13 hours ago](https://databreaches.net/2026/01/04/illinois-department-of-human-services-tightens-map-security-after-data-incident/?pk_campaign=feed&pk_kwd=illinois-department-of-human-services-tightens-map-security-after-data-incident))
 - Palo Alto Networks security-intel boss calls AI agents 2026's biggest insider threat ([19 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/04/ai_agents_insider_threats_panw/))
@@ -52,7 +52,7 @@ description: SecOps News
 - Welcome to Wendy's! Before your order can be taken, you must first reset this kiosk ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/01/bork_wendys_kiosk/))
 - How Microsoft gave customers what they wanted: An audience with Bill Gates ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/01/microsofts_approach_to_customer_service/))
 - RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers ([3 days ago](https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html))
-- How To Browse Faster and Get More Done Using Adapt Browser ([3 days ago](https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html))
+- How To Browse Faster and Get More Done Using Adapt Browser ([4 days ago](https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html))
 - NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices ([4 days ago](https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/))
 - US Army seeks human AI officers to manage its battle bots ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/31/us_army_seeking_officers_willing/))
 - European Space Agency hit again as cybercrims claim 200 GB data up for sale ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/31/european_space_agency_hacked/))
