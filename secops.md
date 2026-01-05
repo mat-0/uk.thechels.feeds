@@ -8,12 +8,12 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Techie turned the tables on office bullies with remote access rumble ([45 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/01/05/who_me/))
+- Techie turned the tables on office bullies with remote access rumble ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/05/who_me/))
 - Trump admin sends heart emoji to commercial spyware makers with lifted Predator sanctions ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/04/trump_admin_lifts_sanctions_predator_spyware_execs/))
-- Reminder: Survey on threats experienced by journalists and security researchers ([14 hours ago](https://databreaches.net/2026/01/04/reminder-survey-on-threats-experienced-by-journalists-and-security-researchers/?pk_campaign=feed&pk_kwd=reminder-survey-on-threats-experienced-by-journalists-and-security-researchers))
-- Illinois Department of Human Services tightens map security after data incident ([14 hours ago](https://databreaches.net/2026/01/04/illinois-department-of-human-services-tightens-map-security-after-data-incident/?pk_campaign=feed&pk_kwd=illinois-department-of-human-services-tightens-map-security-after-data-incident))
-- Palo Alto Networks security-intel boss calls AI agents 2026's biggest insider threat ([20 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/04/ai_agents_insider_threats_panw/))
-- Palo Alto Networks security-intel boss calls AI agents 2026's biggest insider threat ([20 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/04/ai_agents_insider_threats_panw/))
+- Reminder: Survey on threats experienced by journalists and security researchers ([15 hours ago](https://databreaches.net/2026/01/04/reminder-survey-on-threats-experienced-by-journalists-and-security-researchers/?pk_campaign=feed&pk_kwd=reminder-survey-on-threats-experienced-by-journalists-and-security-researchers))
+- Illinois Department of Human Services tightens map security after data incident ([15 hours ago](https://databreaches.net/2026/01/04/illinois-department-of-human-services-tightens-map-security-after-data-incident/?pk_campaign=feed&pk_kwd=illinois-department-of-human-services-tightens-map-security-after-data-incident))
+- Palo Alto Networks security-intel boss calls AI agents 2026's biggest insider threat ([21 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/04/ai_agents_insider_threats_panw/))
+- Palo Alto Networks security-intel boss calls AI agents 2026's biggest insider threat ([21 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/04/ai_agents_insider_threats_panw/))
 - Hackers claim to hack Resecurity, firm says it was a honeypot ([1 days ago](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/))
 - ShinyHunters claims to have compromised Resecurity, but it looks like they fell for a honeypot ([1 days ago](https://databreaches.net/2026/01/03/shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot/?pk_campaign=feed&pk_kwd=shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot))
 - Claude is his copilot: Rust veteran designs new Rue programming language with help from AI bot ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/03/claude_copilot_rue_steve_klabnik/))
