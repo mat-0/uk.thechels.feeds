@@ -9,7 +9,7 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Techie turned the tables on office bullies with remote access rumble ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/05/who_me/))
-- Trump admin sends heart emoji to commercial spyware makers with lifted Predator sanctions ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/04/trump_admin_lifts_sanctions_predator_spyware_execs/))
+- Trump admin sends heart emoji to commercial spyware makers with lifted Predator sanctions ([13 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/04/trump_admin_lifts_sanctions_predator_spyware_execs/))
 - Reminder: Survey on threats experienced by journalists and security researchers ([15 hours ago](https://databreaches.net/2026/01/04/reminder-survey-on-threats-experienced-by-journalists-and-security-researchers/?pk_campaign=feed&pk_kwd=reminder-survey-on-threats-experienced-by-journalists-and-security-researchers))
 - Illinois Department of Human Services tightens map security after data incident ([15 hours ago](https://databreaches.net/2026/01/04/illinois-department-of-human-services-tightens-map-security-after-data-incident/?pk_campaign=feed&pk_kwd=illinois-department-of-human-services-tightens-map-security-after-data-incident))
 - Palo Alto Networks security-intel boss calls AI agents 2026's biggest insider threat ([21 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/04/ai_agents_insider_threats_panw/))
@@ -44,7 +44,7 @@ description: SecOps News
 - Adobe ColdFusion Servers Targeted in Coordinated Campaign ([2 days ago](https://www.securityweek.com/adobe-coldfusion-servers-targeted-in-coordinated-campaign/))
 - Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign ([2 days ago](https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html))
 - Safe CEO: AI is an assistant, not a replacement ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/02/safe_ceo_interview/))
-- Cisco XDR in 30: Turning Security Signals Into Confident Action ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/02/cisco-xdr-in-30/))
+- Cisco XDR in 30: Turning Security Signals Into Confident Action ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/02/cisco-xdr-in-30/))
 - Disruption with some GitHub services ([3 days ago](https://www.githubstatus.com/incidents/d5t56pdnjxhd))
 - OpenAI is offering $20 ChatGPT Plus for free to some users ([3 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/))
 - The biggest cybersecurity and cyberattack stories of 2025 ([3 days ago](https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/))
@@ -108,7 +108,7 @@ description: SecOps News
 - Backdoor.Win32.Netbus.170 / Insecure Credential Storage /	MVID-2025-0703 ([8 days ago](https://seclists.org/fulldisclosure/2025/Dec/30))
 - WIRED - 2,364,431 breached accounts ([8 days ago](https://haveibeenpwned.com/Breach/WIRED))
 - SSL Santa greets London Victoria visitors with a borked update ([8 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/27/victoria_bork/))
-- New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory ([8 days ago](https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html))
+- New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory ([9 days ago](https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html))
 - Stop the slop by disabling AI features in Chrome ([9 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/26/disable_ai_features_chrome/))
 - From AI to analog, cybersecurity tabletop exercises look a little different this year ([9 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/26/end_of_year_tabletop_exercises/))
 - From AI to analog, cybersecurity tabletop exercises look a little different this year ([9 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/26/end_of_year_tabletop_exercises/))
