@@ -33,7 +33,7 @@ description: Insurance Updates
 - Soft market to drive lacklustre margins for P&C reinsurers in 2026: J.P. Morgan ([1 days ago](https://www.reinsurancene.ws/soft-market-to-drive-lacklustre-margins-for-pc-reinsurers-in-2026-j-p-morgan/))
 - Gallagher appoints McLaverty and Holmes to UK&I office leadership roles ([1 days ago](https://www.reinsurancene.ws/gallagher-appoints-mclaverty-and-holmes-to-uki-office-leadership-roles/))
 - The Baldwin Group acquires Philadelphia-based Capstone ([1 days ago](https://www.reinsurancene.ws/the-baldwin-group-acquires-philadelphia-based-capstone/))
-- Willis Re adds Megan Hart to strengthen catastrophe and climate risk analytics ([1 days ago](https://www.reinsurancene.ws/willis-re-adds-megan-hart-to-strengthen-catastrophe-and-climate-risk-analytics/))
+- Willis Re adds Megan Hart to strengthen catastrophe and climate risk analytics ([2 days ago](https://www.reinsurancene.ws/willis-re-adds-megan-hart-to-strengthen-catastrophe-and-climate-risk-analytics/))
 - KGM x Zurich; CFC’s cyber cover; LMA’s underwriting director ([2 days ago](https://www.postonline.co.uk/news/7959659/kgm-x-zurich-cfcs-cyber-cover-lmas-underwriting-director))
 - White supremacist dating site data breach shows when cyber risk becomes uninsurable ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/white-supremacist-dating-site-data-breach-shows-when-cyber-risk-becomes-uninsurable-561513.aspx))
 - High Court hands Gable Insurance messy reckoning over aggressive recovery push ([2 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/high-court-hands-gable-insurance-messy-reckoning-over-aggressive-recovery-push-561512.aspx))
