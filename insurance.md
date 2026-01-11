@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- AI, Capacity, Regulation: The Pressure Points set to Reshape Travel Insurance in 2026 ([14 hours ago](https://insurance-edge.net/2026/01/10/ai-capacity-regulation-the-pressure-points-set-to-reshape-travel-insurance-in-2026/))
-- New GigaCard From Gigasure ([17 hours ago](https://insurance-edge.net/2026/01/10/new-gigacard-from-gigasure/))
+- AI, Capacity, Regulation: The Pressure Points set to Reshape Travel Insurance in 2026 ([15 hours ago](https://insurance-edge.net/2026/01/10/ai-capacity-regulation-the-pressure-points-set-to-reshape-travel-insurance-in-2026/))
+- New GigaCard From Gigasure ([18 hours ago](https://insurance-edge.net/2026/01/10/new-gigacard-from-gigasure/))
 - FCA Issues Confiscation Order Against Andrew Currie ([1 days ago](https://insurance-edge.net/2026/01/09/fca-issues-confiscation-order-against-andrew-currie/))
 - US Market: Insure.com Releases Best Ranked Car Insurance Brands ([1 days ago](https://insurance-edge.net/2026/01/09/us-market-insure-com-releases-best-ranked-car-insurance-brands/))
 - Bfinance Publishes New Paper on Insurance Linked Securities ([1 days ago](https://insurance-edge.net/2026/01/09/bfinance-publishes-new-paper-on-insurance-linked-securities/))
@@ -63,7 +63,7 @@ description: Insurance Updates
 - PoloWorks launches three Lloyd's syndicates ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/poloworks-launches-three-lloyds-syndicates-561467.aspx))
 - Starpeak reports 24% increase in GWP in 2025 ([1 days ago](https://www.insurancebusinessmag.com/uk/news/sme/starpeak-reports-24-increase-in-gwp-in-2025-561462.aspx))
 - UK insurers warned privacy concerns are stalling telematics pricing adoption ([1 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/uk-insurers-warned-privacy-concerns-are-stalling-telematics-pricing-adoption-561458.aspx))
-- Crawford & Co to sell legal services arm to law firm ([1 days ago](https://www.postonline.co.uk/claims/7959663/crawford-co-to-sell-legal-services-arm-to-law-firm))
+- Crawford & Co to sell legal services arm to law firm ([2 days ago](https://www.postonline.co.uk/claims/7959663/crawford-co-to-sell-legal-services-arm-to-law-firm))
 - One year later, California wildfire recovery still has a long way to go ([2 days ago](https://www.dig-in.com/news/a-year-later-l-a-wildfire-recovery-still-has-far-to-go))
 - California insurance consumer laws take effect, with more proposed ([2 days ago](https://www.dig-in.com/news/california-insurance-laws-take-effect-with-more-proposed))
 - Howden to Acquire Atlantic Group in Major Expansion of US Transactional Risk Business ([2 days ago](https://www.insurtechinsights.com/howden-to-acquire-atlantic-group-in-major-expansion-of-us-transactional-risk-business/))
@@ -95,7 +95,7 @@ description: Insurance Updates
 - Insurers poised to lead on personalised employee benefits in 2026, says Everywhen CEO ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurers-poised-to-lead-on-personalised-employee-benefits-in-2026-says-everywhen-ceo-561321.aspx))
 - The cost of death in the UK: rising funeral costs expose gaps in life cover ([2 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/the-cost-of-death-in-the-uk-rising-funeral-costs-expose-gaps-in-life-cover-561311.aspx))
 - Statera gains Lloyd's managing agent approval ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/statera-gains-lloyds-managing-agent-approval-561309.aspx))
-- The 8 steps to take to get your Group Risk (GR1) qualification in the UK! ([2 days ago](https://www.insurancebusinessmag.com/uk/guides/the-8-steps-to-take-to-get-your-group-risk-gr1-qualification-in-the-uk-561303.aspx))
+- The 8 steps to take to get your Group Risk (GR1) qualification in the UK! ([3 days ago](https://www.insurancebusinessmag.com/uk/guides/the-8-steps-to-take-to-get-your-group-risk-gr1-qualification-in-the-uk-561303.aspx))
 - Brokers get operations benefits when acquired by big carriers ([3 days ago](https://www.dig-in.com/news/acquired-brokers-get-operations-benefits))
 - Top insurtech funding rounds, December 2025 ([3 days ago](https://www.dig-in.com/list/top-insurtech-funding-rounds-december-2025))
 - Britain backs US seizure of Russian‑flagged tanker as war, sanctions reshape marine risk ([3 days ago](https://www.insurancebusinessmag.com/uk/news/marine/britain-backs-us-seizure-of-russianflagged-tanker-as-war-sanctions-reshape-marine-risk-561285.aspx))
@@ -114,8 +114,8 @@ description: Insurance Updates
 - IPTF confirms membership and ambitious plans for 2026 ([3 days ago](https://ifamagazine.com/iptf-confirms-membership-and-ambitious-plans-for-2026/))
 - Embedding carbon accountability in claims ([3 days ago](https://www.postonline.co.uk/claims/7959456/embedding-carbon-accountability-in-claims))
 - Storm brewing in legal PI market over genAI ([3 days ago](https://www.postonline.co.uk/commercial/7959423/storm-brewing-in-legal-pi-market-over-genai))
-- AI's expanding impact on insurance decision-making ([4 days ago](https://www.dig-in.com/opinion/ais-impact-on-insurance-decision-making))
 - WIL 2025 honoree profiles ([4 days ago](https://www.dig-in.com/list/wil-2025-honoree-profiles))
+- AI's expanding impact on insurance decision-making ([4 days ago](https://www.dig-in.com/opinion/ais-impact-on-insurance-decision-making))
 - Axa XL's McGovern named LMA chair ([4 days ago](https://www.postonline.co.uk/lloydslondon/7959646/axa-xls-mcgovern-named-as-lma-chair))
 - AIG boss Zaffino to be succeeded by Aon’s Andersen ([4 days ago](https://www.postonline.co.uk/news/7959645/aig-boss-zaffino-to-be-succeeded-by-aons-andersen))
 - Roundtable: Transforming risk management in commercial insurance ([4 days ago](https://www.postonline.co.uk/commercial/7959557/roundtable-transforming-risk-management-in-commercial-insurance))
@@ -128,6 +128,6 @@ description: Insurance Updates
 - 60 Seconds With... Charles Taylor’s James Cranmer ([4 days ago](https://www.postonline.co.uk/people/7959458/60-seconds-with-charles-taylors-james-cranmer))
 - Big Interview: Robert Kennedy, Howden ([4 days ago](https://www.postonline.co.uk/broker/7959559/big-interview-robert-kennedy-howden))
 - Howden buys Atlantic Group in U.S. expansion ([5 days ago](https://www.dig-in.com/articles/howden-buys-atlantic-group-in-u-s-expansion))
-- Embedded vs. bolt-on: How insurers will pursue measurable results from AI in 2026 ([5 days ago](https://www.dig-in.com/opinion/how-insurers-will-pursue-measurable-results-from-ai-in-2026))
+- AI could be the antidote to brain drain ([5 days ago](https://www.dig-in.com/opinion/ai-could-be-the-antidote-to-brain-drain))
 
 <!-- news_marker ends -->
