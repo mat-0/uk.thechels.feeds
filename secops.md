@@ -87,9 +87,9 @@ description: SecOps News
 - Ransomware attacks kept climbing in 2025 as gangs refused to stay dead ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/08/ransomware_2025_emsisoft/))
 - CISA flags actively exploited Office relic alongside fresh HPE flaw ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/08/cisa_oneview_powerpoint_bugs/))
 - CISA flags actively exploited Office relic alongside fresh HPE flaw ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/08/cisa_oneview_powerpoint_bugs/))
-- Methodist Homes of Alabama and Northwest Florida is notifying residents and employees of its second data breach in seven months. ([2 days ago](https://databreaches.net/2026/01/08/methodist-homes-of-alabama-and-northwest-florida-is-notifying-residents-and-employees-of-its-second-data-breach-in-seven-months/?pk_campaign=feed&pk_kwd=methodist-homes-of-alabama-and-northwest-florida-is-notifying-residents-and-employees-of-its-second-data-breach-in-seven-months))
-- AOSP on a diet plan as Google halves Android code drops ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/08/google_aosp_changes/))
-- ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories ([2 days ago](https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html))
+- Methodist Homes of Alabama and Northwest Florida is notifying residents and employees of its second data breach in seven months. ([3 days ago](https://databreaches.net/2026/01/08/methodist-homes-of-alabama-and-northwest-florida-is-notifying-residents-and-employees-of-its-second-data-breach-in-seven-months/?pk_campaign=feed&pk_kwd=methodist-homes-of-alabama-and-northwest-florida-is-notifying-residents-and-employees-of-its-second-data-breach-in-seven-months))
+- AOSP on a diet plan as Google halves Android code drops ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/08/google_aosp_changes/))
+- ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories ([3 days ago](https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html))
 - UK regulators swarm X after Grok generated nudes from photos ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/08/uk_regulators_swarm_x_after/))
 - UK regulators swarm X after Grok generated nudes from photos ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/08/uk_regulators_swarm_x_after/))
 - The State of Trusted Open Source ([3 days ago](https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html))
@@ -175,7 +175,7 @@ description: SecOps News
 - Copilot Code Review is degraded, and not returning responses to users ([26 days ago](https://www.githubstatus.com/incidents/qkr3gcys0lzx))
 - Incident with Copilot Grok Code Fast 1 ([26 days ago](https://www.githubstatus.com/incidents/jcbsbbfd1x9r))
 - Report URI Penetration Test 2025 ([26 days ago](https://scotthelme.ghost.io/report-uri-penetration-test-2025/))
-- Mitigating malware and ransomware attacks ([26 days ago](https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks))
+- Mitigating malware and ransomware attacks ([27 days ago](https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks))
 - Processing 630 Million More Pwned Passwords, Courtesy of the FBI ([29 days ago](https://www.troyhunt.com/processing-630-million-more-pwned-passwords-courtesy-of-the-fbi/))
 
 <!-- news_marker ends -->
