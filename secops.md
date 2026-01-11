@@ -77,7 +77,7 @@ description: SecOps News
 - As agents run amok, CrowdStrike's $740M SGNL deal aims to help get a grip on identity security ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/08/crowdstrikes_740m_sgnl_deal_proves/))
 - ChatGPT Health wants your sensitive medical records so it can play doctor ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/08/chatgpt_health_access_medical_records/))
 - KL-001-2026-01: yintibao Fun Print Mobile Unauthorized Access via Context Hijacking ([2 days ago](https://seclists.org/fulldisclosure/2026/Jan/12))
-- Google pushing Gemini into Gmail, but you can turn it off ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/08/google_gemini_gmail/))
+- Google pushing Gemini into Gmail, but you can turn it off ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/08/google_gemini_gmail/))
 - Patch Cisco ISE bug now before attackers abuse proof-of-concept exploit ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/08/rcisco_ise_bug_poc/))
 - Linus Torvalds: Stop making an issue out of AI slop in kernel docs – you're not changing anybody's mind ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/08/linus_versus_llms_ai_slop_docs/))
 - EEOC experienced security incident involving an Opexus employee’s ‘unauthorized’ access, email says ([3 days ago](https://databreaches.net/2026/01/08/eeoc-experienced-security-incident-involving-an-opexus-employees-unauthorized-access-email-says/?pk_campaign=feed&pk_kwd=eeoc-experienced-security-incident-involving-an-opexus-employees-unauthorized-access-email-says))

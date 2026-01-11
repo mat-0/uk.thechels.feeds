@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- File I/O Performance: Picking the Fastest Weapon in Your Arsenal ([11 hours ago](https://dotnettips.wordpress.com/2026/01/11/file-i-o-performance-picking-the-fastest-weapon-in-your-arsenal/))
+- File I/O Performance: Picking the Fastest Weapon in Your Arsenal ([12 hours ago](https://dotnettips.wordpress.com/2026/01/11/file-i-o-performance-picking-the-fastest-weapon-in-your-arsenal/))
 - F# Weekly #2, 2026 - Mibo and WREN Stack ([18 hours ago](https://dotnetkicks.com/r/737839?url=https://sergeytihon.com/2026/01/10/f-weekly-2-2026-mibo-and-wren-stack/))
 - AI Won't Kill Open Source - It Will Amplify It ([1 days ago](https://dotnetkicks.com/r/737834?url=https://petabridge.com/blog/ai-wont-kill-open-source/))
 - EF Core Lazy Loading Performance Gotcha ([2 days ago](https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha))
@@ -23,7 +23,7 @@ description: DotNet Updates
 - Generative AI with Large Language Models in C# in 2026 ([6 days ago](https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/))
 - dotInsights  -  January 2026 ([6 days ago](https://blog.jetbrains.com/dotnet/2026/01/05/dotinsights-january-2026/))
 - Critter Stack and JasperFx Retrospective for 2025 ([6 days ago](https://dotnetkicks.com/r/737559?url=https://jeremydmiller.com/2026/01/04/critter-stack-and-jasperfx-retrospective-for-2025/))
-- Learning AI ([6 days ago](https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/))
+- Learning AI ([7 days ago](https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/))
 - F# Weekly #1, 2026 - Kipo &amp; future of MonoGame ([7 days ago](https://dotnetkicks.com/r/737508?url=https://sergeytihon.com/2026/01/03/f-weekly-1-2026-kipo-future-of-monogame/))
 - Leveraging Span-Based String Concatenation for Improved Performance ([7 days ago](https://dotnettips.wordpress.com/2026/01/04/leveraging-span-based-string-concatenation-for-improved-performance/))
 - Recent updates to NetEscapades.EnumGenerators: new APIs and System.Memory support ([9 days ago](https://andrewlock.net/updates-to-netescapaades-enumgenerators-new-apis-and-system-memory-support/))
