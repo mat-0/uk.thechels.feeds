@@ -50,7 +50,7 @@ description: Insurance Updates
 - Detroit Suburb to Pay Settlement in the Case of Woman Improperly Declared Dead ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/01/09/853507.htm))
 - Texas Congresswoman Wants Legal Status for Migrant Construction Workers ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/01/09/853500.htm))
 - People Moves: IICF Names Marohn Chair, McDonough Vice Chair of Board of Governors; AXA XL Promotes Stitham to CUO, Casualty, Americas ([1 days ago](https://www.insurancejournal.com/news/national/2026/01/09/853613.htm))
-- Insurance Journal Opens Nominations for Annual Agents of the Year Awards ([1 days ago](https://www.insurancejournal.com/news/national/2026/01/09/852977.htm))
+- Insurance Journal Opens Nominations for Annual Agents of the Year Awards ([2 days ago](https://www.insurancejournal.com/news/national/2026/01/09/852977.htm))
 - Goldman Sachs Warns US Grids Face Power Crunch by 2030 ([2 days ago](https://www.insurancejournal.com/news/national/2026/01/09/853672.htm))
 - Penny Black’s Social Diary: Aviva’s time capsule; Zurich’s beef ([2 days ago](https://www.postonline.co.uk/people/7959468/penny-blacks-social-diary-avivas-time-capsule-zurichs-beef))
 - Fire Safety Inspections Lapsed for Years at Swiss Bar Where 40 Died in New Year’s Blaze ([2 days ago](https://www.insurancejournal.com/news/international/2026/01/09/853571.htm))
