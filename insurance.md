@@ -8,12 +8,12 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
+- Govt Minister Will Deliver Keynote at ABI Conference in February ([1 minutes ago](https://insurance-edge.net/2026/01/11/govt-minister-will-deliver-keynote-at-abi-conference-in-february/))
 - AI, Capacity, Regulation: The Pressure Points set to Reshape Travel Insurance in 2026 ([1 days ago](https://insurance-edge.net/2026/01/10/ai-capacity-regulation-the-pressure-points-set-to-reshape-travel-insurance-in-2026/))
 - New GigaCard From Gigasure ([1 days ago](https://insurance-edge.net/2026/01/10/new-gigacard-from-gigasure/))
 - FCA Issues Confiscation Order Against Andrew Currie ([1 days ago](https://insurance-edge.net/2026/01/09/fca-issues-confiscation-order-against-andrew-currie/))
 - US Market: Insure.com Releases Best Ranked Car Insurance Brands ([1 days ago](https://insurance-edge.net/2026/01/09/us-market-insure-com-releases-best-ranked-car-insurance-brands/))
 - Bfinance Publishes New Paper on Insurance Linked Securities ([1 days ago](https://insurance-edge.net/2026/01/09/bfinance-publishes-new-paper-on-insurance-linked-securities/))
-- How Gaming Data Models Influence Claims Prediction and Risk Tracking? ([1 days ago](https://insurance-edge.net/2026/01/09/how-gaming-data-models-influence-claims-prediction-and-risk-tracking/))
 - Switzerland Mourns Fire Victims as Country Seeks Answers; Insurers Assess Damages ([1 days ago](https://www.insurancejournal.com/news/international/2026/01/09/853797.htm))
 - Lloyd’s market proxy RISX delivers 22.3% total return for 2025: ICMR ([2 days ago](https://www.reinsurancene.ws/lloyds-market-proxy-risx-delivers-22-3-total-return-for-2025-icmr/))
 - Specialist Risk Group appoints Richard Gurney as Head of Specialty ([2 days ago](https://www.reinsurancene.ws/specialist-risk-group-appoints-richard-gurney-as-head-of-specialty/))
@@ -66,7 +66,7 @@ description: Insurance Updates
 - Crawford & Co to sell legal services arm to law firm ([2 days ago](https://www.postonline.co.uk/claims/7959663/crawford-co-to-sell-legal-services-arm-to-law-firm))
 - One year later, California wildfire recovery still has a long way to go ([2 days ago](https://www.dig-in.com/news/a-year-later-l-a-wildfire-recovery-still-has-far-to-go))
 - California insurance consumer laws take effect, with more proposed ([2 days ago](https://www.dig-in.com/news/california-insurance-laws-take-effect-with-more-proposed))
-- Howden to Acquire Atlantic Group in Major Expansion of US Transactional Risk Business ([2 days ago](https://www.insurtechinsights.com/howden-to-acquire-atlantic-group-in-major-expansion-of-us-transactional-risk-business/))
+- Howden to Acquire Atlantic Group in Major Expansion of US Transactional Risk Business ([3 days ago](https://www.insurtechinsights.com/howden-to-acquire-atlantic-group-in-major-expansion-of-us-transactional-risk-business/))
 - Lloyd’s survey shows culture continuing to improve ([3 days ago](https://www.postonline.co.uk/lloydslondon/7959661/lloyds-survey-shows-culture-continuing-to-improve))
 - Jensten Group Announces Trio of Acquisitions to Expand Regional Presence ([3 days ago](https://www.insurtechinsights.com/jensten-group-announces-trio-of-acquisitions-to-expand-regional-presence/))
 - CFC Launches New Cyber Cover Extension to Protect SMEs from Supply Chain Disruption ([3 days ago](https://www.insurtechinsights.com/cfc-launches-new-cyber-cover-extension-to-protect-smes-from-supply-chain-disruption/))
