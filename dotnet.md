@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- File I/O Performance: Picking the Fastest Weapon in Your Arsenal ([2 hours ago](https://dotnettips.wordpress.com/2026/01/11/file-i-o-performance-picking-the-fastest-weapon-in-your-arsenal/))
+- File I/O Performance: Picking the Fastest Weapon in Your Arsenal ([3 hours ago](https://dotnettips.wordpress.com/2026/01/11/file-i-o-performance-picking-the-fastest-weapon-in-your-arsenal/))
 - F# Weekly #2, 2026 - Mibo and WREN Stack ([9 hours ago](https://dotnetkicks.com/r/737839?url=https://sergeytihon.com/2026/01/10/f-weekly-2-2026-mibo-and-wren-stack/))
 - AI Won't Kill Open Source - It Will Amplify It ([1 days ago](https://dotnetkicks.com/r/737834?url=https://petabridge.com/blog/ai-wont-kill-open-source/))
 - EF Core Lazy Loading Performance Gotcha ([2 days ago](https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha))
@@ -48,7 +48,7 @@ description: DotNet Updates
 - Joe Dluzen on Azure Functions & Durable Functions ([21 days ago](https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/))
 - ReSharper and Rider 2025.3.1 Released: Next Edit Suggestions and Other Important Updates ([23 days ago](https://blog.jetbrains.com/dotnet/2025/12/18/resharper-and-rider-2025-3-1/))
 - Microsoft.Testing.Platform Now Fully Supported in Azure DevOps ([25 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
-- Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([25 days ago](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
+- Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([26 days ago](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
 - How to Build iOS Widgets with .NET MAUI ([26 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/))
 - UX Chronicles: When OpenAI’s Magic Meets a Messy User Experience ([28 days ago](https://dotnettips.wordpress.com/2025/12/14/ux-chronicles-when-openais-magic-meets-a-messy-user-experience/))
 
