@@ -9,11 +9,11 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - India’s government denies it plans to demand smartphone source code ([3 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/12/india_mobile_security/))
-- Hackers Accessed University of Hawaii Cancer Center Patient Data; They Weren’t Immediately Notified ([5 hours ago](https://www.securityweek.com/hackers-accessed-university-of-hawaii-cancer-center-patient-data-they-werent-immediately-notified/))
+- Hackers Accessed University of Hawaii Cancer Center Patient Data; They Weren’t Immediately Notified ([6 hours ago](https://www.securityweek.com/hackers-accessed-university-of-hawaii-cancer-center-patient-data-they-werent-immediately-notified/))
 - Malaysia and Indonesia block X over failure to curb deepfake smut ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/12/asia_tech_news_roundup/))
-- Meta admits to Instagram password reset mess, denies data leak ([7 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/11/infosec_news_in_brief/))
+- Meta admits to Instagram password reset mess, denies data leak ([8 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/11/infosec_news_in_brief/))
 - Instagram denies breach amid claims of 17 million account data leak ([12 hours ago](https://www.bleepingcomputer.com/news/security/instagram-denies-breach-amid-claims-of-17-million-account-data-leak/))
-- Instagram - 6,215,150 breached accounts ([14 hours ago](https://haveibeenpwned.com/Breach/Instagram))
+- Instagram - 6,215,150 breached accounts ([15 hours ago](https://haveibeenpwned.com/Breach/Instagram))
 - California bans data broker reselling health data of millions ([16 hours ago](https://www.bleepingcomputer.com/news/legal/california-bans-data-broker-reselling-health-data-of-millions/))
 - AI industry insiders launch site to poison the data that feeds them ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/))
 - Brussels plots open source push to pry Europe off Big Tech ([22 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/11/eu_open_source_consultation/))
