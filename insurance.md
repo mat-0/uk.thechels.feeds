@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Workers' compensation insurance predictions for 2026 ([5 hours ago](https://www.dig-in.com/news/workers-compensation-insurance-predictions-for-2026))
-- Progressive continues to be first in online user experience: Keynova ([5 hours ago](https://www.dig-in.com/news/progressive-continues-first-online-user-experience-keynova))
-- Govt Minister Will Deliver Keynote at ABI Conference in February ([6 hours ago](https://insurance-edge.net/2026/01/11/govt-minister-will-deliver-keynote-at-abi-conference-in-february/))
+- Workers' compensation insurance predictions for 2026 ([6 hours ago](https://www.dig-in.com/news/workers-compensation-insurance-predictions-for-2026))
+- Progressive continues to be first in online user experience: Keynova ([6 hours ago](https://www.dig-in.com/news/progressive-continues-first-online-user-experience-keynova))
+- Govt Minister Will Deliver Keynote at ABI Conference in February ([8 hours ago](https://insurance-edge.net/2026/01/11/govt-minister-will-deliver-keynote-at-abi-conference-in-february/))
 - AI, Capacity, Regulation: The Pressure Points set to Reshape Travel Insurance in 2026 ([1 days ago](https://insurance-edge.net/2026/01/10/ai-capacity-regulation-the-pressure-points-set-to-reshape-travel-insurance-in-2026/))
 - New GigaCard From Gigasure ([1 days ago](https://insurance-edge.net/2026/01/10/new-gigacard-from-gigasure/))
 - FCA Issues Confiscation Order Against Andrew Currie ([2 days ago](https://insurance-edge.net/2026/01/09/fca-issues-confiscation-order-against-andrew-currie/))
@@ -116,8 +116,8 @@ description: Insurance Updates
 - IPTF confirms membership and ambitious plans for 2026 ([4 days ago](https://ifamagazine.com/iptf-confirms-membership-and-ambitious-plans-for-2026/))
 - Embedding carbon accountability in claims ([4 days ago](https://www.postonline.co.uk/claims/7959456/embedding-carbon-accountability-in-claims))
 - Storm brewing in legal PI market over genAI ([4 days ago](https://www.postonline.co.uk/commercial/7959423/storm-brewing-in-legal-pi-market-over-genai))
-- AI's expanding impact on insurance decision-making ([5 days ago](https://www.dig-in.com/opinion/ais-impact-on-insurance-decision-making))
 - WIL 2025 honoree profiles ([5 days ago](https://www.dig-in.com/list/wil-2025-honoree-profiles))
+- AI's expanding impact on insurance decision-making ([5 days ago](https://www.dig-in.com/opinion/ais-impact-on-insurance-decision-making))
 - Axa XL's McGovern named LMA chair ([5 days ago](https://www.postonline.co.uk/lloydslondon/7959646/axa-xls-mcgovern-named-as-lma-chair))
 - AIG boss Zaffino to be succeeded by Aon’s Andersen ([5 days ago](https://www.postonline.co.uk/news/7959645/aig-boss-zaffino-to-be-succeeded-by-aons-andersen))
 - Roundtable: Transforming risk management in commercial insurance ([5 days ago](https://www.postonline.co.uk/commercial/7959557/roundtable-transforming-risk-management-in-commercial-insurance))
