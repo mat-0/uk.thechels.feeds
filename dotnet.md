@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- The Windows File Explorer replacement, File Pilot, is awesome ([4 hours ago](https://dotnetkicks.com/r/737993?url=https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
+- The Windows File Explorer replacement, File Pilot, is awesome ([5 hours ago](https://dotnetkicks.com/r/737993?url=https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
 - The Windows File Explorer replacement, File Pilot, is awesome ([6 hours ago](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
 - How to Build Android Widgets with .NET MAUI - .NET Blog ([21 hours ago](https://dotnetkicks.com/r/737955?url=https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
 - How to Build Android Widgets with .NET MAUI ([21 hours ago](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
@@ -29,7 +29,7 @@ description: DotNet Updates
 - Logo? ([7 days ago](https://dotnetkicks.com/r/737626?url=https://jesseliberty.com/2026/01/05/logo/))
 - Generative AI with Large Language Models in C# in 2026 - .NET Blog ([7 days ago](https://dotnetkicks.com/r/737611?url=https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/))
 - Generative AI with Large Language Models in C# in 2026 ([7 days ago](https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/))
-- dotInsights  -  January 2026 ([7 days ago](https://blog.jetbrains.com/dotnet/2026/01/05/dotinsights-january-2026/))
+- dotInsights  -  January 2026 ([8 days ago](https://blog.jetbrains.com/dotnet/2026/01/05/dotinsights-january-2026/))
 - Critter Stack and JasperFx Retrospective for 2025 ([8 days ago](https://dotnetkicks.com/r/737559?url=https://jeremydmiller.com/2026/01/04/critter-stack-and-jasperfx-retrospective-for-2025/))
 - Learning AI ([8 days ago](https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/))
 - F# Weekly #1, 2026 - Kipo &amp; future of MonoGame ([9 days ago](https://dotnetkicks.com/r/737508?url=https://sergeytihon.com/2026/01/03/f-weekly-1-2026-kipo-future-of-monogame/))
