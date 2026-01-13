@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- How to Build Android Widgets with .NET MAUI - .NET Blog ([13 hours ago](https://dotnetkicks.com/r/737955?url=https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
+- How to Build Android Widgets with .NET MAUI - .NET Blog ([14 hours ago](https://dotnetkicks.com/r/737955?url=https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
 - How to Build Android Widgets with .NET MAUI ([14 hours ago](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
 - How We Synchronize .NET's Virtual Monorepo - .NET Blog ([15 hours ago](https://dotnetkicks.com/r/737933?url=https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/))
 - How We Synchronize .NET’s Virtual Monorepo ([15 hours ago](https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/))
