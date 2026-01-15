@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Copilot Memories - Visual Studio Blog ([3 hours ago](https://dotnetkicks.com/r/738215?url=https://devblogs.microsoft.com/visualstudio/copilot-memories/))
+- Copilot Memories - Visual Studio Blog ([4 hours ago](https://dotnetkicks.com/r/738215?url=https://devblogs.microsoft.com/visualstudio/copilot-memories/))
 - How AI Will Transform Open Source Business Models ([23 hours ago](https://dotnetkicks.com/r/738148?url=https://petabridge.com/blog/ai-transforms-oss-business-models/))
 - How JasperFx Supports our Customers ([1 days ago](https://dotnetkicks.com/r/738093?url=https://jeremydmiller.com/2026/01/13/how-jasperfx-supports-our-customers/))
 - .NET and .NET Framework January 2026 servicing releases updates - .NET Blog ([1 days ago](https://dotnetkicks.com/r/738074?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
@@ -17,8 +17,8 @@ description: DotNet Updates
 - The Windows File Explorer replacement, File Pilot, is awesome ([2 days ago](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
 - How to Build Android Widgets with .NET MAUI - .NET Blog ([2 days ago](https://dotnetkicks.com/r/737955?url=https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
 - How to Build Android Widgets with .NET MAUI ([2 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
-- How We Synchronize .NET's Virtual Monorepo - .NET Blog ([2 days ago](https://dotnetkicks.com/r/737933?url=https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/))
-- How We Synchronize .NET’s Virtual Monorepo ([2 days ago](https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/))
+- How We Synchronize .NET's Virtual Monorepo - .NET Blog ([3 days ago](https://dotnetkicks.com/r/737933?url=https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/))
+- How We Synchronize .NET’s Virtual Monorepo ([3 days ago](https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/))
 - Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers - Microsoft Industry Blogs ([3 days ago](https://dotnetkicks.com/r/737894?url=https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/))
 - Implementing Level of Authentication (LoA) with ASP.NET Core Identity and Duende ([3 days ago](https://dotnetkicks.com/r/737876?url=https://damienbod.com/2026/01/12/implementing-level-of-authentication-loa-with-asp-net-core-identity-and-duende/))
 - File I/O Performance: Picking the Fastest Weapon in Your Arsenal ([4 days ago](https://dotnettips.wordpress.com/2026/01/11/file-i-o-performance-picking-the-fastest-weapon-in-your-arsenal/))
