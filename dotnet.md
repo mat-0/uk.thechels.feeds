@@ -52,6 +52,5 @@ description: DotNet Updates
 - Code It Anyway You Want: Initializing Reference Type Static Fields Inline for Enhanced Code Readability ([25 days ago](https://dotnettips.wordpress.com/2025/12/21/code-it-anyway-you-want-initializing-reference-type-static-fields-inline-for-enhanced-code-readability/))
 - ReSharper and Rider 2025.3.1 Released: Next Edit Suggestions and Other Important Updates ([27 days ago](https://blog.jetbrains.com/dotnet/2025/12/18/resharper-and-rider-2025-3-1/))
 - Microsoft.Testing.Platform Now Fully Supported in Azure DevOps ([29 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
-- Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([29 days ago](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
 
 <!-- news_marker ends -->
