@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Copilot Memories - Visual Studio Blog ([12 hours ago](https://dotnetkicks.com/r/738215?url=https://devblogs.microsoft.com/visualstudio/copilot-memories/))
+- Copilot Memories - Visual Studio Blog ([13 hours ago](https://dotnetkicks.com/r/738215?url=https://devblogs.microsoft.com/visualstudio/copilot-memories/))
 - How AI Will Transform Open Source Business Models ([1 days ago](https://dotnetkicks.com/r/738148?url=https://petabridge.com/blog/ai-transforms-oss-business-models/))
 - How JasperFx Supports our Customers ([2 days ago](https://dotnetkicks.com/r/738093?url=https://jeremydmiller.com/2026/01/13/how-jasperfx-supports-our-customers/))
 - .NET and .NET Framework January 2026 servicing releases updates - .NET Blog ([2 days ago](https://dotnetkicks.com/r/738074?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
@@ -35,7 +35,7 @@ description: DotNet Updates
 - Generative AI with Large Language Models in C# in 2026 - .NET Blog ([10 days ago](https://dotnetkicks.com/r/737611?url=https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/))
 - Generative AI with Large Language Models in C# in 2026 ([10 days ago](https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/))
 - dotInsights  -  January 2026 ([10 days ago](https://blog.jetbrains.com/dotnet/2026/01/05/dotinsights-january-2026/))
-- Critter Stack and JasperFx Retrospective for 2025 ([10 days ago](https://dotnetkicks.com/r/737559?url=https://jeremydmiller.com/2026/01/04/critter-stack-and-jasperfx-retrospective-for-2025/))
+- Critter Stack and JasperFx Retrospective for 2025 ([11 days ago](https://dotnetkicks.com/r/737559?url=https://jeremydmiller.com/2026/01/04/critter-stack-and-jasperfx-retrospective-for-2025/))
 - Learning AI ([11 days ago](https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/))
 - F# Weekly #1, 2026 - Kipo &amp; future of MonoGame ([11 days ago](https://dotnetkicks.com/r/737508?url=https://sergeytihon.com/2026/01/03/f-weekly-1-2026-kipo-future-of-monogame/))
 - Leveraging Span-Based String Concatenation for Improved Performance ([11 days ago](https://dotnettips.wordpress.com/2026/01/04/leveraging-span-based-string-concatenation-for-improved-performance/))
