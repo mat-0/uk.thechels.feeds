@@ -9,8 +9,8 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Blue Monday Looming? Simplyhealth Has Tips To Help You De-Stress ([7 hours ago](https://insurance-edge.net/2026/01/17/blue-monday-looming-simplyhealth-has-tips-to-help-you-de-stress/))
-- California Attorney General Issues Cease and Desist Letter to xAI ([21 hours ago](https://www.insurancejournal.com/news/west/2026/01/16/854752.htm))
-- CII Podcast Episode Looks at Value of Training & Education ([22 hours ago](https://insurance-edge.net/2026/01/16/cii-podcast-episode-looks-at-value-of-training-education/))
+- California Attorney General Issues Cease and Desist Letter to xAI ([22 hours ago](https://www.insurancejournal.com/news/west/2026/01/16/854752.htm))
+- CII Podcast Episode Looks at Value of Training & Education ([23 hours ago](https://insurance-edge.net/2026/01/16/cii-podcast-episode-looks-at-value-of-training-education/))
 - LA Fire survivors got a rude surprise that could hit more Americans ([1 days ago](https://www.dig-in.com/articles/la-fire-survivors-rude-surprise-could-hit-more-americans))
 - Allstate Can Proceed with Recovery in Texas RICO Case: Fifth Circuit ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/01/16/854724.htm))
 - Trump Officials Vow to Keep All US Coal Plants Running ([1 days ago](https://www.insurancejournal.com/news/national/2026/01/16/854720.htm))
@@ -68,7 +68,7 @@ description: Insurance Updates
 - Why insurers should be forced to signpost customers properly ([1 days ago](https://www.postonline.co.uk/regulation/7959681/why-insurers-should-be-forced-to-signpost-customers-properly))
 - Swiss Re integrates Fathom data into internal catastrophe model ([1 days ago](https://www.dig-in.com/news/swiss-re-integrates-data-into-internal-catastrophe-model))
 - The Hartford expands tech team ([1 days ago](https://www.dig-in.com/news/the-hartford-expands-tech-team))
-- Sedgwick Launches Global Specialty Platform to Support Complex Claims Worldwide ([1 days ago](https://www.insurtechinsights.com/sedgwick-launches-global-specialty-platform-to-support-complex-claims-worldwide/))
+- Sedgwick Launches Global Specialty Platform to Support Complex Claims Worldwide ([2 days ago](https://www.insurtechinsights.com/sedgwick-launches-global-specialty-platform-to-support-complex-claims-worldwide/))
 - SIAA Partners with Progressive to Expand Personal and Commercial Lines Access for Independent Agents ([2 days ago](https://www.insurtechinsights.com/siaa-partners-with-progressive-to-expand-personal-and-commercial-lines-access-for-independent-agents/))
 - BIBA Manifesto 2026 Sets Out Fast-Track Agenda for Brokers, Regulation and Cyber Resilience ([2 days ago](https://www.insurtechinsights.com/biba-manifesto-2026-sets-out-fast-track-agenda-for-brokers-regulation-and-cyber-resilience/))
 - PRA cuts frequency of meetings with insurers ([2 days ago](https://www.postonline.co.uk/regulation/7959690/pra-cuts-frequency-of-meetings-with-insurers))
