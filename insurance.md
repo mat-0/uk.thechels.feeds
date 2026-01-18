@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Blue Monday Looming? Simplyhealth Has Tips To Help You De-Stress ([22 hours ago](https://insurance-edge.net/2026/01/17/blue-monday-looming-simplyhealth-has-tips-to-help-you-de-stress/))
+- Blue Monday Looming? Simplyhealth Has Tips To Help You De-Stress ([23 hours ago](https://insurance-edge.net/2026/01/17/blue-monday-looming-simplyhealth-has-tips-to-help-you-de-stress/))
 - California Attorney General Issues Cease and Desist Letter to xAI ([1 days ago](https://www.insurancejournal.com/news/west/2026/01/16/854752.htm))
 - CII Podcast Episode Looks at Value of Training & Education ([1 days ago](https://insurance-edge.net/2026/01/16/cii-podcast-episode-looks-at-value-of-training-education/))
 - LA Fire survivors got a rude surprise that could hit more Americans ([1 days ago](https://www.dig-in.com/articles/la-fire-survivors-rude-surprise-could-hit-more-americans))
@@ -46,7 +46,7 @@ description: Insurance Updates
 - PWC’s Bichard replaces Cliff as Lloyd’s CFO ([1 days ago](https://www.postonline.co.uk/lloydslondon/7959695/pwcs-bichard-replaces-cliff-as-lloyds-cfo))
 - Lloyd's taps PwC's Jim Bichard as new CFO ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lloyds-taps-pwcs-jim-bichard-as-new-cfo-562220.aspx))
 - GEICO Expands North Texas Footprint With 2,500 New Jobs ([1 days ago](https://www.insurtechinsights.com/geico-expands-north-texas-footprint-with-2500-new-jobs/))
-- Global cyber insurance market could hit new highs by 2030, Gallagher forecasts ([1 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/global-cyber-insurance-market-could-hit-new-highs-by-2030-gallagher-forecasts-562202.aspx))
+- Global cyber insurance market could hit new highs by 2030, Gallagher forecasts ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/global-cyber-insurance-market-could-hit-new-highs-by-2030-gallagher-forecasts-562202.aspx))
 - Greensill Bank Sues UK Government for $441 Million Over COVID Loan Guarantees ([2 days ago](https://www.insurancejournal.com/news/international/2026/01/16/854643.htm))
 - Crawford urges businesses to check coverage as water outages disrupt south-east England ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/crawford-urges-businesses-to-check-coverage-as-water-outages-disrupt-southeast-england-562199.aspx))
 - Venezuelan Oil Industry Is Running on WhatsApp After Cyberattack ([2 days ago](https://www.insurancejournal.com/news/international/2026/01/16/854637.htm))
@@ -78,7 +78,7 @@ description: Insurance Updates
 - Asta launches financial lines MGA ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/asta-launches-financial-lines-mga-562069.aspx))
 - Pro Global secures space in Liverpool's Royal Liver Building ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/pro-global-secures-space-in-liverpools-royal-liver-building-562067.aspx))
 - Generali Appoints Giulio Terzariol as Group Deputy CEO ([2 days ago](https://www.insurtechinsights.com/generali-appoints-giulio-terzariol-as-group-deputy-ceo/))
-- First Central moves a step closer to IPO ([2 days ago](https://www.postonline.co.uk/news/7959688/first-central-moves-a-step-closer-to-ipo))
+- First Central moves a step closer to IPO ([3 days ago](https://www.postonline.co.uk/news/7959688/first-central-moves-a-step-closer-to-ipo))
 - Aviva consolidates charitable programmes under unified foundation ([3 days ago](https://www.insurancebusinessmag.com/uk/news/non-profits/aviva-consolidates-charitable-programmes-under-unified-foundation-562057.aspx))
 - Generali elevates Giulio Terzariol to group deputy CEO in leadership restructure ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/generali-elevates-giulio-terzariol-to-group-deputy-ceo-in-leadership-restructure-562053.aspx))
 - Q&A: Will Ross, Federato ([3 days ago](https://www.postonline.co.uk/technology/7959535/qa-will-ross-federato))
@@ -126,7 +126,7 @@ description: Insurance Updates
 - Mortgage Advice Bureau strengthens protection proposition with latest appointment ([10 days ago](https://ifamagazine.com/mortgage-advice-bureau-strengthens-protection-proposition-with-latest-appointment/))
 - Vitality appoints Dr Katie Tryon as Deputy CEO of VitalityHealth ([10 days ago](https://ifamagazine.com/vitality-appoints-dr-katie-tryon-as-deputy-ceo-of-vitalityhealth/))
 - Why protection needs to be a priority for advisers this year ([10 days ago](https://ifamagazine.com/why-protection-needs-to-be-a-priority-for-advisers-this-year/))
-- The Exeter enhances NHS cash benefit with higher payments and new day-patient cover ([10 days ago](https://ifamagazine.com/the-exeter-enhances-nhs-cash-benefit-with-higher-payments-and-new-day-patient-cover/))
+- The Exeter enhances NHS cash benefit with higher payments and new day-patient cover ([11 days ago](https://ifamagazine.com/the-exeter-enhances-nhs-cash-benefit-with-higher-payments-and-new-day-patient-cover/))
 - RedArc predicts clinical case management to become more prevalent in 2026 ([11 days ago](https://ifamagazine.com/redarc-predicts-clinical-case-management-to-become-more-prevalent-in-2026/))
 - IPTF confirms membership and ambitious plans for 2026 ([11 days ago](https://ifamagazine.com/iptf-confirms-membership-and-ambitious-plans-for-2026/))
 
