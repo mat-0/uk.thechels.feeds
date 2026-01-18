@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- NEXT Insurance rebrands as ERGO NEXT following Munich Re-backed integration ([1 hours ago](https://www.insurtechinsights.com/next-insurance-rebrands-as-ergo-next-following-munich-re-backed-integration/))
+- NEXT Insurance rebrands as ERGO NEXT following Munich Re-backed integration ([2 hours ago](https://www.insurtechinsights.com/next-insurance-rebrands-as-ergo-next-following-munich-re-backed-integration/))
 - Blue Monday Looming? Simplyhealth Has Tips To Help You De-Stress ([1 days ago](https://insurance-edge.net/2026/01/17/blue-monday-looming-simplyhealth-has-tips-to-help-you-de-stress/))
 - California Attorney General Issues Cease and Desist Letter to xAI ([1 days ago](https://www.insurancejournal.com/news/west/2026/01/16/854752.htm))
 - CII Podcast Episode Looks at Value of Training & Education ([1 days ago](https://insurance-edge.net/2026/01/16/cii-podcast-episode-looks-at-value-of-training-education/))
@@ -69,7 +69,7 @@ description: Insurance Updates
 - Why insurers should be forced to signpost customers properly ([2 days ago](https://www.postonline.co.uk/regulation/7959681/why-insurers-should-be-forced-to-signpost-customers-properly))
 - Swiss Re integrates Fathom data into internal catastrophe model ([2 days ago](https://www.dig-in.com/news/swiss-re-integrates-data-into-internal-catastrophe-model))
 - The Hartford expands tech team ([2 days ago](https://www.dig-in.com/news/the-hartford-expands-tech-team))
-- Sedgwick Launches Global Specialty Platform to Support Complex Claims Worldwide ([2 days ago](https://www.insurtechinsights.com/sedgwick-launches-global-specialty-platform-to-support-complex-claims-worldwide/))
+- Sedgwick Launches Global Specialty Platform to Support Complex Claims Worldwide ([3 days ago](https://www.insurtechinsights.com/sedgwick-launches-global-specialty-platform-to-support-complex-claims-worldwide/))
 - SIAA Partners with Progressive to Expand Personal and Commercial Lines Access for Independent Agents ([3 days ago](https://www.insurtechinsights.com/siaa-partners-with-progressive-to-expand-personal-and-commercial-lines-access-for-independent-agents/))
 - BIBA Manifesto 2026 Sets Out Fast-Track Agenda for Brokers, Regulation and Cyber Resilience ([3 days ago](https://www.insurtechinsights.com/biba-manifesto-2026-sets-out-fast-track-agenda-for-brokers-regulation-and-cyber-resilience/))
 - PRA cuts frequency of meetings with insurers ([3 days ago](https://www.postonline.co.uk/regulation/7959690/pra-cuts-frequency-of-meetings-with-insurers))
