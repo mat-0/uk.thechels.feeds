@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Blue Monday Looming? Simplyhealth Has Tips To Help You De-Stress ([20 hours ago](https://insurance-edge.net/2026/01/17/blue-monday-looming-simplyhealth-has-tips-to-help-you-de-stress/))
+- Blue Monday Looming? Simplyhealth Has Tips To Help You De-Stress ([21 hours ago](https://insurance-edge.net/2026/01/17/blue-monday-looming-simplyhealth-has-tips-to-help-you-de-stress/))
 - California Attorney General Issues Cease and Desist Letter to xAI ([1 days ago](https://www.insurancejournal.com/news/west/2026/01/16/854752.htm))
 - CII Podcast Episode Looks at Value of Training & Education ([1 days ago](https://insurance-edge.net/2026/01/16/cii-podcast-episode-looks-at-value-of-training-education/))
 - LA Fire survivors got a rude surprise that could hit more Americans ([1 days ago](https://www.dig-in.com/articles/la-fire-survivors-rude-surprise-could-hit-more-americans))
@@ -53,10 +53,10 @@ description: Insurance Updates
 - Fitch Warns of Eastern European Downgrades if Greenland Strife Cracks NATO ([1 days ago](https://www.insurancejournal.com/news/international/2026/01/16/854630.htm))
 - Ex-PIMCO Executive Scores Milestone on Launch of Catastrophe Bond ETF ([1 days ago](https://www.insurancejournal.com/news/international/2026/01/16/854624.htm))
 - Skills shortages, inflation driving up airline insurance claims costs – Willis ([1 days ago](https://www.insurancebusinessmag.com/uk/news/claims/skills-shortages-inflation-driving-up-airline-insurance-claims-costs--willis-562190.aspx))
-- England, Wales post record low death rate ([1 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/england-wales-post-record-low-death-rate-562188.aspx))
-- Underinsurance in the spotlight ([1 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/underinsurance-in-the-spotlight-562187.aspx))
-- Insurance moves: Markel Insurance, Cowbell, Pikl, Pen ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-markel-insurance-cowbell-pikl-pen-562186.aspx))
-- Aon maps resilience signals for investors ([1 days ago](https://www.insurancebusinessmag.com/uk/news/technology/aon-maps-resilience-signals-for-investors-562180.aspx))
+- England, Wales post record low death rate ([2 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/england-wales-post-record-low-death-rate-562188.aspx))
+- Underinsurance in the spotlight ([2 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/underinsurance-in-the-spotlight-562187.aspx))
+- Insurance moves: Markel Insurance, Cowbell, Pikl, Pen ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-markel-insurance-cowbell-pikl-pen-562186.aspx))
+- Aon maps resilience signals for investors ([2 days ago](https://www.insurancebusinessmag.com/uk/news/technology/aon-maps-resilience-signals-for-investors-562180.aspx))
 - NAIC Names Committee Leaders for 2026 ([2 days ago](https://www.insurancejournal.com/news/national/2026/01/16/854593.htm))
 - US Senators Introduce Long-Awaited Bill to Define Crypto Market Rules ([2 days ago](https://www.insurancejournal.com/news/national/2026/01/16/854586.htm))
 - Publishers Seek to Join Lawsuit Against Google Over AI Training ([2 days ago](https://www.insurancejournal.com/news/national/2026/01/16/854590.htm))
