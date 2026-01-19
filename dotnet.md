@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- F# Weekly #3, 2026 - Most token-efficient static language? ([12 hours ago](https://dotnetkicks.com/r/738375?url=https://sergeytihon.com/2026/01/17/f-weekly-3-2026-most-token-efficient-static-language/))
+- F# Weekly #3, 2026 - Most token-efficient static language? ([13 hours ago](https://dotnetkicks.com/r/738375?url=https://sergeytihon.com/2026/01/17/f-weekly-3-2026-most-token-efficient-static-language/))
 - Collection Performance: High-Performance Collection Randomization in .NET ([1 days ago](https://dotnettips.wordpress.com/2026/01/18/collection-performance-high-performance-collection-randomization-in-net/))
 - Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms  -  Microsoft Security Blog ([1 days ago](https://dotnetkicks.com/r/738338?url=https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/))
 - Copilot Memories - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/738215?url=https://devblogs.microsoft.com/visualstudio/copilot-memories/))
@@ -16,7 +16,7 @@ description: DotNet Updates
 - How JasperFx Supports our Customers ([5 days ago](https://dotnetkicks.com/r/738093?url=https://jeremydmiller.com/2026/01/13/how-jasperfx-supports-our-customers/))
 - .NET and .NET Framework January 2026 servicing releases updates - .NET Blog ([5 days ago](https://dotnetkicks.com/r/738074?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
 - .NET and .NET Framework January 2026 servicing releases updates ([5 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
-- The Windows File Explorer replacement, File Pilot, is awesome ([5 days ago](https://dotnetkicks.com/r/737993?url=https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
+- The Windows File Explorer replacement, File Pilot, is awesome ([6 days ago](https://dotnetkicks.com/r/737993?url=https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
 - The Windows File Explorer replacement, File Pilot, is awesome ([6 days ago](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
 - How to Build Android Widgets with .NET MAUI - .NET Blog ([6 days ago](https://dotnetkicks.com/r/737955?url=https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
 - How to Build Android Widgets with .NET MAUI ([6 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
