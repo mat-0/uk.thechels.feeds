@@ -9,8 +9,8 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Insurance underwriting in the age of AI ([8 hours ago](https://www.dig-in.com/opinion/insurance-underwriting-in-the-age-of-ai))
-- MAPFRE raises €1B in dual-tranche senior bond issuance ([9 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mapfre-raises-1b-in-dualtranche-senior-bond-issuance-562285.aspx))
-- Daria Avdeeva takes on new role as IG Compulsory Insurance Committee chair ([9 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/daria-avdeeva-takes-on-new-role-as-ig-compulsory-insurance-committee-chair-562284.aspx))
+- MAPFRE raises €1B in dual-tranche senior bond issuance ([10 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mapfre-raises-1b-in-dualtranche-senior-bond-issuance-562285.aspx))
+- Daria Avdeeva takes on new role as IG Compulsory Insurance Committee chair ([10 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/daria-avdeeva-takes-on-new-role-as-ig-compulsory-insurance-committee-chair-562284.aspx))
 - Premier Insurance leaves 16,000 UK motor policyholders seeking replacement cover ([10 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/premier-insurance-leaves-16000-uk-motor-policyholders-seeking-replacement-cover-562283.aspx))
 - Blue Monday Looming? Simplyhealth Has Tips To Help You De-Stress ([1 days ago](https://insurance-edge.net/2026/01/17/blue-monday-looming-simplyhealth-has-tips-to-help-you-de-stress/))
 - California Attorney General Issues Cease and Desist Letter to xAI ([2 days ago](https://www.insurancejournal.com/news/west/2026/01/16/854752.htm))
