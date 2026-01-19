@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Fundamentals of AI ([1 hours ago](https://dotnetkicks.com/r/738416?url=https://jesseliberty.com/2026/01/19/fundamentals-of-ai/))
+- Fundamentals of AI ([2 hours ago](https://dotnetkicks.com/r/738416?url=https://jesseliberty.com/2026/01/19/fundamentals-of-ai/))
 - Implementing Level of Identification (LoI) with ASP.NET Core Identity and Duende ([6 hours ago](https://dotnetkicks.com/r/738401?url=https://damienbod.com/2026/01/18/implementing-level-of-identification-loi-with-asp-net-core-identity-and-duende/))
-- F# Weekly #3, 2026 - Most token-efficient static language? ([21 hours ago](https://dotnetkicks.com/r/738375?url=https://sergeytihon.com/2026/01/17/f-weekly-3-2026-most-token-efficient-static-language/))
+- F# Weekly #3, 2026 - Most token-efficient static language? ([22 hours ago](https://dotnetkicks.com/r/738375?url=https://sergeytihon.com/2026/01/17/f-weekly-3-2026-most-token-efficient-static-language/))
 - Collection Performance: High-Performance Collection Randomization in .NET ([1 days ago](https://dotnettips.wordpress.com/2026/01/18/collection-performance-high-performance-collection-randomization-in-net/))
 - Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms  -  Microsoft Security Blog ([1 days ago](https://dotnetkicks.com/r/738338?url=https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/))
 - Copilot Memories - Visual Studio Blog ([4 days ago](https://dotnetkicks.com/r/738215?url=https://devblogs.microsoft.com/visualstudio/copilot-memories/))
@@ -29,7 +29,7 @@ description: DotNet Updates
 - File I/O Performance: Picking the Fastest Weapon in Your Arsenal ([8 days ago](https://dotnettips.wordpress.com/2026/01/11/file-i-o-performance-picking-the-fastest-weapon-in-your-arsenal/))
 - F# Weekly #2, 2026 - Mibo and WREN Stack ([8 days ago](https://dotnetkicks.com/r/737839?url=https://sergeytihon.com/2026/01/10/f-weekly-2-2026-mibo-and-wren-stack/))
 - AI Won't Kill Open Source - It Will Amplify It ([9 days ago](https://dotnetkicks.com/r/737834?url=https://petabridge.com/blog/ai-wont-kill-open-source/))
-- EF Core Lazy Loading Performance Gotcha ([10 days ago](https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha))
+- EF Core Lazy Loading Performance Gotcha ([11 days ago](https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha))
 - Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider - .NET Blog ([12 days ago](https://dotnetkicks.com/r/737771?url=https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
 - Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider ([12 days ago](https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
 - Coding Faster with dotNetTips.com Spargine 10: January 2026 Release ([13 days ago](https://dotnettips.wordpress.com/2026/01/06/coding-faster-with-dotnettips-com-spargine-10-january-2026-release/))
