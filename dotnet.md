@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Fundamentals of AI ([13 hours ago](https://dotnetkicks.com/r/738416?url=https://jesseliberty.com/2026/01/19/fundamentals-of-ai/))
+- Fundamentals of AI ([14 hours ago](https://dotnetkicks.com/r/738416?url=https://jesseliberty.com/2026/01/19/fundamentals-of-ai/))
 - Implementing Level of Identification (LoI) with ASP.NET Core Identity and Duende ([18 hours ago](https://dotnetkicks.com/r/738401?url=https://damienbod.com/2026/01/18/implementing-level-of-identification-loi-with-asp-net-core-identity-and-duende/))
 - F# Weekly #3, 2026 - Most token-efficient static language? ([1 days ago](https://dotnetkicks.com/r/738375?url=https://sergeytihon.com/2026/01/17/f-weekly-3-2026-most-token-efficient-static-language/))
 - Collection Performance: High-Performance Collection Randomization in .NET ([2 days ago](https://dotnettips.wordpress.com/2026/01/18/collection-performance-high-performance-collection-randomization-in-net/))
@@ -45,7 +45,7 @@ description: DotNet Updates
 - F# Weekly #1, 2026 - Kipo &amp; future of MonoGame ([15 days ago](https://dotnetkicks.com/r/737508?url=https://sergeytihon.com/2026/01/03/f-weekly-1-2026-kipo-future-of-monogame/))
 - Leveraging Span-Based String Concatenation for Improved Performance ([16 days ago](https://dotnettips.wordpress.com/2026/01/04/leveraging-span-based-string-concatenation-for-improved-performance/))
 - Recent updates to NetEscapades.EnumGenerators: new APIs and System.Memory support ([17 days ago](https://andrewlock.net/updates-to-netescapaades-enumgenerators-new-apis-and-system-memory-support/))
-- Visual Studio 2026: Regressions, Reliability Issues, and Missed Opportunities ([18 days ago](https://dotnettips.wordpress.com/2026/01/01/visual-studio-2026-regressions-reliability-issues-and-missed-opportunities/))
+- Visual Studio 2026: Regressions, Reliability Issues, and Missed Opportunities ([19 days ago](https://dotnettips.wordpress.com/2026/01/01/visual-studio-2026-regressions-reliability-issues-and-missed-opportunities/))
 - Rock Your Code: Code & App Performance for Microsoft .NET (5th Edition) ([19 days ago](https://dotnettips.wordpress.com/2026/01/01/rock-your-code-code-app-performance-for-microsoft-net-5th-edition/))
 - Top .NET Videos & Live Streams of 2025 ([19 days ago](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
 - Top .NET Blog Posts of 2025 ([20 days ago](https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/))
