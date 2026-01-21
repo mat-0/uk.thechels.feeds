@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- CoPilot Gets Us Started ([45 minutes ago](https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/))
-- You Can't Future-Proof Software Architecture ([13 hours ago](https://dotnetkicks.com/r/738487?url=https://codeopinion.com/you-cant-future-proof-software-architecture/))
-- An AI Project ([14 hours ago](https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/))
-- Easier Query Models with Marten ([21 hours ago](https://dotnetkicks.com/r/738454?url=https://jeremydmiller.com/2026/01/20/easier-query-models-with-marten/))
+- CoPilot Gets Us Started ([1 hours ago](https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/))
+- You Can't Future-Proof Software Architecture ([14 hours ago](https://dotnetkicks.com/r/738487?url=https://codeopinion.com/you-cant-future-proof-software-architecture/))
+- An AI Project ([15 hours ago](https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/))
+- Easier Query Models with Marten ([22 hours ago](https://dotnetkicks.com/r/738454?url=https://jeremydmiller.com/2026/01/20/easier-query-models-with-marten/))
 - Making foreach on an IEnumerable allocation-free using reflection and dynamic methods ([1 days ago](https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/))
 - Fundamentals of AI ([1 days ago](https://dotnetkicks.com/r/738416?url=https://jesseliberty.com/2026/01/19/fundamentals-of-ai/))
 - Implementing Level of Identification (LoI) with ASP.NET Core Identity and Duende ([2 days ago](https://dotnetkicks.com/r/738401?url=https://damienbod.com/2026/01/18/implementing-level-of-identification-loi-with-asp-net-core-identity-and-duende/))
