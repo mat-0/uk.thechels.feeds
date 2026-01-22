@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Announcing winapp, the Windows App Development CLI ([4 hours ago](https://dotnetkicks.com/r/738625?url=https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/))
+- Announcing winapp, the Windows App Development CLI ([5 hours ago](https://dotnetkicks.com/r/738625?url=https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/))
 - ReSharper 2026.1 Early Access Program Has Begun ([7 hours ago](https://blog.jetbrains.com/dotnet/2026/01/22/resharper-2026-1-early-access-program/))
 - Rider 2026.1 Early Access Program Is Now Open! ([7 hours ago](https://blog.jetbrains.com/dotnet/2026/01/22/rider-2026-1-early-access-program-start/))
-- Essential Programmer Utilities ([7 hours ago](https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/))
-- Marten's Aggregation Projection Subsystem ([8 hours ago](https://dotnetkicks.com/r/738612?url=https://jeremydmiller.com/2026/01/22/martens-aggregation-projection-subsystem/))
+- Essential Programmer Utilities ([8 hours ago](https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/))
+- Marten's Aggregation Projection Subsystem ([9 hours ago](https://dotnetkicks.com/r/738612?url=https://jeremydmiller.com/2026/01/22/martens-aggregation-projection-subsystem/))
 - Catching Up with Recent Wolverine Releases ([1 days ago](https://dotnetkicks.com/r/738518?url=https://jeremydmiller.com/2026/01/21/catching-up-with-recent-wolverine-releases/))
 - CoPilot Gets Us Started ([1 days ago](https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/))
 - You Can't Future-Proof Software Architecture ([1 days ago](https://dotnetkicks.com/r/738487?url=https://codeopinion.com/you-cant-future-proof-software-architecture/))
@@ -23,7 +23,7 @@ description: DotNet Updates
 - Implementing Level of Identification (LoI) with ASP.NET Core Identity and Duende ([3 days ago](https://dotnetkicks.com/r/738401?url=https://damienbod.com/2026/01/18/implementing-level-of-identification-loi-with-asp-net-core-identity-and-duende/))
 - F# Weekly #3, 2026 - Most token-efficient static language? ([3 days ago](https://dotnetkicks.com/r/738375?url=https://sergeytihon.com/2026/01/17/f-weekly-3-2026-most-token-efficient-static-language/))
 - Collection Performance: High-Performance Collection Randomization in .NET ([4 days ago](https://dotnettips.wordpress.com/2026/01/18/collection-performance-high-performance-collection-randomization-in-net/))
-- Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms  -  Microsoft Security Blog ([4 days ago](https://dotnetkicks.com/r/738338?url=https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/))
+- Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms  -  Microsoft Security Blog ([5 days ago](https://dotnetkicks.com/r/738338?url=https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/))
 - Copilot Memories - Visual Studio Blog ([7 days ago](https://dotnetkicks.com/r/738215?url=https://devblogs.microsoft.com/visualstudio/copilot-memories/))
 - How AI Will Transform Open Source Business Models ([8 days ago](https://dotnetkicks.com/r/738148?url=https://petabridge.com/blog/ai-transforms-oss-business-models/))
 - How JasperFx Supports our Customers ([8 days ago](https://dotnetkicks.com/r/738093?url=https://jeremydmiller.com/2026/01/13/how-jasperfx-supports-our-customers/))
