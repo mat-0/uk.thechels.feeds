@@ -9,8 +9,8 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Announcing winapp, the Windows App Development CLI ([18 hours ago](https://dotnetkicks.com/r/738625?url=https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/))
-- ReSharper 2026.1 Early Access Program Has Begun ([20 hours ago](https://blog.jetbrains.com/dotnet/2026/01/22/resharper-2026-1-early-access-program/))
-- Rider 2026.1 Early Access Program Is Now Open! ([20 hours ago](https://blog.jetbrains.com/dotnet/2026/01/22/rider-2026-1-early-access-program-start/))
+- ReSharper 2026.1 Early Access Program Has Begun ([21 hours ago](https://blog.jetbrains.com/dotnet/2026/01/22/resharper-2026-1-early-access-program/))
+- Rider 2026.1 Early Access Program Is Now Open! ([21 hours ago](https://blog.jetbrains.com/dotnet/2026/01/22/rider-2026-1-early-access-program-start/))
 - Essential Programmer Utilities ([21 hours ago](https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/))
 - Marten's Aggregation Projection Subsystem ([22 hours ago](https://dotnetkicks.com/r/738612?url=https://jeremydmiller.com/2026/01/22/martens-aggregation-projection-subsystem/))
 - Catching Up with Recent Wolverine Releases ([1 days ago](https://dotnetkicks.com/r/738518?url=https://jeremydmiller.com/2026/01/21/catching-up-with-recent-wolverine-releases/))
@@ -29,7 +29,7 @@ description: DotNet Updates
 - How JasperFx Supports our Customers ([9 days ago](https://dotnetkicks.com/r/738093?url=https://jeremydmiller.com/2026/01/13/how-jasperfx-supports-our-customers/))
 - .NET and .NET Framework January 2026 servicing releases updates - .NET Blog ([9 days ago](https://dotnetkicks.com/r/738074?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
 - .NET and .NET Framework January 2026 servicing releases updates ([9 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
-- The Windows File Explorer replacement, File Pilot, is awesome ([9 days ago](https://dotnetkicks.com/r/737993?url=https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
+- The Windows File Explorer replacement, File Pilot, is awesome ([10 days ago](https://dotnetkicks.com/r/737993?url=https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
 - The Windows File Explorer replacement, File Pilot, is awesome ([10 days ago](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
 - How to Build Android Widgets with .NET MAUI - .NET Blog ([10 days ago](https://dotnetkicks.com/r/737955?url=https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
 - How to Build Android Widgets with .NET MAUI ([10 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
