@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - GenAI: Fisent Technologies Looks Back on 2025 Progress ([5 hours ago](https://insurance-edge.net/2026/01/24/genai-fisent-technologies-looks-back-on-2025-progress/))
-- US Market: Ivans Q4 2025 Renewal Index is Published ([23 hours ago](https://insurance-edge.net/2026/01/23/us-market-ivans-q4-2025-renewal-index-is-published/))
+- US Market: Ivans Q4 2025 Renewal Index is Published ([1 days ago](https://insurance-edge.net/2026/01/23/us-market-ivans-q4-2025-renewal-index-is-published/))
 - Skyway Underwriters Partners with ResiQuant to Accelerate AI-Driven Coastal Wind Underwriting ([1 days ago](https://www.insurtechinsights.com/skyway-underwriters-partners-with-resiquant-to-accelerate-ai-driven-coastal-wind-underwriting/))
 - US P&C industry set for lowest net combined ratio in over a decade: Triple-I/Milliman ([1 days ago](https://www.reinsurancene.ws/us-pc-industry-set-for-lowest-net-combined-ratio-in-over-a-decade-triple-i-milliman/))
 - New Exoskeleton System Said to Reduce Back and Strain Injuries by Almost Two-Thirds ([1 days ago](https://www.insurancejournal.com/news/southeast/2026/01/23/855433.htm))
