@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- GenAI: Fisent Technologies Looks Back on 2025 Progress ([7 hours ago](https://insurance-edge.net/2026/01/24/genai-fisent-technologies-looks-back-on-2025-progress/))
+- GenAI: Fisent Technologies Looks Back on 2025 Progress ([8 hours ago](https://insurance-edge.net/2026/01/24/genai-fisent-technologies-looks-back-on-2025-progress/))
 - US Market: Ivans Q4 2025 Renewal Index is Published ([1 days ago](https://insurance-edge.net/2026/01/23/us-market-ivans-q4-2025-renewal-index-is-published/))
 - Skyway Underwriters Partners with ResiQuant to Accelerate AI-Driven Coastal Wind Underwriting ([1 days ago](https://www.insurtechinsights.com/skyway-underwriters-partners-with-resiquant-to-accelerate-ai-driven-coastal-wind-underwriting/))
 - US P&C industry set for lowest net combined ratio in over a decade: Triple-I/Milliman ([1 days ago](https://www.reinsurancene.ws/us-pc-industry-set-for-lowest-net-combined-ratio-in-over-a-decade-triple-i-milliman/))
@@ -65,7 +65,7 @@ description: Insurance Updates
 - Estee Lauder Sued by Beauty Tech Startup for Alleged Theft ([1 days ago](https://www.insurancejournal.com/news/east/2026/01/23/855358.htm))
 - Tesco Law and the insurer legal services revolution that never was ([1 days ago](https://www.postonline.co.uk/claims/7959712/tesco-law-and-the-insurer-legal-services-revolution-that-never-was))
 - Penny Black’s Social Diary: Big Issue tabards; Biba gets fruity ([1 days ago](https://www.postonline.co.uk/people/7959664/penny-blacks-social-diary-big-issue-tabards-biba-gets-fruity))
-- Beazley rejects Zurich Insurance's $10.3B takeover bid ([1 days ago](https://www.dig-in.com/articles/beazley-rejects-zurich-insurances-10-3b-takeover-bid))
+- Beazley rejects Zurich Insurance's $10.3B takeover bid ([2 days ago](https://www.dig-in.com/articles/beazley-rejects-zurich-insurances-10-3b-takeover-bid))
 - AIG executive changes; InnSure's climate platform: Insurtech news ([2 days ago](https://www.dig-in.com/news/aig-executive-changes-innsure-climate-platform-insurtech))
 - Beazley rejects £7.67bn Zurich takeover tilt, says offer ‘materially undervalues’ cyber specialist ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/beazley-rejects-7-67bn-zurich-takeover-tilt-says-offer-materially-undervalues-cyber-specialist-562837.aspx))
 - Munich Re Ventures Backs Zanskar in $115 Million Series C for AI-Driven Geothermal Expansion ([2 days ago](https://www.insurtechinsights.com/munich-re-ventures-backs-zanskar-in-115-million-series-c-for-ai-driven-geothermal-expansion/))
