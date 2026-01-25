@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- 1Password adds pop-up warnings for suspected phishing sites ([5 hours ago](https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/))
+- 1Password adds pop-up warnings for suspected phishing sites ([6 hours ago](https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/))
 - Emmabuntüs DE 6: A newbie-friendly Linux to help those in need ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/25/emmabuntus_6_charitable_linux/))
-- Microsoft investigates Windows 11 boot failures after January updates ([7 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-windows-11-boot-failures-after-january-updates/))
-- Disruption with repo creation ([17 hours ago](https://www.githubstatus.com/incidents/g697qcy5dsks))
+- Microsoft investigates Windows 11 boot failures after January updates ([8 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-windows-11-boot-failures-after-january-updates/))
+- Disruption with repo creation ([18 hours ago](https://www.githubstatus.com/incidents/g697qcy5dsks))
 - Microsoft releases emergency OOB update to fix Outlook freezes ([19 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/))
 - Sandworm hackers linked to failed wiper attack on Poland’s energy systems ([23 hours ago](https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/))
 - Konni hackers target blockchain engineers with AI-built malware ([1 days ago](https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/))
