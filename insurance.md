@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- GenAI: Fisent Technologies Looks Back on 2025 Progress ([19 hours ago](https://insurance-edge.net/2026/01/24/genai-fisent-technologies-looks-back-on-2025-progress/))
+- GenAI: Fisent Technologies Looks Back on 2025 Progress ([20 hours ago](https://insurance-edge.net/2026/01/24/genai-fisent-technologies-looks-back-on-2025-progress/))
 - US Market: Ivans Q4 2025 Renewal Index is Published ([1 days ago](https://insurance-edge.net/2026/01/23/us-market-ivans-q4-2025-renewal-index-is-published/))
 - Skyway Underwriters Partners with ResiQuant to Accelerate AI-Driven Coastal Wind Underwriting ([1 days ago](https://www.insurtechinsights.com/skyway-underwriters-partners-with-resiquant-to-accelerate-ai-driven-coastal-wind-underwriting/))
 - US P&C industry set for lowest net combined ratio in over a decade: Triple-I/Milliman ([1 days ago](https://www.reinsurancene.ws/us-pc-industry-set-for-lowest-net-combined-ratio-in-over-a-decade-triple-i-milliman/))
@@ -85,8 +85,8 @@ description: Insurance Updates
 - One in four UK adviser firms already discussing the Mayfield Review and recommendations with clients ([2 days ago](https://ifamagazine.com/one-in-four-uk-adviser-firms-already-discussing-the-mayfield-review-and-recommendations-with-clients/))
 - Zurich confirms Lloyd's Syndicate plans ahead of possible £7.67 billion Beazley bid ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/zurich-confirms-lloyds-syndicate-plans-ahead-of-possible-7-67-billion-beazley-bid-562755.aspx))
 - Travelers Q4 profit rises 23% on underwriting strength and investment gains ([2 days ago](https://www.insurtechinsights.com/travelers-q4-profit-rises-23-on-underwriting-strength-and-investment-gains/))
-- Helios Underwriting trims 2026 Lloyd's capacity to £467 million ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/helios-underwriting-trims-2026-lloyds-capacity-to-467-million-562754.aspx))
-- PRA outlines 2026 priorities, flags closer watch on bulk annuity market ([2 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/pra-outlines-2026-priorities-flags-closer-watch-on-bulk-annuity-market-562753.aspx))
+- Helios Underwriting trims 2026 Lloyd's capacity to £467 million ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/helios-underwriting-trims-2026-lloyds-capacity-to-467-million-562754.aspx))
+- PRA outlines 2026 priorities, flags closer watch on bulk annuity market ([3 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/pra-outlines-2026-priorities-flags-closer-watch-on-bulk-annuity-market-562753.aspx))
 - IPT receipts on track for another record as health insurance demand climbs ([3 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/ipt-receipts-on-track-for-another-record-as-health-insurance-demand-climbs-562752.aspx))
 - Beazley rejects Zurich’s latest offer ([3 days ago](https://www.postonline.co.uk/news/7959716/beazley-rejects-zurichs-latest-offer))
 - Zurich-Beazley proposal draws scrutiny from Berenberg and Moody’s ([3 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/zurichbeazley-proposal-draws-scrutiny-from-berenberg-and-moodys-562737.aspx))
@@ -120,7 +120,7 @@ description: Insurance Updates
 - Allianz backs Wrisk in strategic investment ([4 days ago](https://www.postonline.co.uk/personal/7959706/allianz-backs-wrisk-in-strategic-investment))
 - Lack of tech standards stifles premium finance competition ([4 days ago](https://www.postonline.co.uk/technology/7959524/lack-of-tech-standards-stifles-premium-finance-competition))
 - Insurance Museum kicks off £3m fundraising for EC3 ([4 days ago](https://www.postonline.co.uk/news/7959705/insurance-museum-kicks-off-ps3m-fundraising-for-ec3))
-- Scottish Widows to add protection products to iPipeline’s Advanced Underwriting platform ([4 days ago](https://ifamagazine.com/scottish-widows-to-add-protection-products-to-ipipelines-advanced-underwriting-platform/))
+- Scottish Widows to add protection products to iPipeline’s Advanced Underwriting platform ([5 days ago](https://ifamagazine.com/scottish-widows-to-add-protection-products-to-ipipelines-advanced-underwriting-platform/))
 - Nearly half of UK adults have taken 4+ weeks off work due to ill health – The Exeter ([5 days ago](https://ifamagazine.com/nearly-half-of-uk-adults-have-taken-4-weeks-off-work-due-to-ill-health-the-exeter/))
 - Big Interview: Mark Allan, Ki ([5 days ago](https://www.postonline.co.uk/technology/7959469/big-interview-mark-allan-ki))
 - Unpicking the FCA’s decision to scrap CPD requirements ([5 days ago](https://www.postonline.co.uk/regulation/7959588/unpicking-the-fcas-decision-to-scrap-cpd-requirements))
