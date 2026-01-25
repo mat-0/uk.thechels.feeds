@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- 1Password adds pop-up warnings for suspected phishing sites ([3 hours ago](https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/))
+- 1Password adds pop-up warnings for suspected phishing sites ([4 hours ago](https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/))
 - Emmabuntüs DE 6: A newbie-friendly Linux to help those in need ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/25/emmabuntus_6_charitable_linux/))
-- Microsoft investigates Windows 11 boot failures after January updates ([5 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-windows-11-boot-failures-after-january-updates/))
-- Disruption with repo creation ([15 hours ago](https://www.githubstatus.com/incidents/g697qcy5dsks))
+- Microsoft investigates Windows 11 boot failures after January updates ([6 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-windows-11-boot-failures-after-january-updates/))
+- Disruption with repo creation ([16 hours ago](https://www.githubstatus.com/incidents/g697qcy5dsks))
 - Microsoft releases emergency OOB update to fix Outlook freezes ([17 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/))
 - Sandworm hackers linked to failed wiper attack on Poland’s energy systems ([21 hours ago](https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/))
 - Konni hackers target blockchain engineers with AI-built malware ([1 days ago](https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/))
@@ -71,7 +71,7 @@ description: SecOps News
 - Crims hit the easy button for Scattered-Spider style helpdesk scams ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/22/crims_sell_voice_phishing_kits/))
 - AI conference's papers contaminated by AI hallucinations ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/22/neurips_papers_contaiminated_ai_hallucinations/))
 - Okta SSO accounts targeted in vishing-based data theft attacks ([2 days ago](https://www.bleepingcomputer.com/news/security/okta-sso-accounts-targeted-in-vishing-based-data-theft-attacks/))
-- Crims compromised energy firms' Microsoft accounts, sent 600 phishing emails ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/22/crims_compromised_energy_firms_microsoft/))
+- Crims compromised energy firms' Microsoft accounts, sent 600 phishing emails ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/22/crims_compromised_energy_firms_microsoft/))
 - Female-dominated careers among most exposed to AI disruption ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/22/female_dominated_careers_ai_disruption/))
 - New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack ([3 days ago](https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html))
 - Palantir helps Ukraine train interceptor drone brains ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/22/ukraine_interceptor_drone_palantir/))
