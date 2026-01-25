@@ -9,11 +9,11 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - 1Password adds pop-up warnings for suspected phishing sites ([4 hours ago](https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/))
-- Emmabuntüs DE 6: A newbie-friendly Linux to help those in need ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/25/emmabuntus_6_charitable_linux/))
+- Emmabuntüs DE 6: A newbie-friendly Linux to help those in need ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/25/emmabuntus_6_charitable_linux/))
 - Microsoft investigates Windows 11 boot failures after January updates ([6 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-windows-11-boot-failures-after-january-updates/))
-- Disruption with repo creation ([16 hours ago](https://www.githubstatus.com/incidents/g697qcy5dsks))
-- Microsoft releases emergency OOB update to fix Outlook freezes ([17 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/))
-- Sandworm hackers linked to failed wiper attack on Poland’s energy systems ([21 hours ago](https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/))
+- Disruption with repo creation ([17 hours ago](https://www.githubstatus.com/incidents/g697qcy5dsks))
+- Microsoft releases emergency OOB update to fix Outlook freezes ([18 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/))
+- Sandworm hackers linked to failed wiper attack on Poland’s energy systems ([22 hours ago](https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/))
 - Konni hackers target blockchain engineers with AI-built malware ([1 days ago](https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/))
 - How an experienced developer teamed up with Claude to create Elo programming language ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/24/human_ai_pair_programming_elo/))
 - Call-On-Doc allegedly had a breach affecting more than 1 million patients. They’ve yet to comment. ([1 days ago](https://databreaches.net/2026/01/24/call-on-doc-allegedly-had-a-breach-affecting-more-than-1-million-patients-theyve-yet-to-comment/?pk_campaign=feed&pk_kwd=call-on-doc-allegedly-had-a-breach-affecting-more-than-1-million-patients-theyve-yet-to-comment))

@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- How to Swerve Consular Support Abroad: Buy Travel Insurance ([5 hours ago](https://insurance-edge.net/2026/01/25/how-to-swerve-consular-support-abroad-buy-travel-insurance/))
+- How to Swerve Consular Support Abroad: Buy Travel Insurance ([6 hours ago](https://insurance-edge.net/2026/01/25/how-to-swerve-consular-support-abroad-buy-travel-insurance/))
 - GenAI: Fisent Technologies Looks Back on 2025 Progress ([1 days ago](https://insurance-edge.net/2026/01/24/genai-fisent-technologies-looks-back-on-2025-progress/))
 - US Market: Ivans Q4 2025 Renewal Index is Published ([2 days ago](https://insurance-edge.net/2026/01/23/us-market-ivans-q4-2025-renewal-index-is-published/))
 - Skyway Underwriters Partners with ResiQuant to Accelerate AI-Driven Coastal Wind Underwriting ([2 days ago](https://www.insurtechinsights.com/skyway-underwriters-partners-with-resiquant-to-accelerate-ai-driven-coastal-wind-underwriting/))
