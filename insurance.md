@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- GenAI: Fisent Technologies Looks Back on 2025 Progress ([17 hours ago](https://insurance-edge.net/2026/01/24/genai-fisent-technologies-looks-back-on-2025-progress/))
+- GenAI: Fisent Technologies Looks Back on 2025 Progress ([18 hours ago](https://insurance-edge.net/2026/01/24/genai-fisent-technologies-looks-back-on-2025-progress/))
 - US Market: Ivans Q4 2025 Renewal Index is Published ([1 days ago](https://insurance-edge.net/2026/01/23/us-market-ivans-q4-2025-renewal-index-is-published/))
 - Skyway Underwriters Partners with ResiQuant to Accelerate AI-Driven Coastal Wind Underwriting ([1 days ago](https://www.insurtechinsights.com/skyway-underwriters-partners-with-resiquant-to-accelerate-ai-driven-coastal-wind-underwriting/))
 - US P&C industry set for lowest net combined ratio in over a decade: Triple-I/Milliman ([1 days ago](https://www.reinsurancene.ws/us-pc-industry-set-for-lowest-net-combined-ratio-in-over-a-decade-triple-i-milliman/))
@@ -52,9 +52,9 @@ description: Insurance Updates
 - Insurers push ahead with AI despite skills gap ([1 days ago](https://www.insurancebusinessmag.com/uk/news/technology/insurers-push-ahead-with-ai-despite-skills-gap-562921.aspx))
 - Aviva DigiCare+ offers unlimited GP access to individual protection customers and their families ([1 days ago](https://ifamagazine.com/aviva-digicare-offers-unlimited-gp-access-to-individual-protection-customers-and-their-families/))
 - Aviva Capital Partners enters Southampton JV for former Toys ‘R’ Us site ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aviva-capital-partners-enters-southampton-jv-for-former-toys-r-us-site-562904.aspx))
-- Acrisure launches digital platform for London market access ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/acrisure-launches-digital-platform-for-london-market-access-562903.aspx))
-- Insurance moves: AXA XL, Argenta, Targa Telematics ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-axa-xl-argenta-targa-telematics-562901.aspx))
-- Underwriters weigh AI loss scenarios in new study ([1 days ago](https://www.insurancebusinessmag.com/uk/news/technology/underwriters-weigh-ai-loss-scenarios-in-new-study-562900.aspx))
+- Acrisure launches digital platform for London market access ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/acrisure-launches-digital-platform-for-london-market-access-562903.aspx))
+- Insurance moves: AXA XL, Argenta, Targa Telematics ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-axa-xl-argenta-targa-telematics-562901.aspx))
+- Underwriters weigh AI loss scenarios in new study ([2 days ago](https://www.insurancebusinessmag.com/uk/news/technology/underwriters-weigh-ai-loss-scenarios-in-new-study-562900.aspx))
 - Commercial Lines Market Overall Remains Firm, Says Ivans ([2 days ago](https://www.insurancejournal.com/news/national/2026/01/23/855335.htm))
 - AI Data Center Boom Risks Roiling Global Carmaker Supply Chains ([2 days ago](https://www.insurancejournal.com/news/national/2026/01/23/855332.htm))
 - 20,000 AI Users at Travelers Prep for Innovation 2.0; Claims Call Centers Cut ([2 days ago](https://www.insurancejournal.com/news/national/2026/01/23/855284.htm))
