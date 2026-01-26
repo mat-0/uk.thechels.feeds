@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- ChatGPT Temporary chat feature is getting a much-needed upgrade ([3 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-temporary-chat-feature-is-getting-a-much-needed-upgrade/))
-- Pwn2Own Automotive 2026 uncovers 76 zero-days, pays out more than $1M ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/25/pwn2own_automotive_2026_identifies_76_0days/))
-- 1Password adds pop-up warnings for suspected phishing sites ([13 hours ago](https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/))
-- Emmabuntüs DE 6: A newbie-friendly Linux to help those in need ([13 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/25/emmabuntus_6_charitable_linux/))
+- ChatGPT Temporary chat feature is getting a much-needed upgrade ([4 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-temporary-chat-feature-is-getting-a-much-needed-upgrade/))
+- Pwn2Own Automotive 2026 uncovers 76 zero-days, pays out more than $1M ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/25/pwn2own_automotive_2026_identifies_76_0days/))
+- 1Password adds pop-up warnings for suspected phishing sites ([14 hours ago](https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/))
+- Emmabuntüs DE 6: A newbie-friendly Linux to help those in need ([14 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/25/emmabuntus_6_charitable_linux/))
 - Microsoft investigates Windows 11 boot failures after January updates ([15 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-windows-11-boot-failures-after-january-updates/))
 - Disruption with repo creation ([1 days ago](https://www.githubstatus.com/incidents/g697qcy5dsks))
 - Microsoft releases emergency OOB update to fix Outlook freezes ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/))
