@@ -10,7 +10,7 @@ description: DotNet Updates
 <!-- news_marker starts -->
 - Prepare for Launch: Enrichment Strategies for Apache Flink ([1 hours ago](https://dotnetkicks.com/r/738968?url=https://rion.io/2026/01/27/prepare-for-launch-enrichment-strategies-for-apache-flink/))
 - Visual Studio January Update - Enhanced Editor Experience - Visual Studio Blog ([3 hours ago](https://dotnetkicks.com/r/738956?url=https://devblogs.microsoft.com/visualstudio/visual-studio-january-update-enhanced-editor-experience/))
-- Creating and consuming metrics with System.Diagnostics.Metrics APIs ([11 hours ago](https://dotnetkicks.com/r/738845?url=https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
+- Creating and consuming metrics with System.Diagnostics.Metrics APIs ([12 hours ago](https://dotnetkicks.com/r/738845?url=https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
 - Creating and consuming metrics with System.Diagnostics.Metrics APIs ([12 hours ago](https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
 - Force step up authentication in web applications ([1 days ago](https://dotnetkicks.com/r/738839?url=https://damienbod.com/2026/01/26/force-step-up-authentication-in-web-applications/))
 - Wolverine Idioms for MediatR Users ([1 days ago](https://dotnetkicks.com/r/738794?url=https://jeremydmiller.com/2026/01/26/wolverine-idioms-for-mediatr-users/))
@@ -28,7 +28,7 @@ description: DotNet Updates
 - Catching Up with Recent Wolverine Releases ([6 days ago](https://dotnetkicks.com/r/738518?url=https://jeremydmiller.com/2026/01/21/catching-up-with-recent-wolverine-releases/))
 - CoPilot Gets Us Started ([6 days ago](https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/))
 - You Can't Future-Proof Software Architecture ([6 days ago](https://dotnetkicks.com/r/738487?url=https://codeopinion.com/you-cant-future-proof-software-architecture/))
-- An AI Project ([6 days ago](https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/))
+- An AI Project ([7 days ago](https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/))
 - Easier Query Models with Marten ([7 days ago](https://dotnetkicks.com/r/738454?url=https://jeremydmiller.com/2026/01/20/easier-query-models-with-marten/))
 - Making foreach on an IEnumerable allocation-free using reflection and dynamic methods ([7 days ago](https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/))
 - Fundamentals of AI ([8 days ago](https://dotnetkicks.com/r/738416?url=https://jesseliberty.com/2026/01/19/fundamentals-of-ai/))
