@@ -8,13 +8,13 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Creating and consuming metrics with System.Diagnostics.Metrics APIs ([23 minutes ago](https://dotnetkicks.com/r/738845?url=https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
-- Creating and consuming metrics with System.Diagnostics.Metrics APIs ([44 minutes ago](https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
+- Creating and consuming metrics with System.Diagnostics.Metrics APIs ([48 minutes ago](https://dotnetkicks.com/r/738845?url=https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
+- Creating and consuming metrics with System.Diagnostics.Metrics APIs ([1 hours ago](https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
 - Force step up authentication in web applications ([14 hours ago](https://dotnetkicks.com/r/738839?url=https://damienbod.com/2026/01/26/force-step-up-authentication-in-web-applications/))
 - Wolverine Idioms for MediatR Users ([16 hours ago](https://dotnetkicks.com/r/738794?url=https://jeremydmiller.com/2026/01/26/wolverine-idioms-for-mediatr-users/))
 - Join Microsoft at NDC London 2026 - Let's Build the Future of .NET Together - .NET Blog ([16 hours ago](https://dotnetkicks.com/r/738783?url=https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/))
-- Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together ([16 hours ago](https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/))
-- How We Made Variable Inspections 87 Times Faster for Unreal Engine in Rider ([21 hours ago](https://blog.jetbrains.com/dotnet/2026/01/26/how-we-made-variable-inspections-87-times-faster-for-unreal-engine-in-rider/))
+- Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together ([17 hours ago](https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/))
+- How We Made Variable Inspections 87 Times Faster for Unreal Engine in Rider ([22 hours ago](https://blog.jetbrains.com/dotnet/2026/01/26/how-we-made-variable-inspections-87-times-faster-for-unreal-engine-in-rider/))
 - String Performance: The Fastest Way to Get a String’s Length ([2 days ago](https://dotnettips.wordpress.com/2026/01/25/string-performance-the-fastest-way-to-get-a-strings-length/))
 - HyperVideo Features ([2 days ago](https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/))
 - F# Weekly #4, 2026 - F# event / (un)conference in 2026? ([2 days ago](https://dotnetkicks.com/r/738685?url=http://sergeytihon.com/2026/01/24/f-weekly-3-2026-f-event-unconference-in-2026/))
