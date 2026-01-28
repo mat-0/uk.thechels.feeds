@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Boost Your .NET Projects with Spargine: Supercharge Your .NET Apps with NetworkHelper ([9 hours ago](https://dotnettips.wordpress.com/2026/01/28/boost-your-net-projects-with-spargine-supercharge-your-net-apps-with-networkhelper/))
-- Security Software False Positives ([10 hours ago](https://dotnetkicks.com/r/739027?url=https://textslashplain.com/2026/01/27/microsoft-defender-false-positives/))
-- Prepare for Launch: Enrichment Strategies for Apache Flink ([19 hours ago](https://dotnetkicks.com/r/738968?url=https://rion.io/2026/01/27/prepare-for-launch-enrichment-strategies-for-apache-flink/))
+- Boost Your .NET Projects with Spargine: Supercharge Your .NET Apps with NetworkHelper ([10 hours ago](https://dotnettips.wordpress.com/2026/01/28/boost-your-net-projects-with-spargine-supercharge-your-net-apps-with-networkhelper/))
+- Security Software False Positives ([11 hours ago](https://dotnetkicks.com/r/739027?url=https://textslashplain.com/2026/01/27/microsoft-defender-false-positives/))
+- Prepare for Launch: Enrichment Strategies for Apache Flink ([20 hours ago](https://dotnetkicks.com/r/738968?url=https://rion.io/2026/01/27/prepare-for-launch-enrichment-strategies-for-apache-flink/))
 - Visual Studio January Update - Enhanced Editor Experience - Visual Studio Blog ([22 hours ago](https://dotnetkicks.com/r/738956?url=https://devblogs.microsoft.com/visualstudio/visual-studio-january-update-enhanced-editor-experience/))
 - Creating and consuming metrics with System.Diagnostics.Metrics APIs ([1 days ago](https://dotnetkicks.com/r/738845?url=https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
 - Creating and consuming metrics with System.Diagnostics.Metrics APIs ([1 days ago](https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
@@ -45,7 +45,7 @@ description: DotNet Updates
 - .NET and .NET Framework January 2026 servicing releases updates ([14 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
 - The Windows File Explorer replacement, File Pilot, is awesome ([15 days ago](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
 - How to Build Android Widgets with .NET MAUI ([15 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
-- How We Synchronize .NET’s Virtual Monorepo ([15 days ago](https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/))
+- How We Synchronize .NET’s Virtual Monorepo ([16 days ago](https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/))
 - File I/O Performance: Picking the Fastest Weapon in Your Arsenal ([17 days ago](https://dotnettips.wordpress.com/2026/01/11/file-i-o-performance-picking-the-fastest-weapon-in-your-arsenal/))
 - Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider ([20 days ago](https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
 - Coding Faster with dotNetTips.com Spargine 10: January 2026 Release ([22 days ago](https://dotnettips.wordpress.com/2026/01/06/coding-faster-with-dotnettips-com-spargine-10-january-2026-release/))
