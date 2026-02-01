@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- 3 in 5 Brits now use AI for self-diagnosis in health ([47 minutes ago](https://ifamagazine.com/3-in-5-brits-now-use-ai-for-self-diagnosis-in-health/))
+- 3 in 5 Brits now use AI for self-diagnosis in health ([1 hours ago](https://ifamagazine.com/3-in-5-brits-now-use-ai-for-self-diagnosis-in-health/))
 - Events: Insurtech Brasil May 2026 ([1 days ago](https://insurance-edge.net/2026/01/31/events-insurtech-brasil-may-2026/))
 - Latest Financials From Jera Shows Revenues Decreasing ([1 days ago](https://insurance-edge.net/2026/01/30/latest-financials-from-jera-shows-revenues-decreasing/))
 - Insurance platform Ethos, backers raise $200M in US IPO ([1 days ago](https://www.dig-in.com/articles/insurance-platform-ethos-backers-raise-200m-in-us-ipo))
@@ -34,7 +34,7 @@ description: Insurance Updates
 - MSIG USA Appoints Ron Morrison as Chief Claims Officer ([1 days ago](https://www.insurtechinsights.com/msig-usa-appoints-ron-morrison-as-chief-claims-officer/))
 - Tysers appoints Marlena Truszczynska as Head of Shipping Claims ([1 days ago](https://www.reinsurancene.ws/tysers-appoints-marlena-truszczynska-as-head-of-shipping-claims/))
 - Worries Deepened in South After Days of Snow, Ice and Power Outages ([1 days ago](https://www.insurancejournal.com/news/southeast/2026/01/30/856309.htm))
-- SCOR partners with MGA Baobab Insurance to strengthen cyber capabilities ([1 days ago](https://www.reinsurancene.ws/scor-partners-with-mga-baobab-insurance-to-strengthen-cyber-capabilities/))
+- SCOR partners with MGA Baobab Insurance to strengthen cyber capabilities ([2 days ago](https://www.reinsurancene.ws/scor-partners-with-mga-baobab-insurance-to-strengthen-cyber-capabilities/))
 - Empathy Teams Up With Transamerica on Digital Legacy ([2 days ago](https://insurance-edge.net/2026/01/30/empathy-teams-up-with-transamerica-on-digital-legacy/))
 - Markets/Coverages: Brit Announces Renewal of $200M Cyber Consortium ([2 days ago](https://www.insurancejournal.com/news/international/2026/01/30/856301.htm))
 - Gallagher Re sees 32% drop in cyber aggregate XOL rates amid oversupply ([2 days ago](https://www.reinsurancene.ws/gallagher-re-sees-32-drop-in-cyber-aggregate-xol-rates-amid-oversupply/))
@@ -79,7 +79,7 @@ description: Insurance Updates
 - Closing the protection gap: Beagle Street responds to FCA Review ([2 days ago](https://ifamagazine.com/closing-the-protection-gap-beagle-street-responds-to-fca-review/))
 - Sixfold Raises $30 Million Series B to Build AI Underwriter ([2 days ago](https://www.insurtechinsights.com/sixfold-raises-30-million-series-b-to-build-ai-underwriter/))
 - SiriusPoint Appoints John Sakakeeny as Chief Underwriting Officer for North America P&C ([2 days ago](https://www.insurtechinsights.com/siriuspoint-appoints-john-sakakeeny-as-chief-underwriting-officer-for-north-america-pc/))
-- Marsh ends 2025 on strong footing as revenue climbs 10% ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/marsh-ends-2025-on-strong-footing-as-revenue-climbs-10-563604.aspx))
+- Marsh ends 2025 on strong footing as revenue climbs 10% ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/marsh-ends-2025-on-strong-footing-as-revenue-climbs-10-563604.aspx))
 - Industry experts respond to FCA’s protection gap consultation ([3 days ago](https://ifamagazine.com/industry-experts-respond-to-fcas-protection-gap-consultation/))
 - Storm Chandra tests insurers’ approach to pricing, underwriting and weather volatility ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/storm-chandra-tests-insurers-approach-to-pricing-underwriting-and-weather-volatility-563578.aspx))
 - How SME boards are redefining risk priorities – and what brokers must do about it ([3 days ago](https://www.insurancebusinessmag.com/uk/news/professional-liability/how-sme-boards-are-redefining-risk-priorities--and-what-brokers-must-do-about-it-563577.aspx))
