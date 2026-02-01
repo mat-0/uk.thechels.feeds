@@ -8,6 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
+- 3 in 5 Brits now use AI for self-diagnosis in health ([21 minutes ago](https://ifamagazine.com/3-in-5-brits-now-use-ai-for-self-diagnosis-in-health/))
 - Events: Insurtech Brasil May 2026 ([1 days ago](https://insurance-edge.net/2026/01/31/events-insurtech-brasil-may-2026/))
 - Latest Financials From Jera Shows Revenues Decreasing ([1 days ago](https://insurance-edge.net/2026/01/30/latest-financials-from-jera-shows-revenues-decreasing/))
 - Insurance platform Ethos, backers raise $200M in US IPO ([1 days ago](https://www.dig-in.com/articles/insurance-platform-ethos-backers-raise-200m-in-us-ipo))
@@ -35,8 +36,8 @@ description: Insurance Updates
 - Worries Deepened in South After Days of Snow, Ice and Power Outages ([1 days ago](https://www.insurancejournal.com/news/southeast/2026/01/30/856309.htm))
 - SCOR partners with MGA Baobab Insurance to strengthen cyber capabilities ([1 days ago](https://www.reinsurancene.ws/scor-partners-with-mga-baobab-insurance-to-strengthen-cyber-capabilities/))
 - Empathy Teams Up With Transamerica on Digital Legacy ([1 days ago](https://insurance-edge.net/2026/01/30/empathy-teams-up-with-transamerica-on-digital-legacy/))
-- Markets/Coverages: Brit Announces Renewal of $200M Cyber Consortium ([1 days ago](https://www.insurancejournal.com/news/international/2026/01/30/856301.htm))
-- Gallagher Re sees 32% drop in cyber aggregate XOL rates amid oversupply ([1 days ago](https://www.reinsurancene.ws/gallagher-re-sees-32-drop-in-cyber-aggregate-xol-rates-amid-oversupply/))
+- Markets/Coverages: Brit Announces Renewal of $200M Cyber Consortium ([2 days ago](https://www.insurancejournal.com/news/international/2026/01/30/856301.htm))
+- Gallagher Re sees 32% drop in cyber aggregate XOL rates amid oversupply ([2 days ago](https://www.reinsurancene.ws/gallagher-re-sees-32-drop-in-cyber-aggregate-xol-rates-amid-oversupply/))
 - North American Risk Professionals See Average 11% Salary Increase ([2 days ago](https://www.insurancejournal.com/news/national/2026/01/30/856227.htm))
 - Aon’s Reinsurance Solutions posts 8% organic revenue growth for Q4’25 ([2 days ago](https://www.reinsurancene.ws/aons-reinsurance-solutions-posts-8-organic-revenue-growth-for-q425/))
 - Data centres represent ‘the single biggest new business opportunity in 2026’: Marsh execs ([2 days ago](https://www.reinsurancene.ws/data-centres-present-the-single-biggest-new-business-opportunity-in-2026-marsh-execs/))
@@ -102,7 +103,7 @@ description: Insurance Updates
 - California regulator disputes presidential order on wildfire recovery ([3 days ago](https://www.dig-in.com/news/california-regulator-disputes-trump-wildfire-recovery-order))
 - Travel insurance emerges as new voluntary benefit add-on ([3 days ago](https://www.dig-in.com/news/travel-insurance-can-be-a-competitive-employee-benefit))
 - Trump orders federal takeover of LA wildfire rebuilding efforts ([3 days ago](https://www.dig-in.com/articles/trump-orders-federal-takeover-of-la-wildfire-rebuilding-efforts))
-- WTW completes $1.3bn acquisition of Newfront to boost US middle market capabilities ([3 days ago](https://www.insurtechinsights.com/wtw-completes-1-3bn-acquisition-of-newfront-to-boost-us-middle-market-capabilities/))
+- WTW completes $1.3bn acquisition of Newfront to boost US middle market capabilities ([4 days ago](https://www.insurtechinsights.com/wtw-completes-1-3bn-acquisition-of-newfront-to-boost-us-middle-market-capabilities/))
 - Brits expect insurers to raise financial abuse awareness ([4 days ago](https://www.postonline.co.uk/personal/7959739/brits-expect-insurers-to-raise-financial-abuse-awareness))
 - Insurance jobs needing AI skills surge 70% in a year ([4 days ago](https://www.postonline.co.uk/technology/7959717/insurance-jobs-needing-ai-skills-surge-70-in-a-year))
 - Almost half of young adults rarely or never put money aside in case they are unable to work ([4 days ago](https://ifamagazine.com/almost-half-of-young-adults-rarely-or-never-put-money-aside-in-case-they-are-unable-to-work/))
@@ -128,7 +129,6 @@ description: Insurance Updates
 - Blog: Claims standards are tightening, but rebuild costs are the real stress test ([6 days ago](https://www.postonline.co.uk/claims/7959675/blog-claims-standards-are-tightening-but-rebuild-costs-are-the-real-stress-test))
 - Diary of an Insurer: Policy Expert’s Linda Crichton ([6 days ago](https://www.postonline.co.uk/personal/7959415/diary-of-an-insurer-policy-experts-linda-crichton))
 - Aviva DigiCare+ offers unlimited GP access to individual protection customers and their families ([9 days ago](https://ifamagazine.com/aviva-digicare-offers-unlimited-gp-access-to-individual-protection-customers-and-their-families/))
-- Homebuyers prioritise décor over protection, leaving them exposed, Vitality research reveals ([9 days ago](https://ifamagazine.com/homebuyers-prioritise-decor-over-protection-leaving-them-exposed-vitality-research-reveals/))
 - Finalists Revealed for Inaugural Challenge Lab at ITC London 2026 ([11 days ago](https://thefintechtimes.com/finalists-revealed-for-inaugural-challenge-lab-at-itc-london-2026/))
 
 <!-- news_marker ends -->
