@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Events: Insurtech Brasil May 2026 ([16 hours ago](https://insurance-edge.net/2026/01/31/events-insurtech-brasil-may-2026/))
+- Events: Insurtech Brasil May 2026 ([18 hours ago](https://insurance-edge.net/2026/01/31/events-insurtech-brasil-may-2026/))
 - Latest Financials From Jera Shows Revenues Decreasing ([1 days ago](https://insurance-edge.net/2026/01/30/latest-financials-from-jera-shows-revenues-decreasing/))
 - Insurance platform Ethos, backers raise $200M in US IPO ([1 days ago](https://www.dig-in.com/articles/insurance-platform-ethos-backers-raise-200m-in-us-ipo))
 - California Accelerates Work on EV Rules, Tax Credits That Trump Opposes ([1 days ago](https://www.insurancejournal.com/news/west/2026/01/30/856363.htm))
@@ -69,9 +69,9 @@ description: Insurance Updates
 - Are insurers' fair value data demands unfair to brokers? ([1 days ago](https://www.postonline.co.uk/regulation/7959742/are-insurers-fair-value-data-demands-unfair-to-brokers))
 - WTW flags higher natural catastrophe 'risk floor' amid lower insured losses in 2025 ([1 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/wtw-flags-higher-natural-catastrophe-risk-floor-amid-lower-insured-losses-in-2025-563706.aspx))
 - ABI overhauls governance structure ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/abi-overhauls-governance-structure-563675.aspx))
-- Aviva revamps its mid-market motor trade and property owners products ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aviva-revamps-its-midmarket-motor-trade-and-property-owners-products-563676.aspx))
-- Insurance moves: Acrisure Nottingham, First Underwriting and Dale Underwriting ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-acrisure-nottingham-first-underwriting-and-dale-underwriting-563681.aspx))
-- Big names shine in 2026 claims and underwriting service rankings in Gracechurch survey ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/big-names-shine-in-2026-claims-and-underwriting-service-rankings-in-gracechurch-survey-563683.aspx))
+- Aviva revamps its mid-market motor trade and property owners products ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aviva-revamps-its-midmarket-motor-trade-and-property-owners-products-563676.aspx))
+- Insurance moves: Acrisure Nottingham, First Underwriting and Dale Underwriting ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-acrisure-nottingham-first-underwriting-and-dale-underwriting-563681.aspx))
+- Big names shine in 2026 claims and underwriting service rankings in Gracechurch survey ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/big-names-shine-in-2026-claims-and-underwriting-service-rankings-in-gracechurch-survey-563683.aspx))
 - Smart claims and the evolution of FWA detection in health insurance ([2 days ago](https://www.dig-in.com/opinion/the-evolution-of-fwa-detection-in-health-insurance))
 - Meet the insurtech: Previsico ([2 days ago](https://www.dig-in.com/news/meet-the-insurtech-previsico))
 - Plum Partners with Qover to Embed Travel Protection in Subscription Offering ([2 days ago](https://www.insurtechinsights.com/plum-partners-with-qover-to-embed-travel-protection-in-subscription-offering/))
