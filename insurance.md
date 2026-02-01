@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Events: Insurtech Brasil May 2026 ([18 hours ago](https://insurance-edge.net/2026/01/31/events-insurtech-brasil-may-2026/))
+- Events: Insurtech Brasil May 2026 ([19 hours ago](https://insurance-edge.net/2026/01/31/events-insurtech-brasil-may-2026/))
 - Latest Financials From Jera Shows Revenues Decreasing ([1 days ago](https://insurance-edge.net/2026/01/30/latest-financials-from-jera-shows-revenues-decreasing/))
 - Insurance platform Ethos, backers raise $200M in US IPO ([1 days ago](https://www.dig-in.com/articles/insurance-platform-ethos-backers-raise-200m-in-us-ipo))
 - California Accelerates Work on EV Rules, Tax Credits That Trump Opposes ([1 days ago](https://www.insurancejournal.com/news/west/2026/01/30/856363.htm))
@@ -68,7 +68,7 @@ description: Insurance Updates
 - Penny Black’s Social Diary: Allianz’s toys; Biba’s flatbread ([1 days ago](https://www.postonline.co.uk/people/7959689/penny-blacks-social-diary-allianzs-toys-bibas-flatbread))
 - Are insurers' fair value data demands unfair to brokers? ([1 days ago](https://www.postonline.co.uk/regulation/7959742/are-insurers-fair-value-data-demands-unfair-to-brokers))
 - WTW flags higher natural catastrophe 'risk floor' amid lower insured losses in 2025 ([1 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/wtw-flags-higher-natural-catastrophe-risk-floor-amid-lower-insured-losses-in-2025-563706.aspx))
-- ABI overhauls governance structure ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/abi-overhauls-governance-structure-563675.aspx))
+- ABI overhauls governance structure ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/abi-overhauls-governance-structure-563675.aspx))
 - Aviva revamps its mid-market motor trade and property owners products ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aviva-revamps-its-midmarket-motor-trade-and-property-owners-products-563676.aspx))
 - Insurance moves: Acrisure Nottingham, First Underwriting and Dale Underwriting ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-acrisure-nottingham-first-underwriting-and-dale-underwriting-563681.aspx))
 - Big names shine in 2026 claims and underwriting service rankings in Gracechurch survey ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/big-names-shine-in-2026-claims-and-underwriting-service-rankings-in-gracechurch-survey-563683.aspx))
@@ -97,8 +97,8 @@ description: Insurance Updates
 - Q&A: Sharon Bishop, PremFina ([2 days ago](https://www.postonline.co.uk/personal/7959665/qa-sharon-bishop-premfina))
 - Willis launches new eight-point framework to target systemic risk ([2 days ago](https://www.insurancebusinessmag.com/uk/news/technology/willis-launches-new-eightpoint-framework-to-target-systemic-risk-563544.aspx))
 - Tokio Marine HCC flags 2025's biggest cyber losses ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/tokio-marine-hcc-flags-2025s-biggest-cyber-losses-563541.aspx))
-- Clear Group swoops for Gauntlet AR Network ([2 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/clear-group-swoops-for-gauntlet-ar-network-563512.aspx))
-- Managing General Agents' Association unveils 2026 priorities ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/managing-general-agents-association-unveils-2026-priorities-563511.aspx))
+- Clear Group swoops for Gauntlet AR Network ([3 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/clear-group-swoops-for-gauntlet-ar-network-563512.aspx))
+- Managing General Agents' Association unveils 2026 priorities ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/managing-general-agents-association-unveils-2026-priorities-563511.aspx))
 - California regulator disputes presidential order on wildfire recovery ([3 days ago](https://www.dig-in.com/news/california-regulator-disputes-trump-wildfire-recovery-order))
 - Travel insurance emerges as new voluntary benefit add-on ([3 days ago](https://www.dig-in.com/news/travel-insurance-can-be-a-competitive-employee-benefit))
 - Trump orders federal takeover of LA wildfire rebuilding efforts ([3 days ago](https://www.dig-in.com/articles/trump-orders-federal-takeover-of-la-wildfire-rebuilding-efforts))
