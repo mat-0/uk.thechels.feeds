@@ -8,6 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
+- AI sees all — and now, agencies do too ([9 minutes ago](https://www.dig-in.com/opinion/ai-sees-all-and-now-agencies-do-too))
 - 3 in 5 Brits now use AI for self-diagnosis in health ([7 hours ago](https://ifamagazine.com/3-in-5-brits-now-use-ai-for-self-diagnosis-in-health/))
 - Events: Insurtech Brasil May 2026 ([1 days ago](https://insurance-edge.net/2026/01/31/events-insurtech-brasil-may-2026/))
 - Latest Financials From Jera Shows Revenues Decreasing ([1 days ago](https://insurance-edge.net/2026/01/30/latest-financials-from-jera-shows-revenues-decreasing/))
@@ -73,8 +74,8 @@ description: Insurance Updates
 - Aviva revamps its mid-market motor trade and property owners products ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aviva-revamps-its-midmarket-motor-trade-and-property-owners-products-563676.aspx))
 - Insurance moves: Acrisure Nottingham, First Underwriting and Dale Underwriting ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-acrisure-nottingham-first-underwriting-and-dale-underwriting-563681.aspx))
 - Big names shine in 2026 claims and underwriting service rankings in Gracechurch survey ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/big-names-shine-in-2026-claims-and-underwriting-service-rankings-in-gracechurch-survey-563683.aspx))
-- Smart claims and the evolution of FWA detection in health insurance ([2 days ago](https://www.dig-in.com/opinion/the-evolution-of-fwa-detection-in-health-insurance))
-- Meet the insurtech: Previsico ([2 days ago](https://www.dig-in.com/news/meet-the-insurtech-previsico))
+- Smart claims and the evolution of FWA detection in health insurance ([3 days ago](https://www.dig-in.com/opinion/the-evolution-of-fwa-detection-in-health-insurance))
+- Meet the insurtech: Previsico ([3 days ago](https://www.dig-in.com/news/meet-the-insurtech-previsico))
 - Plum Partners with Qover to Embed Travel Protection in Subscription Offering ([3 days ago](https://www.insurtechinsights.com/plum-partners-with-qover-to-embed-travel-protection-in-subscription-offering/))
 - Closing the protection gap: Beagle Street responds to FCA Review ([3 days ago](https://ifamagazine.com/closing-the-protection-gap-beagle-street-responds-to-fca-review/))
 - Sixfold Raises $30 Million Series B to Build AI Underwriter ([3 days ago](https://www.insurtechinsights.com/sixfold-raises-30-million-series-b-to-build-ai-underwriter/))
@@ -114,7 +115,6 @@ description: Insurance Updates
 - Why homeowners insurance rates could stabilize in 2026 ([4 days ago](https://www.dig-in.com/news/why-homeowners-insurance-rates-could-stabilize-in-2026))
 - Will Nevada wildfire coverage exclusion make insurance unaffordable? ([4 days ago](https://www.dig-in.com/news/will-nevada-wildfire-exclusion-make-insurance-unaffordable))
 - Why power outages do more economic damage than we think ([5 days ago](https://www.dig-in.com/articles/why-power-outages-do-more-economic-damage-than-we-think))
-- Bond insurance grows slightly in 2025 ([5 days ago](https://www.dig-in.com/news/bond-insurance-grows-slightly-in-2025))
 - Lickens appointed Konsileo chair ([5 days ago](https://www.postonline.co.uk/news/7959736/lickens-appointed-konsileo-chair))
 - FCA confirms AI review led by Mills ([5 days ago](https://www.postonline.co.uk/news/7959735/fca-confirms-ai-review-led-by-mills))
 - FCA rejects calls for further Covid BI interventions ([5 days ago](https://www.postonline.co.uk/regulation/7959734/fca-rejects-calls-for-further-covid-bi-interventions))
