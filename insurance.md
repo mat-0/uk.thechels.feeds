@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- 3 in 5 Brits now use AI for self-diagnosis in health ([1 hours ago](https://ifamagazine.com/3-in-5-brits-now-use-ai-for-self-diagnosis-in-health/))
+- 3 in 5 Brits now use AI for self-diagnosis in health ([2 hours ago](https://ifamagazine.com/3-in-5-brits-now-use-ai-for-self-diagnosis-in-health/))
 - Events: Insurtech Brasil May 2026 ([1 days ago](https://insurance-edge.net/2026/01/31/events-insurtech-brasil-may-2026/))
 - Latest Financials From Jera Shows Revenues Decreasing ([1 days ago](https://insurance-edge.net/2026/01/30/latest-financials-from-jera-shows-revenues-decreasing/))
 - Insurance platform Ethos, backers raise $200M in US IPO ([1 days ago](https://www.dig-in.com/articles/insurance-platform-ethos-backers-raise-200m-in-us-ipo))
@@ -30,8 +30,8 @@ description: Insurance Updates
 - Aon designed & placed world’s first data centre reinsurance treaty, says CEO Case ([1 days ago](https://www.reinsurancene.ws/aon-designed-placed-worlds-first-data-centre-reinsurance-treaty-says-ceo-case/))
 - Florida Committees Approve MGA, Litigation Funding Restriction Bills ([1 days ago](https://www.insurancejournal.com/news/southeast/2026/01/30/856316.htm))
 - E&S Premium Growth Moderates Through Nine Months of 2025 ([1 days ago](https://www.insurancejournal.com/news/national/2026/01/30/856314.htm))
-- Private credit’s growth is accelerating M&A convergence and redefining deal strategies: PwC ([1 days ago](https://www.reinsurancene.ws/private-credits-growth-is-accelerating-ma-convergence-and-redefining-deal-strategies-pwc/))
-- MSIG USA Appoints Ron Morrison as Chief Claims Officer ([1 days ago](https://www.insurtechinsights.com/msig-usa-appoints-ron-morrison-as-chief-claims-officer/))
+- Private credit’s growth is accelerating M&A convergence and redefining deal strategies: PwC ([2 days ago](https://www.reinsurancene.ws/private-credits-growth-is-accelerating-ma-convergence-and-redefining-deal-strategies-pwc/))
+- MSIG USA Appoints Ron Morrison as Chief Claims Officer ([2 days ago](https://www.insurtechinsights.com/msig-usa-appoints-ron-morrison-as-chief-claims-officer/))
 - Tysers appoints Marlena Truszczynska as Head of Shipping Claims ([2 days ago](https://www.reinsurancene.ws/tysers-appoints-marlena-truszczynska-as-head-of-shipping-claims/))
 - Worries Deepened in South After Days of Snow, Ice and Power Outages ([2 days ago](https://www.insurancejournal.com/news/southeast/2026/01/30/856309.htm))
 - SCOR partners with MGA Baobab Insurance to strengthen cyber capabilities ([2 days ago](https://www.reinsurancene.ws/scor-partners-with-mga-baobab-insurance-to-strengthen-cyber-capabilities/))
@@ -123,7 +123,7 @@ description: Insurance Updates
 - More flexibility for advisers as CIExpert adds Guardian to children’s CI Customiser Tool ([5 days ago](https://ifamagazine.com/more-flexibility-for-advisers-as-ciexpert-adds-guardian-to-childrens-ci-customiser-tool/))
 - Big Interview: Andrew Leal, Waggel ([5 days ago](https://www.postonline.co.uk/personal/7959512/big-interview-andrew-leal-waggel))
 - What does 2026 have in store for claims professionals? ([5 days ago](https://www.postonline.co.uk/claims/7959662/what-does-2026-have-in-store-for-claims-professionals))
-- Turk outlines how Lloyd’s can grow in ‘knife edge’ market ([5 days ago](https://www.postonline.co.uk/lloydslondon/7959729/turk-outlines-how-lloyds-can-grow-in-knife-edge-market))
+- Turk outlines how Lloyd’s can grow in ‘knife edge’ market ([6 days ago](https://www.postonline.co.uk/lloydslondon/7959729/turk-outlines-how-lloyds-can-grow-in-knife-edge-market))
 - UK insurance boards slash gender pay gap to 3% ([6 days ago](https://www.postonline.co.uk/people/7959728/uk-insurance-boards-slash-gender-pay-gap-to-3))
 - Perils gives final estimate for Storm Éowyn ([6 days ago](https://www.postonline.co.uk/news/7959726/perils-gives-final-estimate-for-storm-eowyn))
 - Blog: Claims standards are tightening, but rebuild costs are the real stress test ([6 days ago](https://www.postonline.co.uk/claims/7959675/blog-claims-standards-are-tightening-but-rebuild-costs-are-the-real-stress-test))
