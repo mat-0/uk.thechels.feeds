@@ -8,12 +8,12 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Search Suspended for 7 People on Fishing Vessel That Sank Off Massachusetts ([5 hours ago](https://www.insurancejournal.com/news/east/2026/02/01/856416.htm))
-- 77% of insurance execs say workforce constrains AI; 86% plan to embed AI agents in teams ([7 hours ago](https://www.dig-in.com/news/77-of-insurance-execs-say-workforce-constrains-ai))
-- AI sees all — and now, agencies do too ([8 hours ago](https://www.dig-in.com/opinion/ai-sees-all-and-now-agencies-do-too))
-- Lockton formalises global transaction liability platform ([9 hours ago](https://www.insurancebusinessmag.com/uk/news/cyber/lockton-formalises-global-transaction-liability-platform-563834.aspx))
-- Howden creates Midlands health and care hub with ABT move ([9 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/howden-creates-midlands-health-and-care-hub-with-abt-move-563833.aspx))
-- Europcar Mobility and vMobility launches vHire ([9 hours ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/europcar-mobility-and-vmobility-launches-vhire-563832.aspx))
+- Search Suspended for 7 People on Fishing Vessel That Sank Off Massachusetts ([6 hours ago](https://www.insurancejournal.com/news/east/2026/02/01/856416.htm))
+- 77% of insurance execs say workforce constrains AI; 86% plan to embed AI agents in teams ([8 hours ago](https://www.dig-in.com/news/77-of-insurance-execs-say-workforce-constrains-ai))
+- AI sees all — and now, agencies do too ([9 hours ago](https://www.dig-in.com/opinion/ai-sees-all-and-now-agencies-do-too))
+- Lockton formalises global transaction liability platform ([10 hours ago](https://www.insurancebusinessmag.com/uk/news/cyber/lockton-formalises-global-transaction-liability-platform-563834.aspx))
+- Howden creates Midlands health and care hub with ABT move ([10 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/howden-creates-midlands-health-and-care-hub-with-abt-move-563833.aspx))
+- Europcar Mobility and vMobility launches vHire ([10 hours ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/europcar-mobility-and-vmobility-launches-vhire-563832.aspx))
 - L&G becomes member of ABI ([10 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/landg-becomes-member-of-abi-563831.aspx))
 - 3 in 5 Brits now use AI for self-diagnosis in health ([16 hours ago](https://ifamagazine.com/3-in-5-brits-now-use-ai-for-self-diagnosis-in-health/))
 - Events: Insurtech Brasil May 2026 ([1 days ago](https://insurance-edge.net/2026/01/31/events-insurtech-brasil-may-2026/))

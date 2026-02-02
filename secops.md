@@ -8,11 +8,11 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm ([5 minutes ago](https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html))
-- Open-source AI is a global security nightmare waiting to happen, say researchers ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/02/01/opensource_ai_is_a_global/))
-- Exposed MongoDB instances still targeted in data extortion attacks ([12 hours ago](https://www.bleepingcomputer.com/news/security/exposed-mongodb-instances-still-targeted-in-data-extortion-attacks/))
-- New Apple privacy feature limits location tracking on iPhones, iPads ([13 hours ago](https://www.bleepingcomputer.com/news/apple/new-apple-privacy-feature-limits-location-tracking-on-iphones-ipads/))
-- AI security startup CEO posts a job. Deepfake candidate applies, inner turmoil ensues. ([14 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/02/01/ai_security_startup_ceo_posts/))
+- Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm ([49 minutes ago](https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html))
+- Open-source AI is a global security nightmare waiting to happen, say researchers ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/02/01/opensource_ai_is_a_global/))
+- Exposed MongoDB instances still targeted in data extortion attacks ([13 hours ago](https://www.bleepingcomputer.com/news/security/exposed-mongodb-instances-still-targeted-in-data-extortion-attacks/))
+- New Apple privacy feature limits location tracking on iPhones, iPads ([14 hours ago](https://www.bleepingcomputer.com/news/apple/new-apple-privacy-feature-limits-location-tracking-on-iphones-ipads/))
+- AI security startup CEO posts a job. Deepfake candidate applies, inner turmoil ensues. ([15 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/02/01/ai_security_startup_ceo_posts/))
 - OpenAI says you can trust ChatGPT answers, as it kicks off ads rollout preparation ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-you-can-trust-chatgpt-answers-as-it-kicks-off-ads-rollout-preparation/))
 - OpenAI is retiring famous GPT-4o model, says GPT 5.2 is good enough ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-retiring-famous-gpt-4o-model-says-gpt-52-is-good-enough/))
 - RINA Accountants & Advisors is creating $400K settlement fund to settle lawsuit over 2022 data breach ([1 days ago](https://databreaches.net/2026/01/31/rina-accountants-advisors-is-creating-400k-settlement-fund-to-settle-lawsuit-over-2022-data-breach/?pk_campaign=feed&pk_kwd=rina-accountants-advisors-is-creating-400k-settlement-fund-to-settle-lawsuit-over-2022-data-breach))
