@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Maia 200: The AI accelerator built for inference - The Official Microsoft Blog ([2 minutes ago](https://dotnetkicks.com/r/739232?url=https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/))
-- Surviving the Streaming Dungeon with Kafka Queues ([3 minutes ago](https://dotnetkicks.com/r/739213?url=https://rion.io/2026/02/02/surviving-the-streaming-dungeon-with-kafka-queues/))
-- Building a Greenfield System with the Critter Stack ([13 minutes ago](https://dotnetkicks.com/r/739200?url=https://jeremydmiller.com/2026/02/02/building-a-greenfield-system-with-the-critter-stack/))
+- Maia 200: The AI accelerator built for inference - The Official Microsoft Blog ([34 minutes ago](https://dotnetkicks.com/r/739232?url=https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/))
+- Surviving the Streaming Dungeon with Kafka Queues ([34 minutes ago](https://dotnetkicks.com/r/739213?url=https://rion.io/2026/02/02/surviving-the-streaming-dungeon-with-kafka-queues/))
+- Building a Greenfield System with the Critter Stack ([44 minutes ago](https://dotnetkicks.com/r/739200?url=https://jeremydmiller.com/2026/02/02/building-a-greenfield-system-with-the-critter-stack/))
 - Use client assertions in ASP.NET Core using OpenID Connect, OAuth DPoP and OAuth PAR ([8 hours ago](https://dotnetkicks.com/r/739158?url=https://damienbod.com/2026/02/02/use-client-assertions-in-asp-net-core-using-openid-connect-oauth-dpop-and-oauth-par/))
 - Boost Your .NET Projects with Spargine: High-Performance ULIDs with the Ulid Struct ([1 days ago](https://dotnettips.wordpress.com/2026/02/01/boost-your-net-projects-with-spargine-high-performance-ulids-with-the-ulid-struct/))
 - ReSharper and Rider 2025.3.2 Updates Out Now! ([4 days ago](https://blog.jetbrains.com/dotnet/2026/01/29/resharper-and-rider-2025-3-2/))
@@ -49,7 +49,7 @@ description: DotNet Updates
 - .NET and .NET Framework January 2026 servicing releases updates ([19 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
 - The Windows File Explorer replacement, File Pilot, is awesome ([20 days ago](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
 - How to Build Android Widgets with .NET MAUI ([20 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
-- How We Synchronize .NET’s Virtual Monorepo ([20 days ago](https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/))
+- How We Synchronize .NET’s Virtual Monorepo ([21 days ago](https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/))
 - File I/O Performance: Picking the Fastest Weapon in Your Arsenal ([22 days ago](https://dotnettips.wordpress.com/2026/01/11/file-i-o-performance-picking-the-fastest-weapon-in-your-arsenal/))
 - Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider ([25 days ago](https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
 - Coding Faster with dotNetTips.com Spargine 10: January 2026 Release ([27 days ago](https://dotnettips.wordpress.com/2026/01/06/coding-faster-with-dotnettips-com-spargine-10-january-2026-release/))
