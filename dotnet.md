@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Use client assertions in ASP.NET Core using OpenID Connect, OAuth DPoP and OAuth PAR ([13 minutes ago](https://dotnetkicks.com/r/739158?url=https://damienbod.com/2026/02/02/use-client-assertions-in-asp-net-core-using-openid-connect-oauth-dpop-and-oauth-par/))
+- Use client assertions in ASP.NET Core using OpenID Connect, OAuth DPoP and OAuth PAR ([48 minutes ago](https://dotnetkicks.com/r/739158?url=https://damienbod.com/2026/02/02/use-client-assertions-in-asp-net-core-using-openid-connect-oauth-dpop-and-oauth-par/))
 - Boost Your .NET Projects with Spargine: High-Performance ULIDs with the Ulid Struct ([1 days ago](https://dotnettips.wordpress.com/2026/02/01/boost-your-net-projects-with-spargine-high-performance-ulids-with-the-ulid-struct/))
 - ReSharper and Rider 2025.3.2 Updates Out Now! ([3 days ago](https://blog.jetbrains.com/dotnet/2026/01/29/resharper-and-rider-2025-3-2/))
 - Game Dev in 2025: Excerpts From the State of Game Development Report ([3 days ago](https://blog.jetbrains.com/dotnet/2026/01/29/game-dev-in-2025-excerpts-from-the-state-of-game-development-report/))
@@ -47,7 +47,7 @@ description: DotNet Updates
 - Copilot Memories - Visual Studio Blog ([17 days ago](https://dotnetkicks.com/r/738215?url=https://devblogs.microsoft.com/visualstudio/copilot-memories/))
 - How AI Will Transform Open Source Business Models ([18 days ago](https://dotnetkicks.com/r/738148?url=https://petabridge.com/blog/ai-transforms-oss-business-models/))
 - .NET and .NET Framework January 2026 servicing releases updates ([19 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
-- The Windows File Explorer replacement, File Pilot, is awesome ([19 days ago](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
+- The Windows File Explorer replacement, File Pilot, is awesome ([20 days ago](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
 - How to Build Android Widgets with .NET MAUI ([20 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
 - How We Synchronize .NET’s Virtual Monorepo ([20 days ago](https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/))
 - File I/O Performance: Picking the Fastest Weapon in Your Arsenal ([22 days ago](https://dotnettips.wordpress.com/2026/01/11/file-i-o-performance-picking-the-fastest-weapon-in-your-arsenal/))
