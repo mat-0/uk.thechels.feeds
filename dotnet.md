@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2 ([10 hours ago](https://dotnetkicks.com/r/739302?url=https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/))
-- Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2 ([10 hours ago](https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/))
+- Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2 ([11 hours ago](https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/))
 - Linear Regression with Pseudo-Inverse Training Using JavaScript ([1 days ago](https://dotnetkicks.com/r/739299?url=https://visualstudiomagazine.com/Articles/2026/02/02/Linear-Regression-with-Pseudo-Inverse-Training-Using-JavaScript.aspx))
 - F# Weekly #5, 2026 - Leveling Up With Lattice ([1 days ago](https://dotnetkicks.com/r/739289?url=https://sergeytihon.com/2026/02/01/f-weekly-5-2026-leveling-up-with-lattice/))
 - Maia 200: The AI accelerator built for inference - The Official Microsoft Blog ([1 days ago](https://dotnetkicks.com/r/739232?url=https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/))
@@ -23,7 +23,7 @@ description: DotNet Updates
 - .NET AI Essentials – The Core Building Blocks Explained ([6 days ago](https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/))
 - Boost Your .NET Projects with Spargine: Supercharge Your .NET Apps with NetworkHelper ([6 days ago](https://dotnettips.wordpress.com/2026/01/28/boost-your-net-projects-with-spargine-supercharge-your-net-apps-with-networkhelper/))
 - Security Software False Positives ([6 days ago](https://dotnetkicks.com/r/739027?url=https://textslashplain.com/2026/01/27/microsoft-defender-false-positives/))
-- Prepare for Launch: Enrichment Strategies for Apache Flink ([6 days ago](https://dotnetkicks.com/r/738968?url=https://rion.io/2026/01/27/prepare-for-launch-enrichment-strategies-for-apache-flink/))
+- Prepare for Launch: Enrichment Strategies for Apache Flink ([7 days ago](https://dotnetkicks.com/r/738968?url=https://rion.io/2026/01/27/prepare-for-launch-enrichment-strategies-for-apache-flink/))
 - Visual Studio January Update - Enhanced Editor Experience - Visual Studio Blog ([7 days ago](https://dotnetkicks.com/r/738956?url=https://devblogs.microsoft.com/visualstudio/visual-studio-january-update-enhanced-editor-experience/))
 - Creating and consuming metrics with System.Diagnostics.Metrics APIs ([7 days ago](https://dotnetkicks.com/r/738845?url=https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
 - Creating and consuming metrics with System.Diagnostics.Metrics APIs: System.Diagnostics.Metrics APIs - Part 1 ([7 days ago](https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
