@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Roadmap for AI in Visual Studio (February) - Visual Studio Blog ([14 hours ago](https://dotnetkicks.com/r/739413?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-february/))
-- Your Idempotent Code Is Lying To You ([21 hours ago](https://dotnetkicks.com/r/739377?url=https://codeopinion.com/your-idempotent-code-is-lying-to-you/))
+- Roadmap for AI in Visual Studio (February) - Visual Studio Blog ([15 hours ago](https://dotnetkicks.com/r/739413?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-february/))
+- Your Idempotent Code Is Lying To You ([22 hours ago](https://dotnetkicks.com/r/739377?url=https://codeopinion.com/your-idempotent-code-is-lying-to-you/))
 - Winter 2026 Runs ([1 days ago](https://dotnetkicks.com/r/739374?url=https://textslashplain.com/2026/02/03/winter-2026-runs/))
 - Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2 ([2 days ago](https://dotnetkicks.com/r/739302?url=https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/))
 - Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2 ([2 days ago](https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/))
@@ -42,7 +42,7 @@ description: DotNet Updates
 - ReSharper 2026.1 Early Access Program Has Begun ([13 days ago](https://blog.jetbrains.com/dotnet/2026/01/22/resharper-2026-1-early-access-program/))
 - Rider 2026.1 Early Access Program Is Now Open! ([13 days ago](https://blog.jetbrains.com/dotnet/2026/01/22/rider-2026-1-early-access-program-start/))
 - Essential Programmer Utilities ([13 days ago](https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/))
-- Marten's Aggregation Projection Subsystem ([13 days ago](https://dotnetkicks.com/r/738612?url=https://jeremydmiller.com/2026/01/22/martens-aggregation-projection-subsystem/))
+- Marten's Aggregation Projection Subsystem ([14 days ago](https://dotnetkicks.com/r/738612?url=https://jeremydmiller.com/2026/01/22/martens-aggregation-projection-subsystem/))
 - Catching Up with Recent Wolverine Releases ([14 days ago](https://dotnetkicks.com/r/738518?url=https://jeremydmiller.com/2026/01/21/catching-up-with-recent-wolverine-releases/))
 - CoPilot Gets Us Started ([14 days ago](https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/))
 - Making foreach on an IEnumerable allocation-free using reflection and dynamic methods ([16 days ago](https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/))
