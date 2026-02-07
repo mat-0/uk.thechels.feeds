@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Latam Insurtech Sector Continues to Grow ([8 hours ago](https://insurance-edge.net/2026/02/07/latam-insurtech-sector-continues-to-grow/))
-- LA Mayor Race Shaken by Wildfire Allegations ([23 hours ago](https://www.insurancejournal.com/news/west/2026/02/06/857279.htm))
+- LA Mayor Race Shaken by Wildfire Allegations ([1 days ago](https://www.insurancejournal.com/news/west/2026/02/06/857279.htm))
 - McGowan Allied Specialty Insurance Announces Sales Territory Realignment ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/02/06/857274.htm))
 - Louisiana Agency to Pay $1.2M Refund for Illegal Overcharging on Surety Premiums ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/02/06/857269.htm))
 - Data centre risks shift as market develops: Lockton ([1 days ago](https://www.reinsurancene.ws/data-centre-risks-shift-as-market-develops-lockton/))
@@ -114,8 +114,8 @@ description: Insurance Updates
 - 2025 Climate crisis and tech stories ([3 days ago](https://www.dig-in.com/list/2025-climate-crisis-and-tech-stories))
 - Cyber insurance growing pains and catalyzing innovation ([3 days ago](https://www.dig-in.com/opinion/cyber-insurance-growing-pains-and-catalyzing-innovation))
 - Generali Deutschland Selects Clearwater Analytics to Scale Unit-Linked Fund Operations ([3 days ago](https://www.insurtechinsights.com/generali-deutschland-selects-clearwater-analytics-to-scale-unit-linked-fund-operations/))
-- Overhaul of FAIR Plan last-resort home insurance proposed ([3 days ago](https://www.dig-in.com/news/overhaul-of-fair-plan-last-resort-home-insurance-proposed))
-- Waymo Raises $16 Billion at $126 Billion Valuation ([3 days ago](https://www.insurtechinsights.com/waymo-raises-16-billion-at-126-billion-valuation/))
+- Overhaul of FAIR Plan last-resort home insurance proposed ([4 days ago](https://www.dig-in.com/news/overhaul-of-fair-plan-last-resort-home-insurance-proposed))
+- Waymo Raises $16 Billion at $126 Billion Valuation ([4 days ago](https://www.insurtechinsights.com/waymo-raises-16-billion-at-126-billion-valuation/))
 - Aviva’s Storah tackles gap between price and value ([4 days ago](https://www.postonline.co.uk/personal/7959770/avivas-storah-tackles-gap-between-price-and-value))
 - Ombudsman promises overhaul of thematic reviews ([4 days ago](https://www.postonline.co.uk/regulation/7959768/ombudsman-promises-overhaul-of-thematic-reviews))
 - FCA still sees 'room for improvement' within UK insurance ([4 days ago](https://www.postonline.co.uk/news/7959767/fca-still-sees-room-for-improvement-within-uk-insurance))
