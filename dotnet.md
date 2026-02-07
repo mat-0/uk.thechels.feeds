@@ -44,7 +44,7 @@ description: DotNet Updates
 - ReSharper 2026.1 Early Access Program Has Begun ([15 days ago](https://blog.jetbrains.com/dotnet/2026/01/22/resharper-2026-1-early-access-program/))
 - Rider 2026.1 Early Access Program Is Now Open! ([15 days ago](https://blog.jetbrains.com/dotnet/2026/01/22/rider-2026-1-early-access-program-start/))
 - Essential Programmer Utilities ([15 days ago](https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/))
-- Marten's Aggregation Projection Subsystem ([15 days ago](https://dotnetkicks.com/r/738612?url=https://jeremydmiller.com/2026/01/22/martens-aggregation-projection-subsystem/))
+- Marten's Aggregation Projection Subsystem ([16 days ago](https://dotnetkicks.com/r/738612?url=https://jeremydmiller.com/2026/01/22/martens-aggregation-projection-subsystem/))
 - Catching Up with Recent Wolverine Releases ([16 days ago](https://dotnetkicks.com/r/738518?url=https://jeremydmiller.com/2026/01/21/catching-up-with-recent-wolverine-releases/))
 - Making foreach on an IEnumerable allocation-free using reflection and dynamic methods ([18 days ago](https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/))
 - Collection Performance: High-Performance Collection Randomization in .NET ([20 days ago](https://dotnettips.wordpress.com/2026/01/18/collection-performance-high-performance-collection-randomization-in-net/))
