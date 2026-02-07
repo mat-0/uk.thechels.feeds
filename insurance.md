@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Latam Insurtech Sector Continues to Grow ([7 hours ago](https://insurance-edge.net/2026/02/07/latam-insurtech-sector-continues-to-grow/))
-- LA Mayor Race Shaken by Wildfire Allegations ([22 hours ago](https://www.insurancejournal.com/news/west/2026/02/06/857279.htm))
-- McGowan Allied Specialty Insurance Announces Sales Territory Realignment ([23 hours ago](https://www.insurancejournal.com/news/midwest/2026/02/06/857274.htm))
-- Louisiana Agency to Pay $1.2M Refund for Illegal Overcharging on Surety Premiums ([23 hours ago](https://www.insurancejournal.com/news/southcentral/2026/02/06/857269.htm))
+- Latam Insurtech Sector Continues to Grow ([8 hours ago](https://insurance-edge.net/2026/02/07/latam-insurtech-sector-continues-to-grow/))
+- LA Mayor Race Shaken by Wildfire Allegations ([23 hours ago](https://www.insurancejournal.com/news/west/2026/02/06/857279.htm))
+- McGowan Allied Specialty Insurance Announces Sales Territory Realignment ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/02/06/857274.htm))
+- Louisiana Agency to Pay $1.2M Refund for Illegal Overcharging on Surety Premiums ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/02/06/857269.htm))
 - Data centre risks shift as market develops: Lockton ([1 days ago](https://www.reinsurancene.ws/data-centre-risks-shift-as-market-develops-lockton/))
 - Allstate CEO Wilson Takes on Affordability Issue During Earnings Call ([1 days ago](https://www.insurancejournal.com/news/national/2026/02/06/857245.htm))
 - People Moves: NFP Appoints Spencer in Northeast; Lawley Promotes 3 Partners ([1 days ago](https://www.insurancejournal.com/news/east/2026/02/06/855858.htm))
@@ -94,7 +94,7 @@ description: Insurance Updates
 - The Standard's AI strides ([2 days ago](https://www.dig-in.com/news/the-standards-ai-strides))
 - AI in auto claims: The shift from novelty to necessity ([2 days ago](https://www.dig-in.com/opinion/ai-in-auto-claims-is-a-necessity))
 - Workers underprepared for retirement as guaranteed pensions decline: report ([2 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/workers-underprepared-for-retirement-as-guaranteed-pensions-decline-report-564277.aspx))
-- Aon Partners with SecurityScorecard to Enhance Cyber Risk Offerings ([2 days ago](https://www.insurtechinsights.com/aon-partners-with-securityscorecard-to-enhance-cyber-risk-offerings/))
+- Aon Partners with SecurityScorecard to Enhance Cyber Risk Offerings ([3 days ago](https://www.insurtechinsights.com/aon-partners-with-securityscorecard-to-enhance-cyber-risk-offerings/))
 - Reframe Cancer: National Cancer Plan is welcome, but delivery will be key ([3 days ago](https://ifamagazine.com/reframe-cancer-comments-on-the-national-cancer-plan-out-today/))
 - Chase UK Launches First Insurance Offering ([3 days ago](https://www.insurtechinsights.com/chase-uk-launches-first-insurance-offering/))
 - National Friendly appoints Duncan Reeves as Chief Operating Officer in newly created role ([3 days ago](https://ifamagazine.com/national-friendly-appoints-duncan-reeves-as-chief-operating-officer-in-newly-created-role/))
