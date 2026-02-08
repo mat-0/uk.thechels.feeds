@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Latam Insurtech Sector Continues to Grow ([21 hours ago](https://insurance-edge.net/2026/02/07/latam-insurtech-sector-continues-to-grow/))
+- Latam Insurtech Sector Continues to Grow ([22 hours ago](https://insurance-edge.net/2026/02/07/latam-insurtech-sector-continues-to-grow/))
 - LA Mayor Race Shaken by Wildfire Allegations ([1 days ago](https://www.insurancejournal.com/news/west/2026/02/06/857279.htm))
 - McGowan Allied Specialty Insurance Announces Sales Territory Realignment ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/02/06/857274.htm))
 - Louisiana Agency to Pay $1.2M Refund for Illegal Overcharging on Surety Premiums ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/02/06/857269.htm))
@@ -123,7 +123,7 @@ description: Insurance Updates
 - Insurers remain reticent to pay at-the-premises Covid BI claims ([4 days ago](https://www.postonline.co.uk/commercial/7959765/insurers-remain-reticent-to-pay-at-the-premises-covid-bi-claims))
 - FCA ‘not planning market-wide’ changes to premium finance ([4 days ago](https://www.postonline.co.uk/news/7959766/fca-not-planning-market-wide-changes-to-premium-finance))
 - Market must act now to avert undoing of Flood Re’s successes ([4 days ago](https://www.postonline.co.uk/personal/7959749/market-must-act-now-to-avert-undoing-of-flood-res-successes))
-- Big Interview: Craig Bundell, Tesco Insurance ([4 days ago](https://www.postonline.co.uk/personal/7959694/big-interview-craig-bundell-tesco-insurance))
+- Big Interview: Craig Bundell, Tesco Insurance ([5 days ago](https://www.postonline.co.uk/personal/7959694/big-interview-craig-bundell-tesco-insurance))
 - 60 Seconds With... Camelot Network’s David Clamp ([5 days ago](https://www.postonline.co.uk/people/7959531/60-seconds-with-camelot-networks-david-clamp))
 - How small businesses are approaching AI integration ([5 days ago](https://www.dig-in.com/opinion/how-small-businesses-are-approaching-ai-integration))
 - FCA hits Markerstudy with growth restrictions ([5 days ago](https://www.postonline.co.uk/news/7959762/fca-hits-markerstudy-with-growth-restrictions))
