@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Boost Your .NET Projects with Spargine: Global Phone Number and Postal Code Validation Made Easy ([8 hours ago](https://dotnettips.wordpress.com/2026/02/08/boost-your-net-projects-with-spargine-global-phone-number-and-postal-code-validation-made-easy/))
-- F# Weekly #6, 2026 - FScript &amp; An ode to "Slowly" handcrafted code ([17 hours ago](https://dotnetkicks.com/r/739580?url=https://sergeytihon.com/2026/02/07/f-weekly-6-2026-fscript-an-ode-to-slowly-handcrafted-code/))
+- Boost Your .NET Projects with Spargine: Global Phone Number and Postal Code Validation Made Easy ([9 hours ago](https://dotnettips.wordpress.com/2026/02/08/boost-your-net-projects-with-spargine-global-phone-number-and-postal-code-validation-made-easy/))
+- F# Weekly #6, 2026 - FScript &amp; An ode to "Slowly" handcrafted code ([18 hours ago](https://dotnetkicks.com/r/739580?url=https://sergeytihon.com/2026/02/07/f-weekly-6-2026-fscript-an-ode-to-slowly-handcrafted-code/))
 - .NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows - .NET Blog ([2 days ago](https://dotnetkicks.com/r/739519?url=https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/))
 - .NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows ([2 days ago](https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/))
 - Roadmap for AI in Visual Studio (February) - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/739413?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-february/))
@@ -24,7 +24,7 @@ description: DotNet Updates
 - Building a Greenfield System with the Critter Stack ([5 days ago](https://dotnetkicks.com/r/739200?url=https://jeremydmiller.com/2026/02/02/building-a-greenfield-system-with-the-critter-stack/))
 - Use client assertions in ASP.NET Core using OpenID Connect, OAuth DPoP and OAuth PAR ([6 days ago](https://dotnetkicks.com/r/739158?url=https://damienbod.com/2026/02/02/use-client-assertions-in-asp-net-core-using-openid-connect-oauth-dpop-and-oauth-par/))
 - Boost Your .NET Projects with Spargine: High-Performance ULIDs with the Ulid Struct ([7 days ago](https://dotnettips.wordpress.com/2026/02/01/boost-your-net-projects-with-spargine-high-performance-ulids-with-the-ulid-struct/))
-- ReSharper and Rider 2025.3.2 Updates Out Now! ([9 days ago](https://blog.jetbrains.com/dotnet/2026/01/29/resharper-and-rider-2025-3-2/))
+- ReSharper and Rider 2025.3.2 Updates Out Now! ([10 days ago](https://blog.jetbrains.com/dotnet/2026/01/29/resharper-and-rider-2025-3-2/))
 - Game Dev in 2025: Excerpts From the State of Game Development Report ([10 days ago](https://blog.jetbrains.com/dotnet/2026/01/29/game-dev-in-2025-excerpts-from-the-state-of-game-development-report/))
 - .NET AI Essentials - The Core Building Blocks Explained - .NET Blog ([10 days ago](https://dotnetkicks.com/r/739065?url=https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/))
 - .NET AI Essentials – The Core Building Blocks Explained ([10 days ago](https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/))
@@ -42,7 +42,7 @@ description: DotNet Updates
 - String Performance: The Fastest Way to Get a String’s Length ([14 days ago](https://dotnettips.wordpress.com/2026/01/25/string-performance-the-fastest-way-to-get-a-strings-length/))
 - HyperVideo Features ([14 days ago](https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/))
 - F# Weekly #4, 2026 - F# event / (un)conference in 2026? ([15 days ago](https://dotnetkicks.com/r/738685?url=http://sergeytihon.com/2026/01/24/f-weekly-3-2026-f-event-unconference-in-2026/))
-- Announcing winapp, the Windows App Development CLI ([16 days ago](https://dotnetkicks.com/r/738625?url=https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/))
+- Announcing winapp, the Windows App Development CLI ([17 days ago](https://dotnetkicks.com/r/738625?url=https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/))
 - ReSharper 2026.1 Early Access Program Has Begun ([17 days ago](https://blog.jetbrains.com/dotnet/2026/01/22/resharper-2026-1-early-access-program/))
 - Rider 2026.1 Early Access Program Is Now Open! ([17 days ago](https://blog.jetbrains.com/dotnet/2026/01/22/rider-2026-1-early-access-program-start/))
 - Essential Programmer Utilities ([17 days ago](https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/))
