@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Boost Your .NET Projects with Spargine: Global Phone Number and Postal Code Validation Made Easy ([1 hours ago](https://dotnettips.wordpress.com/2026/02/08/boost-your-net-projects-with-spargine-global-phone-number-and-postal-code-validation-made-easy/))
-- F# Weekly #6, 2026 - FScript &amp; An ode to "Slowly" handcrafted code ([10 hours ago](https://dotnetkicks.com/r/739580?url=https://sergeytihon.com/2026/02/07/f-weekly-6-2026-fscript-an-ode-to-slowly-handcrafted-code/))
+- Boost Your .NET Projects with Spargine: Global Phone Number and Postal Code Validation Made Easy ([2 hours ago](https://dotnettips.wordpress.com/2026/02/08/boost-your-net-projects-with-spargine-global-phone-number-and-postal-code-validation-made-easy/))
+- F# Weekly #6, 2026 - FScript &amp; An ode to "Slowly" handcrafted code ([11 hours ago](https://dotnetkicks.com/r/739580?url=https://sergeytihon.com/2026/02/07/f-weekly-6-2026-fscript-an-ode-to-slowly-handcrafted-code/))
 - .NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows - .NET Blog ([2 days ago](https://dotnetkicks.com/r/739519?url=https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/))
 - .NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows ([2 days ago](https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/))
 - Roadmap for AI in Visual Studio (February) - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/739413?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-february/))
@@ -50,7 +50,7 @@ description: DotNet Updates
 - Making foreach on an IEnumerable allocation-free using reflection and dynamic methods ([18 days ago](https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/))
 - Collection Performance: High-Performance Collection Randomization in .NET ([21 days ago](https://dotnettips.wordpress.com/2026/01/18/collection-performance-high-performance-collection-randomization-in-net/))
 - .NET and .NET Framework January 2026 servicing releases updates ([25 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
-- The Windows File Explorer replacement, File Pilot, is awesome ([25 days ago](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
+- The Windows File Explorer replacement, File Pilot, is awesome ([26 days ago](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
 - How to Build Android Widgets with .NET MAUI ([26 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
 - How We Synchronize .NET’s Virtual Monorepo ([26 days ago](https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/))
 - File I/O Performance: Picking the Fastest Weapon in Your Arsenal ([28 days ago](https://dotnettips.wordpress.com/2026/01/11/file-i-o-performance-picking-the-fastest-weapon-in-your-arsenal/))
