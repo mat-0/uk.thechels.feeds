@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Latam Insurtech Sector Continues to Grow ([19 hours ago](https://insurance-edge.net/2026/02/07/latam-insurtech-sector-continues-to-grow/))
+- Latam Insurtech Sector Continues to Grow ([20 hours ago](https://insurance-edge.net/2026/02/07/latam-insurtech-sector-continues-to-grow/))
 - LA Mayor Race Shaken by Wildfire Allegations ([1 days ago](https://www.insurancejournal.com/news/west/2026/02/06/857279.htm))
 - McGowan Allied Specialty Insurance Announces Sales Territory Realignment ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/02/06/857274.htm))
 - Louisiana Agency to Pay $1.2M Refund for Illegal Overcharging on Surety Premiums ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/02/06/857269.htm))
@@ -85,7 +85,7 @@ description: Insurance Updates
 - Rome wasn’t built in a day, but neither is a space elevator ([2 days ago](https://www.postonline.co.uk/commercial/7959750/rome-wasnt-built-in-a-day-but-neither-is-a-space-elevator))
 - Q&A: Tim Rayner, Verisk ([2 days ago](https://www.postonline.co.uk/technology/7959673/qa-tim-rayner-verisk))
 - Throwback Thursday: Young men hunted; CII overhaul ([2 days ago](https://www.postonline.co.uk/people/7959257/throwback-thursday-young-men-hunted-cii-overhaul))
-- Cargo insurers face rising losses as fraud reshapes global theft risk ([2 days ago](https://www.insurancebusinessmag.com/uk/news/marine/cargo-insurers-face-rising-losses-as-fraud-reshapes-global-theft-risk-564330.aspx))
+- Cargo insurers face rising losses as fraud reshapes global theft risk ([3 days ago](https://www.insurancebusinessmag.com/uk/news/marine/cargo-insurers-face-rising-losses-as-fraud-reshapes-global-theft-risk-564330.aspx))
 - Argenta and Helios Underwriting open this year's 'Starter Homes' for new Lloyd's capital ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/argenta-and-helios-underwriting-open-this-years-starter-homes-for-new-lloyds-capital-564308.aspx))
 - Report: London still leads specialty risk but faces talent and capital challenges ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/report-london-still-leads-specialty-risk-but-faces-talent-and-capital-challenges-564307.aspx))
 - Report: Pet insurance premiums fall in Q4 as vet costs soar ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/report-pet-insurance-premiums-fall-in-q4-as-vet-costs-soar-564306.aspx))
